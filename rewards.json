@@ -7,13 +7,6 @@
       "twap": 0.007359300595238095,
       "prizePool": 661718,
       "rewards": []
-    },
-    {
-      "epoch": 2,
-      "unixStart": 1707331561,
-      "twap": 0.007359300595238095,
-      "prizePool": 400000,
-      "rewards": []
     }
   ],
   "userRewards": {
