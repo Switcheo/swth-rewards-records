@@ -3,7 +3,7 @@
   "leaderboard": [
     {
       "epoch": 1,
-      "unixStart": 1707195478,
+      "unixStart": 1707811200,
       "twap": 0.007359300595238095,
       "prizePool": 661718,
       "rewards": []
