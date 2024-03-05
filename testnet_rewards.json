@@ -1,0 +1,47 @@
+{
+  "root": "0x895740c4d79ccb999db818ae26c032a0f6bfcf9590f7ecc498b63d440a4965af",
+  "leaderboard": [
+    {
+      "epoch": 1,
+      "unixStart": 1707811200,
+      "twap": 0.008532023809523809,
+      "prizePool": 112,
+      "rewards": [
+        {
+          "address": "swth1eqhexdtptfsgyz0m9efg8s8v5vcmsknx8pyczh",
+          "reward": 12,
+          "points": 6262.00988693,
+          "hexAddress": "0xB915371a8A79d273c49F3B49e203d7D408b6FA7D",
+          "volume": 4174690.95822
+        },
+        {
+          "address": "swth10ayz6ymumd7a2yevtz2rs84eycjj2zykdd8fdl",
+          "reward": 100,
+          "points": 3610.33447409,
+          "hexAddress": "0x0819d10690B4126009CF0bB0Fa87406de82A7A80",
+          "volume": 2686496.2495
+        }
+      ]
+    }
+  ],
+  "userRewards": {
+    "swth1eqhexdtptfsgyz0m9efg8s8v5vcmsknx8pyczh": {
+      "hexAddress": "0xB915371a8A79d273c49F3B49e203d7D408b6FA7D",
+      "amount": "12000000000000000000"
+    },
+    "swth10ayz6ymumd7a2yevtz2rs84eycjj2zykdd8fdl": {
+      "hexAddress": "0x0819d10690B4126009CF0bB0Fa87406de82A7A80",
+      "amount": "100000000000000000000"
+    }
+  },
+  "merkleData": [
+    [
+      "0xB915371a8A79d273c49F3B49e203d7D408b6FA7D",
+      "12000000000000000000"
+    ],
+    [
+      "0x0819d10690B4126009CF0bB0Fa87406de82A7A80",
+      "100000000000000000000"
+    ]
+  ]
+}
