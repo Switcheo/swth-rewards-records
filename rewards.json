@@ -1,5 +1,5 @@
 {
-  "root": "0x4008ad32719331fc5685cdeafdff9c9cb77013db0babf301fa45a8b0eb037522",
+  "root": "0xce8e1ad2647f41ca7140f70119a8a161452836af991facadf50fea85bc39c28c",
   "leaderboard": [
     {
       "epoch": 1,
@@ -19636,12 +19636,1504 @@
           "volume": 3.837
         }
       ]
+    },
+    {
+      "epoch": 16,
+      "unixStart": 1744099200,
+      "twap": "0.0010513",
+      "prizePool": 400000,
+      "rewards": [
+        {
+          "address": "swth1s4d8hrkfkusuyp3huj0uny4gke8ky4es9da0jx",
+          "reward": 58521,
+          "points": 450.66049254,
+          "hexAddress": "0x9C7cd9bF6aB2cD1290B884f3a49ED216Bd072fA2",
+          "volume": 2002935.5224
+        },
+        {
+          "address": "swth1w0td0wjvwuccqtjq8mhnup5gv694zw097shxh7",
+          "reward": 54095,
+          "points": 416.5764020018,
+          "hexAddress": "0xe510FC6Fc5B2E2BBCa99378f0Dcb3ADDCc311a96",
+          "volume": 999357.677
+        },
+        {
+          "address": "swth1sf9jnss449hxjpdcs3q0m0lammhaauczpfjc30",
+          "reward": 48703,
+          "points": 375.056924408,
+          "hexAddress": "0xE424B642b9740Fe0791fB3E94b23Ce28a6930292",
+          "volume": 679541.2818
+        },
+        {
+          "address": "swth19gqem04hqjx7rmmcqxrg9msrv075ehxft4xt4m",
+          "reward": 34824,
+          "points": 268.1776436523,
+          "hexAddress": "0x0C75b3836ff38D4765b3D6A2475D9C76f5E7e3fE",
+          "volume": 632671.6513
+        },
+        {
+          "address": "swth198upnclh5fjasx3ucn59z44a0wgz324z33m7qj",
+          "reward": 30773,
+          "points": 236.978227024,
+          "hexAddress": "0xEd55552891b6752810F97bC58F26c98996ef0D36",
+          "volume": 405297.1433
+        },
+        {
+          "address": "swth10ayz6ymumd7a2yevtz2rs84eycjj2zykdd8fdl",
+          "reward": 18999,
+          "points": 146.313957896,
+          "hexAddress": "0x7d001FE8D4e0fDf1f1F23b73927Db851a93Da6A5",
+          "volume": 421763.6602
+        },
+        {
+          "address": "swth1t4d2wzq57xmkm5kg44megpu3v4wcwvs8velqjv",
+          "reward": 14263,
+          "points": 109.840499518,
+          "hexAddress": "0xCc8158Ce67A87312F05a2F81917aD4BA3Ab5ce21",
+          "volume": 166408.6401
+        },
+        {
+          "address": "swth1s9wna97kv48sntzhxx5yjkvnkxvwhwy23u4nmy",
+          "reward": 12859,
+          "points": 99.0250714462,
+          "hexAddress": "0xc365357dB3212EEc84E5C173D95bD5A4D916FEE4",
+          "volume": 167589.3032
+        },
+        {
+          "address": "swth1p069rv4t3ph0v7cj6gjx4l428vmnxd24ek2d6k",
+          "reward": 9711,
+          "points": 74.78617917,
+          "hexAddress": "0x4166178b2bafc69D4bDC63f01A61060368dE977B",
+          "volume": 219959.3505
+        },
+        {
+          "address": "swth1e6pyxyzkvfsmtcg4elf7acas90j6l7zdsay8js",
+          "reward": 8530,
+          "points": 65.694341,
+          "hexAddress": "0xC283951B47cC6a00575C85b39Aa00ff247b017F5",
+          "volume": 193218.65
+        },
+        {
+          "address": "swth1374cj67lw253f6ppg3dcv8d7wduyfr0vvzvffl",
+          "reward": 8096,
+          "points": 62.349003692,
+          "hexAddress": "0x1C620FD85CC3DCc27DE236580Ee1c72dffb6cEAA",
+          "volume": 91721.9803
+        },
+        {
+          "address": "swth12yn9qnm7ugwcg74cdtu4tjc9mxwy3r5awk8pq8",
+          "reward": 7966,
+          "points": 61.349063104,
+          "hexAddress": "0x7b56d3eD269E57fF7bEBdaC95367ffC7e09B04fd",
+          "volume": 219103.7968
+        },
+        {
+          "address": "swth1p87v92qkrckcwsq2hgk2jw7acr2ylzx70k0plh",
+          "reward": 7034,
+          "points": 54.172634936,
+          "hexAddress": "0x04B8b5af39f4187142f75E920A11883848002975",
+          "volume": 96736.8481
+        },
+        {
+          "address": "swth1xjr82f3kjq9ml4xh2qkfvyjdp0cl7sm9anuwet",
+          "reward": 6486,
+          "points": 49.951245904,
+          "hexAddress": "0x420139b54dfB7Ee0ceaf80376b9E7ef97Bd691C7",
+          "volume": 149579.1034
+        },
+        {
+          "address": "swth19zcyptw37at2pht74t27nms0xpz8hdzhl86t86",
+          "reward": 6169,
+          "points": 47.5075605396,
+          "hexAddress": "0x0e563b9c062523404260c8b23297A3Eb7a618279",
+          "volume": 85008.15161
+        },
+        {
+          "address": "swth1hhswdvhmz02pmytc4xfpx2qqp5j9039whrmfwh",
+          "reward": 4600,
+          "points": 35.4252857375,
+          "hexAddress": "0x6c5A08ae28569B2d1026148a304d5d046a86341F",
+          "volume": 61580.874
+        },
+        {
+          "address": "swth1hs9mjg56yyd8qdjpl6tvszs5mmqs9g0q7mhn4j",
+          "reward": 4095,
+          "points": 31.5369629313,
+          "hexAddress": "0xd04AEd1f9589Aa76e6d422D78037844cFfD0e46A",
+          "volume": 55600.9139
+        },
+        {
+          "address": "swth1hu3g3ys07y4v6clm0z4al2e5kc7xgl529w28fk",
+          "reward": 3864,
+          "points": 29.7606232208,
+          "hexAddress": "0xaf0414D6dEF7A0d01D78c50a2ccEfcC5AEC0b051",
+          "volume": 52885.85698
+        },
+        {
+          "address": "swth1t6rjmnlkfj6zw6fz92cthcnuzh0xu48f5sflep",
+          "reward": 3493,
+          "points": 26.90083064,
+          "hexAddress": "0x94Dec968fAe3e97Dfbc7e84EA83A16c94c086e8B",
+          "volume": 42223.4152
+        },
+        {
+          "address": "swth1fv43yr6n2ehq0f3xtafuj564875g87zz2xqh9v",
+          "reward": 2458,
+          "points": 18.929302165,
+          "hexAddress": "0x0fDCF981E3a6899F15ca6A8C703fF4864765fE54",
+          "volume": 29648.8034
+        },
+        {
+          "address": "swth1hv7dj2w48fwvdqk96kkgykcnphfw3v9he7tevh",
+          "reward": 2322,
+          "points": 17.88135944,
+          "hexAddress": "0x7B0De21Cf254faFcbf3C22aD65ea2377302aAD83",
+          "volume": 31930.999
+        },
+        {
+          "address": "swth1599hatgvf76v6g3p48kh2umnh6833989y98clt",
+          "reward": 2087,
+          "points": 16.074889264,
+          "hexAddress": "0x7BF732761D8D6791F47F799A29Ce5aE9a39Fc4E3",
+          "volume": 28705.1594
+        },
+        {
+          "address": "swth1nj8w2jzks984hh4jrhr42askghlt0uy6pce50h",
+          "reward": 2066,
+          "points": 15.909881176,
+          "hexAddress": "0xC65522542Dd6b9bE9b59A7Fad9FB5B45ee7657Ef",
+          "volume": 29081.8871
+        },
+        {
+          "address": "swth1skgnf5vn9htja8tk7rya6alaty6vkt4mwun9cq",
+          "reward": 1820,
+          "points": 14.021765688,
+          "hexAddress": "0xC85C19d2513b966840F40EF31CcfE76229761DBB",
+          "volume": 25038.8673
+        },
+        {
+          "address": "swth1vzq4sthkfr5qqsf085hggzew5w2xryph08xuf7",
+          "reward": 1784,
+          "points": 13.74104118,
+          "hexAddress": "0x77DF3d6e7bD18cb299Ef0E73B8e491F7D159e28f",
+          "volume": 40414.827
+        },
+        {
+          "address": "swth1z2ftdlwpskgj9p0q0k9yzrrma0e5gmhecupqhy",
+          "reward": 1589,
+          "points": 12.238560768,
+          "hexAddress": "0x33fD06D4A90b545BF3c332438B8d9536F6bbdb42",
+          "volume": 21854.5728
+        },
+        {
+          "address": "swth1n0j6hs8z80puzsz4dahkcvy45fwa48crrva3ah",
+          "reward": 1568,
+          "points": 12.0757728,
+          "hexAddress": "0x046825BFD2ab4562E0308e48526B779Fd897d539",
+          "volume": 21563.88
+        },
+        {
+          "address": "swth1m04csr8kf5r4lk4hxgzslrmmtvelr6u2expx5g",
+          "reward": 1554,
+          "points": 11.973472976,
+          "hexAddress": "0x7a7CFa906ee447007EB1400fefBA1E2bb25a8168",
+          "volume": 23785.6029
+        },
+        {
+          "address": "swth19k8mq5xav8pqmacw7kskazzcjth2knrsvdckla",
+          "reward": 1544,
+          "points": 11.895279848,
+          "hexAddress": "0xA01C5972B1001aC249b6B81700F5619d627f372c",
+          "volume": 17493.0586
+        },
+        {
+          "address": "swth1uca5envdq6alnj93qx0ws4sjdux4t2r8mc38hg",
+          "reward": 1488,
+          "points": 11.4619681825,
+          "hexAddress": "0xcdEbBbe6300c3181761B8f207D733c50ea3eA534",
+          "volume": 26969.3369
+        },
+        {
+          "address": "swth1v0cfhuhsgq387yvq5wkh99cxawt5hp3e7k9257",
+          "reward": 1249,
+          "points": 9.6198682,
+          "hexAddress": "0x7C0AAA07372Dc762440A174527Fdc72396B5C6Dd",
+          "volume": 14146.865
+        },
+        {
+          "address": "swth1eg8t0y6d05neyj9ja42ty4csvf20ruefqqtwxj",
+          "reward": 1232,
+          "points": 9.491033292,
+          "hexAddress": "0xd5D1A15db6616cF80A174F6DCA08F9EffD8BF1Ae",
+          "volume": 13957.4019
+        },
+        {
+          "address": "swth1zvyfanwag3454az0prens2wl97z5e8rfzr3d09",
+          "reward": 1220,
+          "points": 9.400384,
+          "hexAddress": "0xe98Cb39a3E64e1b08E397215340Bb7c5bfF3aAC7",
+          "volume": 16786.4
+        },
+        {
+          "address": "swth1t4awj5ynd6kr0mfhuwwpx774ps0lngt3agk7wa",
+          "reward": 1215,
+          "points": 9.362418422,
+          "hexAddress": "0x24F221e9A2b03b4a6C7906d11C47e92692D0da17",
+          "volume": 19404.4599
+        },
+        {
+          "address": "swth1r27alljhgfa4v3vkeywkrn5yxldttlpcvrnlxq",
+          "reward": 1184,
+          "points": 9.119669496,
+          "hexAddress": "0xaabF3aC495f458F8cf2A35D79b9fBB4B4146009C",
+          "volume": 16285.1241
+        },
+        {
+          "address": "swth19y4llhpshussf5gsd6hr3gh5ltnfncs5awg5my",
+          "reward": 1165,
+          "points": 8.976857616,
+          "hexAddress": "0xC321d10ffE2E55bF4b9CE88e82A52383C48ba340",
+          "volume": 13201.2612
+        },
+        {
+          "address": "swth14h6cxd3vs8s0emkkcfrqegd5c2cysa540jdaa9",
+          "reward": 1150,
+          "points": 8.857456552,
+          "hexAddress": "0xFFf9d5D06c1536007ade5a2211e6214D8e59845A",
+          "volume": 15816.8867
+        },
+        {
+          "address": "swth1vsjf428kjmljeavrxw0yhevpwdp4q006rkfuvp",
+          "reward": 1139,
+          "points": 8.7743619714,
+          "hexAddress": "0x1078813bFE0289Fc5CEEa03d1C7095ee0d9de810",
+          "volume": 13009.5751
+        },
+        {
+          "address": "swth1taq7vts2n4vlhdp5gersy2v9mkrsxf9dkjlxxk",
+          "reward": 1074,
+          "points": 8.273973743,
+          "hexAddress": "0x4BD33dEC5816466E8D97ACCCDAA985C25fa4330c",
+          "volume": 16885.6607
+        },
+        {
+          "address": "swth1wqhfsc9k28shya6c2zm6hksrfgjzchujufqtk2",
+          "reward": 1060,
+          "points": 8.166741856,
+          "hexAddress": "0x56592cf406bE36007D911728C731a782cBF8CF00",
+          "volume": 14583.4676
+        },
+        {
+          "address": "swth130unrsd3upg5hu0w4rsf2kpmdkfrjulgy54etp",
+          "reward": 914,
+          "points": 7.0386573955,
+          "hexAddress": "0x46232CbDB0512Ca7B00B8271e285BF8447F1330b",
+          "volume": 13181.23865
+        },
+        {
+          "address": "swth1x8s3kqftdlp87s032ht2mypaqe7462mfcv33fk",
+          "reward": 893,
+          "points": 6.878311452,
+          "hexAddress": "0x6bEcd3acF82efAb1f78b95F810Cda4293CAf5d89",
+          "volume": 13486.8852
+        },
+        {
+          "address": "swth1rsvq8e0etgfsztf6wfmmk7ydh8hskqsyp6m709",
+          "reward": 726,
+          "points": 5.594521024,
+          "hexAddress": "0x6B101A4B04B6c60e1Fdd97045D55F54F74183912",
+          "volume": 8227.2368
+        },
+        {
+          "address": "swth1rt8n3fr3agdp77fy0xywsv6lw8u32j2yczzkzw",
+          "reward": 691,
+          "points": 5.322816165,
+          "hexAddress": "0x6CF9D6B5e5Fbea0DD911eAdE8A6D9203fAaAb8CF",
+          "volume": 9067.0706
+        },
+        {
+          "address": "swth1y888lk7pj6zvr57a6u0cpye544vadlx0csjfgx",
+          "reward": 677,
+          "points": 5.214514256,
+          "hexAddress": "0x07978917c2Bf8c51eEeb3668E9aA378bf609b12A",
+          "volume": 9311.6326
+        },
+        {
+          "address": "swth1d98vk9m7dzm69haqwcqkdeyuk9nwujy7286mle",
+          "reward": 669,
+          "points": 5.153075858,
+          "hexAddress": "0x79BDB4f3A553C286189a5f6279739de3806d6527",
+          "volume": 9375.517
+        },
+        {
+          "address": "swth15x56s37qd4p997xuxkrk674jnk38lh8qwe4f65",
+          "reward": 620,
+          "points": 4.776975364,
+          "hexAddress": "0xA574591E6aB0A80D2372493190BFe96dD11e91De",
+          "volume": 8530.31315
+        },
+        {
+          "address": "swth1ceed0pff8rnmkecnhp2nmqz5pzras08h3tjuad",
+          "reward": 613,
+          "points": 4.724780256,
+          "hexAddress": "0x700c3a2769abA33165436d3AdB1a8a7b67921E4e",
+          "volume": 8437.1076
+        },
+        {
+          "address": "swth1znk0486fa4sdftsm92cvx83lz3va84t4vam9lr",
+          "reward": 547,
+          "points": 4.2131712,
+          "hexAddress": "0x6CE492257b8ED67C03671936A42973C95A21F3b6",
+          "volume": 7523.52
+        },
+        {
+          "address": "swth1crqy5vc3ealskqtzp2xup406u2cmvv39vwzwwq",
+          "reward": 498,
+          "points": 3.836739125,
+          "hexAddress": "0xf02A0A563A288ABd2EF5d42876297b42C11ef7EC",
+          "volume": 6846.8962
+        },
+        {
+          "address": "swth13h02g7kxhnqq2nc36lazlqwl3yw4z97c78t8yx",
+          "reward": 413,
+          "points": 3.180426946,
+          "hexAddress": "0x7414B1F140d35C73cF39D052Ff0aA3b68164Fc36",
+          "volume": 7585.0457
+        },
+        {
+          "address": "swth150ugezdadjywa95aulwq5lvdpjku3zf2srglqw",
+          "reward": 396,
+          "points": 3.0514143184,
+          "hexAddress": "0xCA5402558af3322c1e8DC91eb4767544E7D14A7B",
+          "volume": 5448.95414
+        },
+        {
+          "address": "swth1apvyn8evkp2yrqenm7px09lm7526jt0wh80pae",
+          "reward": 371,
+          "points": 2.862320259,
+          "hexAddress": "0x5ed57EeAF2755D3db49bD4330461ADaf65a8C1d1",
+          "volume": 5566.0782
+        },
+        {
+          "address": "swth13gu6zhxrdtr0yhy0c6kj9dm7rzrytxs8e0fvdu",
+          "reward": 368,
+          "points": 2.83680425,
+          "hexAddress": "0xEe743DFef98fCFA5064Ce38B21f888D84C490360",
+          "volume": 8534.65
+        },
+        {
+          "address": "swth187phswwft3twadflwtcgdmsxyeqazkpt63j8sj",
+          "reward": 361,
+          "points": 2.7804774,
+          "hexAddress": "0xa21b23e5f07E5E28cB42d09502227Eb75b0B64B5",
+          "volume": 4634.129
+        },
+        {
+          "address": "swth1q3jakh0sd7e7dwq34428qcu4e3k40d7ew75963",
+          "reward": 357,
+          "points": 2.756349672,
+          "hexAddress": "0x392fF8ADB20A658B86f29Fb85bfa6d1D30AC74C3",
+          "volume": 4053.4554
+        },
+        {
+          "address": "swth1w57r5cwg6nmrlz4mz23n9hfll3ejg9uev8hphp",
+          "reward": 343,
+          "points": 2.644327896,
+          "hexAddress": "0x326203E94aaFC3DF65AbE8A7E7776ac1ffCE0982",
+          "volume": 4722.0141
+        },
+        {
+          "address": "swth1hmz433j07eqe4vnf3qwzp4gmv6urkxhg926u0t",
+          "reward": 342,
+          "points": 2.638729016,
+          "hexAddress": "0x6d2948766222508CE63be42ED60361640f42c611",
+          "volume": 4712.0161
+        },
+        {
+          "address": "swth13pwuewffptx9tj64l9skqxsx79qfgxh0wjld67",
+          "reward": 329,
+          "points": 2.534576032,
+          "hexAddress": "0xcfB331ADE6D66Ad1cB6765a2dD51aD3Aa9A1400E",
+          "volume": 4403.7209
+        },
+        {
+          "address": "swth1rp46a03zxp88jpjyk44fdca69a75aktnmyef0q",
+          "reward": 327,
+          "points": 2.52253518,
+          "hexAddress": "0x7C13822b572CB66027C890199f1A74e6b9b8B0b3",
+          "volume": 6005.6893
+        },
+        {
+          "address": "swth1tqajwhew3f2p3t9rffxvk9eelh283ynn4l9mew",
+          "reward": 324,
+          "points": 2.5023022175,
+          "hexAddress": "0xDB91dc1612869c2056987e925a24AFC5B59fa30F",
+          "volume": 3690.91844
+        },
+        {
+          "address": "swth1r4dlwck6et4tszmlnldwgju83ggsfw9cgnj2y7",
+          "reward": 317,
+          "points": 2.443152348,
+          "hexAddress": "0x1a7Bc3953662bFf98Cd90dC5929F61C5B8892E14",
+          "volume": 4986.0252
+        },
+        {
+          "address": "swth13qs26vmjxeu90lum0y82kh0c6wj0syfpcdqfe3",
+          "reward": 313,
+          "points": 2.4106326972,
+          "hexAddress": "0x0EB3d962fde6E985aC6fF90D0d35722bF815e6bC",
+          "volume": 4699.04722
+        },
+        {
+          "address": "swth12s69q0nxdrxmcrjsqfqcvwkan0zlqfkmlataa8",
+          "reward": 296,
+          "points": 2.2848682544,
+          "hexAddress": "0x028E17782DBe945De0A41a7Fe19f5BF55DC0C252",
+          "volume": 3844.14214
+        },
+        {
+          "address": "swth12wfmjvrq48h3wwgmp4zvwsg3mvqr8s7jnlj4zs",
+          "reward": 277,
+          "points": 2.135302456,
+          "hexAddress": "0x9FB9C2a6f4407DD29b8a39199237D408E5Bf783A",
+          "volume": 3813.0401
+        },
+        {
+          "address": "swth1qyyr38ftsymr4uutptrd70zt5utp9aa53zs8q4",
+          "reward": 264,
+          "points": 2.036343232,
+          "hexAddress": "0xC7716C81134D698C970e28e0328D653Ae3c97Ae7",
+          "volume": 3636.3272
+        },
+        {
+          "address": "swth1rudhncakdj4ngw8m8khjyygtknccaemnxxfn7u",
+          "reward": 244,
+          "points": 1.88324948,
+          "hexAddress": "0xC65a58AadDc28f3854C038F6b80f4AbdEc25E0a7",
+          "volume": 3362.9455
+        },
+        {
+          "address": "swth1ql9ccqc5krwtapeuu33kd4dw79p0s82lf3sj2z",
+          "reward": 242,
+          "points": 1.8705904,
+          "hexAddress": "0xB4B78DFc2F3D0a91c239F075c3FdAeA84E85325E",
+          "volume": 3340.34
+        },
+        {
+          "address": "swth10hc7xrfmsd3u6rlzl8wyhdp74809jc06884cuz",
+          "reward": 222,
+          "points": 1.716024688,
+          "hexAddress": "0x254860Df1cc517a907636537BBC6D755aE8072F0",
+          "volume": 2861.237
+        },
+        {
+          "address": "swth1gjss23n996f99qxwryylhs4y5ayuvag27hnkwh",
+          "reward": 219,
+          "points": 1.6870350896,
+          "hexAddress": "0x64329a78D2125eE465ffd7fA06A004C6e6807439",
+          "volume": 3012.56266
+        },
+        {
+          "address": "swth1lj5almeecfc6mjpry28a4hp9gq9myr95s4y76x",
+          "reward": 217,
+          "points": 1.677013212,
+          "hexAddress": "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
+          "volume": 2466.1959
+        },
+        {
+          "address": "swth1yvehs7gvhujv69yuusj76r42gput4pkhdvax5n",
+          "reward": 217,
+          "points": 1.676696336,
+          "hexAddress": "0xF1D2C24BA2fBC8627f18fA117924B8B9d2FF02fE",
+          "volume": 2994.1006
+        },
+        {
+          "address": "swth1zmykyhxpdfmwq6qa5u3yn4yt0xj2qgvcrmqgd5",
+          "reward": 216,
+          "points": 1.6638216,
+          "hexAddress": "0x89C5B5Eed247b9CAE343fD28A51a74a88bD5F1aE",
+          "volume": 2971.11
+        },
+        {
+          "address": "swth1vd5sa3vcxdrg20y9486c3x7zlwa4nkgw0l7w8h",
+          "reward": 214,
+          "points": 1.652475776,
+          "hexAddress": "0x0313580C6840d0E32A42BeeD4f4f832D011Ef473",
+          "volume": 2950.8496
+        },
+        {
+          "address": "swth1705t6u64fcnssl55ntrwmf0s85hh6vufn4nl8a",
+          "reward": 213,
+          "points": 1.6466878385,
+          "hexAddress": "0x965866217bA4d8834CC21b543fd027696A18A575",
+          "volume": 2978.1079
+        },
+        {
+          "address": "swth1n8v44pgx8gkqvdlgs5q5cj4wxmej45rc970cq3",
+          "reward": 207,
+          "points": 1.5972852,
+          "hexAddress": "0x008EAb1c733e9819E70f566cF95BA4cc4AdDA635",
+          "volume": 2852.295
+        },
+        {
+          "address": "swth1d2786cz3cfgneyl5dcswp8prsclpgrs544u345",
+          "reward": 207,
+          "points": 1.597071248,
+          "hexAddress": "0x5221FE845a6eb381AF787196D70cDA5Cda6DECE4",
+          "volume": 2402.4391
+        },
+        {
+          "address": "swth1n5tad8f4mwtlgegxmlut5entt5pdr99ecnr7kj",
+          "reward": 207,
+          "points": 1.5969940888,
+          "hexAddress": "0x2a57701cc3338dEd47fe44695DB146342caB2428",
+          "volume": 2347.99316
+        },
+        {
+          "address": "swth1m6pf2a2l7dvhxm290yue7dzhxlkz6dttfl487k",
+          "reward": 205,
+          "points": 1.585924704,
+          "hexAddress": "0x43A69FF916a7Ecb413aa0a5DF7d9B5285d68C8Ec",
+          "volume": 2832.0084
+        },
+        {
+          "address": "swth1n4er0awh69r9ypjzu4un6092dp53y2ad7vud0a",
+          "reward": 197,
+          "points": 1.524257056,
+          "hexAddress": "0x5fdc0D0d543190693983D4fE92526f72239365a7",
+          "volume": 2721.8876
+        },
+        {
+          "address": "swth100nv2sru97twsxu0eeqn2lu3d620tpjama8esh",
+          "reward": 192,
+          "points": 1.48001728,
+          "hexAddress": "",
+          "volume": 2906.983
+        },
+        {
+          "address": "swth1yr70unglz4c35pmuehjgmlzelc83jcl39n2wdf",
+          "reward": 183,
+          "points": 1.414696528,
+          "hexAddress": "0xb9f384802F8F48163384529fef44ae65fB5a31A4",
+          "volume": 2526.2438
+        },
+        {
+          "address": "swth1fspezfhj2v5uty2z4rp2lwv3xy3rw4mzj0ckj8",
+          "reward": 179,
+          "points": 1.383897648,
+          "hexAddress": "0x53cdAce625CBccEA93D9cCc3c5A613ac5D75c164",
+          "volume": 2032.4724
+        },
+        {
+          "address": "swth1myngc3j8urmv54gx9nnyeylvxqsplqm26e6k9h",
+          "reward": 178,
+          "points": 1.378412728,
+          "hexAddress": "0x81f61281e484C4188c665674838AAbDd2AF218dE",
+          "volume": 2461.4513
+        },
+        {
+          "address": "swth1p3hz4tjkafjq40cwjdp3ses04c3wakxcy7nmc9",
+          "reward": 178,
+          "points": 1.37594324,
+          "hexAddress": "0xf9683fE8eDACd5a78219729E16c1DDe07bB0CBBa",
+          "volume": 2457.0415
+        },
+        {
+          "address": "swth1ul70zkryqxqhl8jwt85k0sv8v3gyuwjd9uqe2v",
+          "reward": 174,
+          "points": 1.344724584,
+          "hexAddress": "0xdA9249550181236C40B32990AEa45489208F9B75",
+          "volume": 2401.2939
+        },
+        {
+          "address": "swth17fgda7zxxxa6a7lq2esjfewlnsctfypz6j74ct",
+          "reward": 170,
+          "points": 1.313272848,
+          "hexAddress": "0x4C338b5D95F6842a3b214DCA27c49A4a124Fa26D",
+          "volume": 2575.0448
+        },
+        {
+          "address": "swth1dluvqsjknt9mtdjfaa0vdx49rfcqlv367sf6gj",
+          "reward": 166,
+          "points": 1.281137816,
+          "hexAddress": "0xb7243AC8d8ca7C174B1c78aA4a2Ef3eB69Ff6ce9",
+          "volume": 2287.7461
+        },
+        {
+          "address": "swth1lwnxq08yyqwwu3t8we9zvhp923vu4syt4wvk9e",
+          "reward": 162,
+          "points": 1.252836704,
+          "hexAddress": "0x21603596DfA092203a4d5862346322E75F9c309B",
+          "volume": 2237.2084
+        },
+        {
+          "address": "swth1wlcevxy5w4w54v0z73g2hn67mpfwem8fc2tkn7",
+          "reward": 162,
+          "points": 1.247858152,
+          "hexAddress": "0xD6cDcA02B0BE6e5D82e1E252a15b93f6D0E48dce",
+          "volume": 2151.245
+        },
+        {
+          "address": "swth17kk6m9q4gsh5zxdluhmp7y3ztsn3hxvm6jkug6",
+          "reward": 160,
+          "points": 1.2372696,
+          "hexAddress": "0x62236aebf363D1446048686e29694dA647684809",
+          "volume": 2209.41
+        },
+        {
+          "address": "swth18py3plhf35gulxh2c06rzgywev43l8ywwsvmnm",
+          "reward": 159,
+          "points": 1.227548728,
+          "hexAddress": "0xB66603345b4bB95616eBbb70ef6405B297122503",
+          "volume": 2192.0513
+        },
+        {
+          "address": "swth1jpecelqswnq9jta0s3cggtp875g3yw8wq6hz8t",
+          "reward": 158,
+          "points": 1.2181862,
+          "hexAddress": "0x7D3200DCDBE217e649Adaea7619F745E271D1628",
+          "volume": 2175.3325
+        },
+        {
+          "address": "swth1tpqplcp3gw7f2qjtcsxhkhn8t8chjwhyced28y",
+          "reward": 156,
+          "points": 1.206328508,
+          "hexAddress": "0x6941E5E29F02590098CA921060a245FE83E975C0",
+          "volume": 2605.5733
+        },
+        {
+          "address": "swth126ts5ey2glnqrw4nfrshqpe9gux8kr0e7ws8e2",
+          "reward": 149,
+          "points": 1.152216324,
+          "hexAddress": "0xb32252f671421b4EA44D257444DF291a7C840F7b",
+          "volume": 5885.5631
+        },
+        {
+          "address": "swth13g6g0my5qg782g2mqeq374wgj09vvnvugnzteq",
+          "reward": 148,
+          "points": 1.1452311465,
+          "hexAddress": "0x227D69418C80B25254cE5D1Db1c1805B13072116",
+          "volume": 2893.5579
+        },
+        {
+          "address": "swth15dcjj6ngzu3jnkjumkp2sqye2508m0ye5p3v50",
+          "reward": 147,
+          "points": 1.13803844,
+          "hexAddress": "0x106ABE1230C20e069d934359223F21c20F0d2d8A",
+          "volume": 2032.2115
+        },
+        {
+          "address": "swth1ct9vhxqmzfknvhznxwyd550le6f5talx8xrxhu",
+          "reward": 147,
+          "points": 1.1361056,
+          "hexAddress": "0x82db741414c1202A7F25E77C7C6A53146f6e5303",
+          "volume": 2028.76
+        },
+        {
+          "address": "swth1rt3mm84ywp6d3gkur85tu3qs6erh7nrapfpqk2",
+          "reward": 146,
+          "points": 1.131147904,
+          "hexAddress": "0x351354f88e43CB503fBE3731d52E0995c81d4801",
+          "volume": 1663.4528
+        },
+        {
+          "address": "swth1azxw4lml85w2rtvs2g7vcreggeu958f74g497j",
+          "reward": 146,
+          "points": 1.125387088,
+          "hexAddress": "0xA66748E7eAeF339a6a2817f6ac21b34630578982",
+          "volume": 2009.6198
+        },
+        {
+          "address": "swth17xyrhzpu6f2pqdrplala6x3au40lsqr2pm4m5s",
+          "reward": 142,
+          "points": 1.096838176,
+          "hexAddress": "0x89bd69Eec01cd8eb2Ce41503B55800349Ab4b3aE",
+          "volume": 1958.6396
+        },
+        {
+          "address": "swth1xln4gfnrk7k545tnxt5qtgre9x2l3lhr65d5dt",
+          "reward": 137,
+          "points": 1.0598082625,
+          "hexAddress": "0x9639e58457A9AF66B8b8417778408f235aAF6659",
+          "volume": 2493.6665
+        },
+        {
+          "address": "swth1rz03w7nkwj2uft5rmkeevgp3l8gdx555l0vhg9",
+          "reward": 136,
+          "points": 1.048685232,
+          "hexAddress": "0x8F7583bEAA6465998233dc3408ED0AAde25f23B8",
+          "volume": 1872.6522
+        },
+        {
+          "address": "swth16jg9vtp0w68a2q402wyg2c9dcpd6krlr78nkhw",
+          "reward": 127,
+          "points": 0.980513856,
+          "hexAddress": "0xCF1d056F70fA2AA49513C3E85b947D2b055Bccd0",
+          "volume": 1750.9176
+        },
+        {
+          "address": "swth1s70mq7pntpg2d6ahnksvvpy33crmcyw3nqmttp",
+          "reward": 118,
+          "points": 0.914536,
+          "hexAddress": "0xAE701c414E86A0c17E94f5819F0a4b96a42aF9CC",
+          "volume": 1633.1
+        },
+        {
+          "address": "swth10ucnqzd246q52074cu78y5zh3mnvk5gnq2eh6u",
+          "reward": 118,
+          "points": 0.9144892637,
+          "hexAddress": "0xf9eAaa0E52E14688F2723d6865C5301424f89A03",
+          "volume": 1646.4455
+        },
+        {
+          "address": "swth1n927cevptxk7k9zphranc4gat4xt0fkmtkdl8r",
+          "reward": 117,
+          "points": 0.904416048,
+          "hexAddress": "0xA60C935150F52f0eE475E22265A88f499aEa07F3",
+          "volume": 1330.0236
+        },
+        {
+          "address": "swth1qmj450ph985qyq2drzn5hmuznd6txsj7qrjz6t",
+          "reward": 116,
+          "points": 0.8953974295,
+          "hexAddress": "0x62a39F7b89A01fC395790D547AE8a48086AF3f17",
+          "volume": 1850.8119
+        },
+        {
+          "address": "swth1p8jr34zrxu8uehjwv7kc6lvp7prgzgw5unvvhv",
+          "reward": 115,
+          "points": 0.8917664,
+          "hexAddress": "0x0679756e4b8E90e75fC458Ff5003BfAE5035B138",
+          "volume": 1592.44
+        },
+        {
+          "address": "swth1hplslcnfjxd3r7mly3s8se5pd04c6c7am264l4",
+          "reward": 115,
+          "points": 0.888878648,
+          "hexAddress": "0x685c99E8780e5a7f158617cC2E9acc0e45a66120",
+          "volume": 1587.2833
+        },
+        {
+          "address": "swth1f6fzmwr4h2gxsfj9397fm035hcas6e3sf4uvdl",
+          "reward": 115,
+          "points": 0.88564,
+          "hexAddress": "0x4Ae237e422dA14215189fC2CDFB63FA646E10668",
+          "volume": 1581.5
+        },
+        {
+          "address": "swth1mk0am6cs84slr465vf8zggll2hzapmar5fs9xk",
+          "reward": 114,
+          "points": 0.8844696,
+          "hexAddress": "0x609e41C33A2c060b3cb905Db924E465491d26603",
+          "volume": 1805.04
+        },
+        {
+          "address": "swth15q3gxc54ef0eg0pvfkegly99trn7yqzh8uxrhf",
+          "reward": 114,
+          "points": 0.880096,
+          "hexAddress": "0x09F2522360Eec32c7D748023dF6F87d557a7cCEe",
+          "volume": 1571.6
+        },
+        {
+          "address": "swth1asexgd0w7jymqa2htr4g5t2r29ru9pzcjdvu54",
+          "reward": 113,
+          "points": 0.876876,
+          "hexAddress": "0x5F9b046E312dDa38302798888E3a1DDE514d636A",
+          "volume": 1565.85
+        },
+        {
+          "address": "swth1q3l0hrs2mxk2zzv84atknf9jh62gl6j9r7nd45",
+          "reward": 112,
+          "points": 0.865928,
+          "hexAddress": "0x7eD8DC4d40ACD98B595F1e489c7Fc587DA7dA843",
+          "volume": 1546.3
+        },
+        {
+          "address": "swth10drfff62zvd6qtgcggfa0x4kvcxzev589mkes9",
+          "reward": 112,
+          "points": 0.864295432,
+          "hexAddress": "0x287C9921657FE16B5F15B64178546A88641D8ea7",
+          "volume": 1543.3847
+        },
+        {
+          "address": "swth19rpahneylwyxstnxrfptuexy0fje2mz6xalrkn",
+          "reward": 109,
+          "points": 0.845763016,
+          "hexAddress": "0xaBeC3a6F6F6243884713D757899eA19b6406C50c",
+          "volume": 1510.2911
+        },
+        {
+          "address": "swth1pmty7qygyguaelyksqhw9nqkhgyvf5g32jfnls",
+          "reward": 106,
+          "points": 0.8184792,
+          "hexAddress": "0x4a4bF562ab833cbDAC11fDc6C10Dc92c5B46984F",
+          "volume": 1461.57
+        },
+        {
+          "address": "swth1acm8qgz56te7cqlvla3aywp95pw84sj8uw0787",
+          "reward": 103,
+          "points": 0.80017,
+          "hexAddress": "0xe6D8910053fd2174d5b8fd1E536Cd6591A55eb08",
+          "volume": 1633
+        },
+        {
+          "address": "swth1p80lhzwskyzjpqkuv6keyhcmllxjjselfjqyjd",
+          "reward": 101,
+          "points": 0.78018192,
+          "hexAddress": "0x43c95631d4AF09a4AaC5E99aD1ffB209Ac248D72",
+          "volume": 975.2274
+        },
+        {
+          "address": "swth12ytvgtas2kht4lcrwq6qzfcqry4ter72fcnd03",
+          "reward": 94,
+          "points": 0.724807104,
+          "hexAddress": "0xf9Bb823a2eaA181ab89B79CEA6301274368999b4",
+          "volume": 1294.2984
+        },
+        {
+          "address": "swth1d5smlpuvyh6r5kp5khj2cnukwd4u0h3uk8g9un",
+          "reward": 88,
+          "points": 0.678285181,
+          "hexAddress": "0x90Ae92CD6AF97FaD517055D82Ee76a4B629BfBd5",
+          "volume": 1307.6733
+        },
+        {
+          "address": "swth1wuzdwml4njcft20f5f3lad2yn5eehx9v2w2fhj",
+          "reward": 85,
+          "points": 0.662080944,
+          "hexAddress": "0x3B7844240cBb0e696D2344E82367e17B29671599",
+          "volume": 1182.2874
+        },
+        {
+          "address": "swth1rpx09r2xvajfgjkvkm9vnyg60pe3wutvdyt9jn",
+          "reward": 85,
+          "points": 0.65917138,
+          "hexAddress": "0x04603cd09de07f910f894EFE340ba72891ec1CC8",
+          "volume": 1107.388
+        },
+        {
+          "address": "swth1pzyztkrchywgypmjh3k2peq3e37xr3jcwtrqdj",
+          "reward": 85,
+          "points": 0.658525168,
+          "hexAddress": "0x020c7046FF975e04f71111AFDbC0440fd1dd96E6",
+          "volume": 1175.9378
+        },
+        {
+          "address": "swth1kfrvautplcj6el7u9t9yl9xp7ttr5lkqlvg6g4",
+          "reward": 85,
+          "points": 0.656539499,
+          "hexAddress": "0x610336E20AC62Fa46BFC38d7488d66568252Ae92",
+          "volume": 2830.274
+        },
+        {
+          "address": "swth1ygyaszza3y4nvedxd65g5sayk74qeqx4eex8sa",
+          "reward": 85,
+          "points": 0.655839912,
+          "hexAddress": "0xc0141cE7db7245F5726745A8f1cf21a8523b1d0D",
+          "volume": 1171.1427
+        },
+        {
+          "address": "swth1ua46n6wwef9zcuh6qlmhztt2gqdh022kjwx83n",
+          "reward": 85,
+          "points": 0.655327176,
+          "hexAddress": "0xc4787DcedcDa449Fe6FcaFcB8A01f72Af5E152AB",
+          "volume": 1170.2271
+        },
+        {
+          "address": "swth1wpjval0rm6w5apr9sa9f47dpv6xy7qwcl7drj8",
+          "reward": 83,
+          "points": 0.6440021376,
+          "hexAddress": "0x7927F51b919830082f9634b2e4E88fe1bBa6D040",
+          "volume": 894.46752
+        },
+        {
+          "address": "swth1hw4myxnnrlmeh7wt685gdgxe6gassrydleqps5",
+          "reward": 82,
+          "points": 0.6357204,
+          "hexAddress": "0xF05F0aDFe5c23506f2f47584ABA9AD1c31BEe18F",
+          "volume": 1135.215
+        },
+        {
+          "address": "swth1y0mdlvup608xjxwjlm4fdavk5mntvmflyu09al",
+          "reward": 82,
+          "points": 0.63518028,
+          "hexAddress": "0xAa5fc3f5dff11A7765E5FF9ED92354FB1AB8a05F",
+          "volume": 1134.2505
+        },
+        {
+          "address": "swth199sfry8f2jqmnf47xevcaehyqdhc2q6h3f76fq",
+          "reward": 82,
+          "points": 0.633851568,
+          "hexAddress": "0xAdDD1e6774DA8A9665C04f2C2A4F495534477cA5",
+          "volume": 1131.8778
+        },
+        {
+          "address": "swth13kma6dt8dqrcynee0grzpepsw4jedjnj2hjytj",
+          "reward": 80,
+          "points": 0.62157256,
+          "hexAddress": "0xA4c42B7c89489457b01898E92AB5a71ed6E549Ab",
+          "volume": 1109.951
+        },
+        {
+          "address": "swth1favfv6sqzr0y8hnru4trrzpue4d30f6xtdulvm",
+          "reward": 78,
+          "points": 0.606122496,
+          "hexAddress": "0xAc37423287A3165DC6Bc1Ea9dE0a4116C9d33901",
+          "volume": 1082.3616
+        },
+        {
+          "address": "swth1k3jfyh7vhcg6hmjxpphvz6yxrlsqjeldez80us",
+          "reward": 78,
+          "points": 0.604538382,
+          "hexAddress": "0x0FfA5a266F8Ad70ba093c01F34dBE677324aa4f9",
+          "volume": 1569.4908
+        },
+        {
+          "address": "swth1ffv6mznjnla70vsny2cuv7xtruwhp3886jee7s",
+          "reward": 78,
+          "points": 0.601472312,
+          "hexAddress": "0x665b8Ab1526FF81Fa5a900779c101601666f0A7B",
+          "volume": 1074.0577
+        },
+        {
+          "address": "swth1myzszxlty0sunfdyjkrzgm25d03yre6ghwph56",
+          "reward": 77,
+          "points": 0.595680736,
+          "hexAddress": "0x61D445e67965E1E7AF288c0336d17B37340e7ac1",
+          "volume": 1063.7156
+        },
+        {
+          "address": "swth17y9gdgxfv06f67vcterep6s3ug26a5t9qqjuyc",
+          "reward": 76,
+          "points": 0.5907171849,
+          "hexAddress": "0x3c620ebBBBb5a214D3f5E0d3A1c7533524019ebC",
+          "volume": 1158.26899
+        },
+        {
+          "address": "swth1lg8a8k4a43kv36jp4ftgja4pel67u8de56kv7x",
+          "reward": 76,
+          "points": 0.589772232,
+          "hexAddress": "0x3b5BA1661172CB4e5cd435646aA0864182Bce7b7",
+          "volume": 1053.1647
+        },
+        {
+          "address": "swth1nk6fe39s8mnyu3kwev83ycukvnd7a64zmmkkl2",
+          "reward": 74,
+          "points": 0.570804248,
+          "hexAddress": "0x8db903C0753DdE0E7DFFFA8310357a741b3eBEEF",
+          "volume": 1019.2933
+        },
+        {
+          "address": "swth142eyxajn80y092g0f3r79q3uh6fvulga65tdym",
+          "reward": 74,
+          "points": 0.5705463925,
+          "hexAddress": "0x87fd0a5a9Ff1ADc3024F1ad934a693e8d341b281",
+          "volume": 1342.4621
+        },
+        {
+          "address": "swth1h2qaqkfzls0rf7fh3slryy3wl7s748gd8p7fr8",
+          "reward": 74,
+          "points": 0.570168312,
+          "hexAddress": "0x121E1573B7C6c15Aa4C036d54BFd2974Cf38a163",
+          "volume": 1018.1577
+        },
+        {
+          "address": "swth1urf9ksav9hsw5khg9eqvngcktnlz34n3l6uqll",
+          "reward": 74,
+          "points": 0.569932608,
+          "hexAddress": "0x511b39d10CfBE749f863bfed7E40E60CC520B694",
+          "volume": 1017.7368
+        },
+        {
+          "address": "swth185m32k40kea0p25kktyaqpz45frtycduzxr2xg",
+          "reward": 74,
+          "points": 0.569862048,
+          "hexAddress": "0x4C7240D06C7D9eF356252A34C725b5371269F25c",
+          "volume": 1017.6108
+        },
+        {
+          "address": "swth1vddfcxyww2rwxdyzscazzkp8fzshphkhyfc2xs",
+          "reward": 73,
+          "points": 0.569713536,
+          "hexAddress": "0xf14010c8BE4E12C7C3CF087BC35285A9EdEd88dc",
+          "volume": 1017.3456
+        },
+        {
+          "address": "swth1rpfchthl0eshgkv9jvg4w2ekykufq3pmd2w0a8",
+          "reward": 73,
+          "points": 0.569415168,
+          "hexAddress": "0x3e2BF1C1442135eC1FD7d9c22bf076fea04F64D1",
+          "volume": 1016.8128
+        },
+        {
+          "address": "swth1ztcs5stgf9rummk3v2yw0clurcmxjy3yk4d0mq",
+          "reward": 73,
+          "points": 0.568190616,
+          "hexAddress": "0x136D2fD4DD0A6c82979D1C8059Da713963b261c6",
+          "volume": 1014.6261
+        },
+        {
+          "address": "swth168k65epj78wkpyyq9wrpqeetvjmu5tmmqxhan6",
+          "reward": 73,
+          "points": 0.567445032,
+          "hexAddress": "0x9e2e1046B75696626C76d4ABD20084Dec8F0c2BE",
+          "volume": 1013.2947
+        },
+        {
+          "address": "swth1w82j7y5wvqql72rhpd37uq2v669vpjxn32rtaq",
+          "reward": 73,
+          "points": 0.563271072,
+          "hexAddress": "0xad369f2A07756bf0558e57b04FDA9FD4974D5019",
+          "volume": 1005.8412
+        },
+        {
+          "address": "swth1nq3qlzmm2243hvkkalghdj80delm0zj55wz2gu",
+          "reward": 73,
+          "points": 0.562800056,
+          "hexAddress": "0x8ab86546FD3a0143EeabF4320693006f354201c4",
+          "volume": 1005.0001
+        },
+        {
+          "address": "swth1yau92l44nrx4wj9ke02emrkc5m4uwvmqhkulhk",
+          "reward": 70,
+          "points": 0.541380504,
+          "hexAddress": "0x5083466613E684b6D6236aED2C8D85f8CE8b032a",
+          "volume": 796.1478
+        },
+        {
+          "address": "swth163sm20w7eczwyy5u276q3sruspvspmgex7jw7j",
+          "reward": 70,
+          "points": 0.5403685,
+          "hexAddress": "0x8f8d8bB404f4dA8A48Ca78f87E237c9644DaD46c",
+          "volume": 1625.1
+        },
+        {
+          "address": "swth14aavd4r0n8vxvuefa4hp3edhtx29quzxvsl4wk",
+          "reward": 68,
+          "points": 0.529567745,
+          "hexAddress": "0x389BD7a171c837f9AD00CFA45F2163adA530B958",
+          "volume": 1186.71
+        },
+        {
+          "address": "swth1z2gsuu6n3h4vhfdvk2nqt00nu3rt6xjwkn82u3",
+          "reward": 61,
+          "points": 0.473858408,
+          "hexAddress": "0x1d678A61c84C424bCaA156b3d57378fD10bdF02F",
+          "volume": 696.8506
+        },
+        {
+          "address": "swth1wg240ml54t0a3z57q9nl64fatjk7f270nxgdv8",
+          "reward": 56,
+          "points": 0.4329065398,
+          "hexAddress": "0x3025511aDA2660eF2D11c65c4C9335749BadAc7F",
+          "volume": 1451.4566
+        },
+        {
+          "address": "swth1lzdw5dh6rujrf8lr9qka8wx90v3gmxlergxdmn",
+          "reward": 53,
+          "points": 0.41244854,
+          "hexAddress": "0xB911F3481056BDc24AAC921e6766F3A4E2C13222",
+          "volume": 1240.4817
+        },
+        {
+          "address": "swth19yn7k9gm2w4uxhekty6d4cld66mrg0jppgfcf8",
+          "reward": 52,
+          "points": 0.4073965,
+          "hexAddress": "0x52D1aC71653A7Ec75Bc84e87BA3CC9312d46FC2F",
+          "volume": 599.1125
+        },
+        {
+          "address": "swth1dtgvvqmt8yyvy5scy9v0k07ytvq8q8lsls5w8x",
+          "reward": 51,
+          "points": 0.399046508,
+          "hexAddress": "0x23d90B11e3127b86F004D1B0F8b7A29d37E5CcBf",
+          "volume": 586.8331
+        },
+        {
+          "address": "swth10kut0qe7zm2s5sx87a2qvgh04wkr854qupth2m",
+          "reward": 51,
+          "points": 0.399025428,
+          "hexAddress": "0xC8b5Dd3165E26cB5ce952178A8d259A2Faf4Ae8b",
+          "volume": 586.8021
+        },
+        {
+          "address": "swth1mdxuqx9fczzeunr2hgpzy09q75fhwnz04ngzea",
+          "reward": 51,
+          "points": 0.398974836,
+          "hexAddress": "0x5dA2370C90Edc0cBcAf1363902F5267AA343b2A4",
+          "volume": 586.7277
+        },
+        {
+          "address": "swth10can5h35g2msjshqmhy5gym8slncn5ev0skuaz",
+          "reward": 51,
+          "points": 0.39530108,
+          "hexAddress": "0x12523F549aeF807169fdE773F07FaFf515072F6D",
+          "volume": 685.3483
+        },
+        {
+          "address": "swth1dustlwax40ratqtm6ascyfqd8xkx944z885mrx",
+          "reward": 49,
+          "points": 0.38083927,
+          "hexAddress": "0xd6e9ac1C3c669075188C3FAdeFe3f8f1A74f5738",
+          "volume": 1145.592
+        },
+        {
+          "address": "swth1c3pu7cegrx8at7g2znyyf77h0j9rr829u33saf",
+          "reward": 48,
+          "points": 0.376730166,
+          "hexAddress": "0x2CE9d7E3F3376Dd2327Ec54A6020D3cdC05cBE5C",
+          "volume": 554.01495
+        },
+        {
+          "address": "swth12qrn5p7l3l3rkyryezd9fefw76s6nv69s94ht7",
+          "reward": 46,
+          "points": 0.361456984,
+          "hexAddress": "0xbfB487361A70aD2aE1AfA41179BE762cfB34014B",
+          "volume": 728.6329
+        },
+        {
+          "address": "swth1pm8jahrr9072t6d7c75zhked9hmpze4ydgtnf2",
+          "reward": 45,
+          "points": 0.351827952,
+          "hexAddress": "0x786098b14eb5F1aca90d755C14555b740c8Eef0d",
+          "volume": 628.2642
+        },
+        {
+          "address": "swth1jugmdvq23hc43ju5lm6gzrxzw37sylwdd98hl5",
+          "reward": 43,
+          "points": 0.335341864,
+          "hexAddress": "0x448d248616b0B26957Bb6d6a73F695AEc3e23Dc2",
+          "volume": 493.1498
+        },
+        {
+          "address": "swth1x6754sqags43qhm0vw4kecka2t7f0q3k9tksjn",
+          "reward": 40,
+          "points": 0.313224048,
+          "hexAddress": "0xC691c5F59A6Ae7fC22ce64EfDdB4b919A9c64626",
+          "volume": 460.6236
+        },
+        {
+          "address": "swth1f5jjms99ntjdl72e9dy0d4y434y8vttcsd5rha",
+          "reward": 40,
+          "points": 0.309331932,
+          "hexAddress": "0x4F53f6DB03d94AB88C571f1c0017D412BFd314e1",
+          "volume": 454.8999
+        },
+        {
+          "address": "swth19vhc9tvgsdwus2hcsaedep2j0sny06v8wz6csu",
+          "reward": 39,
+          "points": 0.304234992,
+          "hexAddress": "0x74861d974a79a0c467d700Dc8592CaCbc791bEd0",
+          "volume": 447.4044
+        },
+        {
+          "address": "swth1r04ysn6rxf9x6aprqsjk50ljvasdvr0ply3yu0",
+          "reward": 38,
+          "points": 0.29848812,
+          "hexAddress": "0x1b9d7e2faA7b654119c3D0EbC83d4b58FEA5A72E",
+          "volume": 2842.744
+        },
+        {
+          "address": "swth1dkrtqm9kncz24c0aezll9pyqgj40dazn5wd998",
+          "reward": 36,
+          "points": 0.281680448,
+          "hexAddress": "0xC0A2034E86073238D60e18d2379A47608b389357",
+          "volume": 503.0008
+        },
+        {
+          "address": "swth1s9y8arapc8h5gvtc7ntnya9q0jar4zt8x8mlh4",
+          "reward": 36,
+          "points": 0.281114108,
+          "hexAddress": "0x1b3CCFea0dcC479CaDfAb03CA8e66670F7901DD4",
+          "volume": 413.4031
+        },
+        {
+          "address": "swth18kqhj6l0y0j86kzhdkuyngsjard2xey0a9q9g8",
+          "reward": 33,
+          "points": 0.261436735,
+          "hexAddress": "0x91FFcd552f88Ff7b13C282Bbed16645873ccab6b",
+          "volume": 1243.711
+        },
+        {
+          "address": "swth1gmwszn4amfp5v9shpmzshrdp8repnhenzjgkmc",
+          "reward": 32,
+          "points": 0.253827198,
+          "hexAddress": "0x1094315150f08c56856FeE426A64fE0b885e65d0",
+          "volume": 396.3582
+        },
+        {
+          "address": "swth1f4e6lu8ga9zm2044825g2w9pav3ygkwycwddc6",
+          "reward": 31,
+          "points": 0.244581399,
+          "hexAddress": "0x1Dd1925dD126De0BDDA33dB4E81cF96fD46392b5",
+          "volume": 439.7913
+        },
+        {
+          "address": "swth1fyc3x3kr65f3km5gdkcf34kawskdz89uljahgs",
+          "reward": 30,
+          "points": 0.238333268,
+          "hexAddress": "0x00F7b9Bbc704e67c8B2959E32c524eD61d6d1CC4",
+          "volume": 350.4901
+        },
+        {
+          "address": "swth1c8jhn68j3l9k4m85uw40gqhevml4xhetssmu75",
+          "reward": 28,
+          "points": 0.222816552,
+          "hexAddress": "0x31BDaeaeFbBdc1DD9f902aad666477276D72251f",
+          "volume": 397.8867
+        },
+        {
+          "address": "swth1ycplx8q79y2takfwfg2ejk3emx7wngfkplthwt",
+          "reward": 25,
+          "points": 0.1951329856,
+          "hexAddress": "0xd567fc8b1D62C819E1b47412Cbb92c6497C65b39",
+          "volume": 348.45176
+        },
+        {
+          "address": "swth1yjamkztvsumjzg5hzlxfkh6e5jtt3ckqz04j8e",
+          "reward": 25,
+          "points": 0.19309926,
+          "hexAddress": "0xFcea8B1953E3E9fADF240f57Fa4b093A9d8D2B78",
+          "volume": 283.9695
+        },
+        {
+          "address": "swth1f9y3q0eegqrgu3v0370th47p4l455rxmwa67zw",
+          "reward": 23,
+          "points": 0.1835592,
+          "hexAddress": "0xeD6dE19F89DAc8823BBbaA67042C14F7CBD18d1D",
+          "volume": 269.94
+        },
+        {
+          "address": "swth1gvluxl2pw5k3cmv05zsej80sjvyhlk33yvu3ru",
+          "reward": 23,
+          "points": 0.181016136,
+          "hexAddress": "0x051b21E295499C8fD3b5332B73ebDb771B61bd8C",
+          "volume": 266.2002
+        },
+        {
+          "address": "swth19zry7cufrrjw5h6rgcywashe06uy3ycaavw33j",
+          "reward": 23,
+          "points": 0.178892632,
+          "hexAddress": "0x1D4b8aF0b07c6e647E49333Fa498c0EE1bB0D37f",
+          "volume": 263.0774
+        },
+        {
+          "address": "swth10vwhwmgmaqtnlljl57l6lrdh0uge67w7ruzv6c",
+          "reward": 23,
+          "points": 0.178887668,
+          "hexAddress": "0x9B0b9121b8B2c98c06A94350b7bA7e1304b47f65",
+          "volume": 263.0701
+        },
+        {
+          "address": "swth1paaml0knqap26tuh5qg2gwz7n95hzzwvrfdrnu",
+          "reward": 22,
+          "points": 0.173943184,
+          "hexAddress": "0x809d27d9b4115970aFF645B3406e2c8895C96838",
+          "volume": 255.7988
+        },
+        {
+          "address": "swth10gjgv0vw790nq0q86qvpwqthvw4992pff4lxf6",
+          "reward": 21,
+          "points": 0.167290368,
+          "hexAddress": "0xF4be805aa67007a52E49e35C32c3D84dEc596c93",
+          "volume": 298.7328
+        },
+        {
+          "address": "swth1axqe3vc09fu6908ze7vcz0ns8deyszd2lrn3n6",
+          "reward": 20,
+          "points": 0.16164876,
+          "hexAddress": "0x0906386C77b5c4F0ffaD46C2EC94bE598B20F73a",
+          "volume": 269.4146
+        },
+        {
+          "address": "swth1e0w2edq7au9ynw40eptf8vxycxmamewa73ff0h",
+          "reward": 20,
+          "points": 0.15960168,
+          "hexAddress": "0x01fBE98a97a04ECB6805F1A68e6622baA2B6f832",
+          "volume": 1900.02
+        },
+        {
+          "address": "swth14gk2f697p4h3nyf4s6vrenl6ua29nx26v3jfv4",
+          "reward": 15,
+          "points": 0.1230278392,
+          "hexAddress": "0x6D865954c25242C8c61f7b8565034CEa9c6Ad344",
+          "volume": 219.69257
+        },
+        {
+          "address": "swth1kfjdcsktn7ekr299c9seqnjcfyjhp50hzfdyrk",
+          "reward": 13,
+          "points": 0.10707144,
+          "hexAddress": "0x2416c28AAb5b6EB451B8b82E790a543eA3229a80",
+          "volume": 1019.728
+        },
+        {
+          "address": "swth1wlfgxxk0yzdl2h2dwdp6d7fu49pnuwy2s00ll3",
+          "reward": 13,
+          "points": 0.10653678,
+          "hexAddress": "0x4cd6B970F42B41Ee58c2e4B7aB99863d5AE52A23",
+          "volume": 1014.636
+        },
+        {
+          "address": "swth1cz0au7767g08d0afdt2tk2tky5z7t0405wdss5",
+          "reward": 12,
+          "points": 0.094291806,
+          "hexAddress": "0x8d618FA04dFAC3Cba606c415bE7066d14568854D",
+          "volume": 224.5043
+        },
+        {
+          "address": "swth1crxt9h3r7u4yneyfmhu9quh5fmsgeahk0gtjuz",
+          "reward": 11,
+          "points": 0.09059688,
+          "hexAddress": "0x4A90Db0d00434f2Bd934Ea66aB362e33B408f052",
+          "volume": 133.65
+        },
+        {
+          "address": "swth1jdcw0v7fv69566edw8ehdrtq3ju2mqxzstls5p",
+          "reward": 11,
+          "points": 0.0856024,
+          "hexAddress": "0xc0D8f846bF752523831C0ad1fa1FDf5461354d55",
+          "volume": 107.003
+        },
+        {
+          "address": "swth199uu3q8wvltmgpyhy0tnn42u9rturkcd8a2sau",
+          "reward": 8,
+          "points": 0.0671885984,
+          "hexAddress": "0xfBDF28EF58b5f116e816307cac095f87f51198A7",
+          "volume": 119.97964
+        },
+        {
+          "address": "swth1tfdev7extfvmuuhy80w292am233hdnwty8vwut",
+          "reward": 8,
+          "points": 0.06265875,
+          "hexAddress": "0x289f97b40eeaA9E2788Ce97682716093B10Bbc75",
+          "volume": 173.38
+        },
+        {
+          "address": "swth1de85ec0tt2uypdgeu3dsv4dq035dxc3rac58dd",
+          "reward": 5,
+          "points": 0.046013912,
+          "hexAddress": "0xA59B14F695F2183dFAa848c813127F64db06C1d2",
+          "volume": 82.1677
+        },
+        {
+          "address": "swth15jnmegpylcmvndypl2a088ncej60r7yn55xczl",
+          "reward": 5,
+          "points": 0.045039848,
+          "hexAddress": "0x350b6Fb19432269862425d884F9B11E1aeCd31Db",
+          "volume": 80.4283
+        },
+        {
+          "address": "swth1ayt04zs7tuynkjpe0g6xc5v8clxel0afe2fua3",
+          "reward": 5,
+          "points": 0.041034385,
+          "hexAddress": "0x28b5FED8bB7Dc59B0e083786F2ef596D0a357aCB",
+          "volume": 74.1501
+        },
+        {
+          "address": "swth1zfzt82y39mapv2w8xg699c65gnccep84gcmqpg",
+          "reward": 4,
+          "points": 0.03818302,
+          "hexAddress": "0x0f6e00FDe8D31c90A5eD4F447acF0398e6a27884",
+          "volume": 56.1515
+        },
+        {
+          "address": "swth18wdhga4uh45z2jeu3l2tux8ehvdtt6cp6wduu3",
+          "reward": 3,
+          "points": 0.029465632,
+          "hexAddress": "0xCd130caDB92eCB4b5958710Cd09cf00CE9D7119B",
+          "volume": 52.6172
+        },
+        {
+          "address": "swth16wrceddzl2gv8vrdc2ruhkgplvxw3vgqqg5mev",
+          "reward": 3,
+          "points": 0.02522156,
+          "hexAddress": "0xC85032a2e77bE215A095Fc8b77C0E3e16Bb69BF9",
+          "volume": 51.012
+        },
+        {
+          "address": "swth1m00fl80q79t09t8jelfykyg6snmdym8yj0fsnm",
+          "reward": 2,
+          "points": 0.020996304,
+          "hexAddress": "0x2f57D9585601579F7932bC91351242cc520f06fb",
+          "volume": 37.4934
+        },
+        {
+          "address": "swth1k0epx49hgau9dathpyk3nc7jfrnnzts7ujp0er",
+          "reward": 2,
+          "points": 0.020296674,
+          "hexAddress": "0xcd529FfB3EfA9B038d99C530455a5081e6F68B92",
+          "volume": 33.6993
+        },
+        {
+          "address": "swth1au9jcaxytnxvj8tzj9xtpd27254k9duqpguz22",
+          "reward": 2,
+          "points": 0.019868912,
+          "hexAddress": "0x8A4E41e37016Ad990ABEFECAeF7D885b67F93546",
+          "volume": 35.4802
+        },
+        {
+          "address": "swth17gvw5h792n6dfhrmql0eldm6y6qt73ctumvrfp",
+          "reward": 2,
+          "points": 0.019787488,
+          "hexAddress": "0x9265c4cA35b82f3Bf2cf444CDF9e4D387bE38978",
+          "volume": 35.3348
+        },
+        {
+          "address": "swth1jujx5td7jn7hddcu2edjv09rayfm8lj4yczf79",
+          "reward": 1,
+          "points": 0.00993468,
+          "hexAddress": "0xc1fA4ed8aE378721d617aB3eF8e7a35FAc453c64",
+          "volume": 17.7405
+        },
+        {
+          "address": "swth1qd9ex9yeu06tjdkpacf890q98wuhhjzd7vlktt",
+          "reward": 1,
+          "points": 0.009544108,
+          "hexAddress": "0x6d422BFdD653DC8A61316bE7A44D34F7101691C3",
+          "volume": 28.7944
+        },
+        {
+          "address": "swth1gxuvtpgu5rzapl95vypj6njwwqgs529qlg3y3m",
+          "reward": 0,
+          "points": 0.005551896,
+          "hexAddress": "0xD24D4f49bfd649396FD93d0ACB24d8A18BC35DFF",
+          "volume": 9.9141
+        },
+        {
+          "address": "swth1namaq8nml6g3m9mldyaf2s5eqsjwkdkrdnqevw",
+          "reward": 0,
+          "points": 0.004120928,
+          "hexAddress": "0xce5C443039dDA0d5b102E8F1143fBea8FE5B47e5",
+          "volume": 7.3588
+        },
+        {
+          "address": "swth1x0y8f2p4efwffhv43hrlecupuys3vldsls20zv",
+          "reward": 0,
+          "points": 0.00281848,
+          "hexAddress": "",
+          "volume": 5.033
+        },
+        {
+          "address": "swth1efn8g0943jlfu96eusq5hqj4ry8yvhk72jvckh",
+          "reward": 0,
+          "points": 0.00080892,
+          "hexAddress": "0x00D5AaaE772C0138677190ef84354149AB5fe99F",
+          "volume": 7.704
+        },
+        {
+          "address": "swth1estc6fdf79l8un64ccz74m27r6gmj2leht5n52",
+          "reward": 0,
+          "points": 0.00049168,
+          "hexAddress": "0x1E9Eb8d2320A52DCD91A4016b1471947844ed903",
+          "volume": 0.878
+        }
+      ]
     }
   ],
   "userRewards": {
     "swth10ucnqzd246q52074cu78y5zh3mnvk5gnq2eh6u": {
       "hexAddress": "0xf9eAaa0E52E14688F2723d6865C5301424f89A03",
-      "amount": "2359818000000000000000000"
+      "amount": "2359936000000000000000000"
     },
     "swth1eqhexdtptfsgyz0m9efg8s8v5vcmsknx8pyczh": {
       "hexAddress": "0xD0Cb115E9cd1b4E0C29A9ADCfD2A59A632eA5c3C",
@@ -19653,7 +21145,7 @@
     },
     "swth10ayz6ymumd7a2yevtz2rs84eycjj2zykdd8fdl": {
       "hexAddress": "0x7d001FE8D4e0fDf1f1F23b73927Db851a93Da6A5",
-      "amount": "416025000000000000000000"
+      "amount": "435024000000000000000000"
     },
     "swth1v8dxdjqv5cpaka826p96d473cfkar8qh9q843z": {
       "hexAddress": "0xa827e44b3f83608cC1749ee8c91098952A129509",
@@ -19661,11 +21153,11 @@
     },
     "swth1x6754sqags43qhm0vw4kecka2t7f0q3k9tksjn": {
       "hexAddress": "0xC691c5F59A6Ae7fC22ce64EfDdB4b919A9c64626",
-      "amount": "440116000000000000000000"
+      "amount": "440156000000000000000000"
     },
     "swth17fgda7zxxxa6a7lq2esjfewlnsctfypz6j74ct": {
       "hexAddress": "0x4C338b5D95F6842a3b214DCA27c49A4a124Fa26D",
-      "amount": "407196000000000000000000"
+      "amount": "407366000000000000000000"
     },
     "swth1jgygqj3a2u5g3jaccejh4lf2avapjtzc30s3a4": {
       "hexAddress": "0x46968482Ee9Bbe79bB666C79922Ff5c95C89808b",
@@ -19681,7 +21173,7 @@
     },
     "swth1zvyfanwag3454az0prens2wl97z5e8rfzr3d09": {
       "hexAddress": "0xe98Cb39a3E64e1b08E397215340Bb7c5bfF3aAC7",
-      "amount": "62731000000000000000000"
+      "amount": "63951000000000000000000"
     },
     "swth1nc50upfudt7vr4v5p898jaw2qmecxjely6m8yg": {
       "hexAddress": "0x75dd5EAB1CF326907097b6368114dDCd56FfaF20",
@@ -19701,7 +21193,7 @@
     },
     "swth1vsjf428kjmljeavrxw0yhevpwdp4q006rkfuvp": {
       "hexAddress": "0x1078813bFE0289Fc5CEEa03d1C7095ee0d9de810",
-      "amount": "50162000000000000000000"
+      "amount": "51301000000000000000000"
     },
     "swth1r2tesjplej6mmaw9kzwmhzn2dm2g9gegc69g30": {
       "hexAddress": "0x8665777a3673B37A4E4711358c0Ca79D7c2029CF",
@@ -19717,7 +21209,7 @@
     },
     "swth1s4d8hrkfkusuyp3huj0uny4gke8ky4es9da0jx": {
       "hexAddress": "0x9C7cd9bF6aB2cD1290B884f3a49ED216Bd072fA2",
-      "amount": "266001000000000000000000"
+      "amount": "324522000000000000000000"
     },
     "swth12c86nxpnah8e0n0qw63ayg3cepym7thusd6rst": {
       "hexAddress": "0x1D07FaCb5A14eF802aaa231Fd2b98750D93a9755",
@@ -19725,7 +21217,7 @@
     },
     "swth142eyxajn80y092g0f3r79q3uh6fvulga65tdym": {
       "hexAddress": "0x87fd0a5a9Ff1ADc3024F1ad934a693e8d341b281",
-      "amount": "147347000000000000000000"
+      "amount": "147421000000000000000000"
     },
     "swth17pmg8hu03ddaaq68hct03whszvjflscj3kqxwx": {
       "hexAddress": "0xe5B9D482a0C22D8f381F72061911e1b80b668E5d",
@@ -19785,7 +21277,7 @@
     },
     "swth1w0td0wjvwuccqtjq8mhnup5gv694zw097shxh7": {
       "hexAddress": "0xe510FC6Fc5B2E2BBCa99378f0Dcb3ADDCc311a96",
-      "amount": "18878000000000000000000"
+      "amount": "72973000000000000000000"
     },
     "swth1ammx459meute6x7lsp6wds7e69gggzysy64zw6": {
       "hexAddress": "0x066712b11282DcF776235FF15A1743Ad416De117",
@@ -19833,7 +21325,7 @@
     },
     "swth14h6cxd3vs8s0emkkcfrqegd5c2cysa540jdaa9": {
       "hexAddress": "0xFFf9d5D06c1536007ade5a2211e6214D8e59845A",
-      "amount": "22478000000000000000000"
+      "amount": "23628000000000000000000"
     },
     "swth1qv0rw8kw6axy3506pe2p6u65fv7g87d7ek2qga": {
       "hexAddress": "0xa3499E2dB65CB178A44171084D4E1ef776D1E8c1",
@@ -19841,7 +21333,7 @@
     },
     "swth17y9gdgxfv06f67vcterep6s3ug26a5t9qqjuyc": {
       "hexAddress": "0x3c620ebBBBb5a214D3f5E0d3A1c7533524019ebC",
-      "amount": "8963000000000000000000"
+      "amount": "9039000000000000000000"
     },
     "swth1qmpds0qvrkpj7jzvw5m42k3ptnx2lrsym9tfum": {
       "hexAddress": "0x2630843c33578e9E05FB5C4bB8Ff0c54bC51552a",
@@ -19953,7 +21445,7 @@
     },
     "swth198upnclh5fjasx3ucn59z44a0wgz324z33m7qj": {
       "hexAddress": "0xEd55552891b6752810F97bC58F26c98996ef0D36",
-      "amount": "8478000000000000000000"
+      "amount": "39251000000000000000000"
     },
     "swth1c08p98tzt27qs79fqt8w8q6xg34wuwjk6z76vu": {
       "hexAddress": "0x83ac419Ee52Cbdd9399C0a731a6714342A3d6ef9",
@@ -19989,11 +21481,11 @@
     },
     "swth1xjr82f3kjq9ml4xh2qkfvyjdp0cl7sm9anuwet": {
       "hexAddress": "0x420139b54dfB7Ee0ceaf80376b9E7ef97Bd691C7",
-      "amount": "2695000000000000000000"
+      "amount": "9181000000000000000000"
     },
     "swth1rp46a03zxp88jpjyk44fdca69a75aktnmyef0q": {
       "hexAddress": "0x7C13822b572CB66027C890199f1A74e6b9b8B0b3",
-      "amount": "29321000000000000000000"
+      "amount": "29648000000000000000000"
     },
     "swth1ds8dxyvqesxfwy8s8vdh84sszdvt4ysy0frlp6": {
       "hexAddress": "0x9f0292B8057d2aA6Fcf9135b6CA1cCe52F938aCC",
@@ -20113,7 +21605,7 @@
     },
     "swth12yn9qnm7ugwcg74cdtu4tjc9mxwy3r5awk8pq8": {
       "hexAddress": "0x7b56d3eD269E57fF7bEBdaC95367ffC7e09B04fd",
-      "amount": "56872000000000000000000"
+      "amount": "64838000000000000000000"
     },
     "swth1lz54le4peat8s4e2almpljqzygets0aeeeuvxf": {
       "hexAddress": "0xB9Dd7BCDB71f7338637d04e628Dd6B86a7e1605F",
@@ -20425,7 +21917,7 @@
     },
     "swth1au9jcaxytnxvj8tzj9xtpd27254k9duqpguz22": {
       "hexAddress": "0x8A4E41e37016Ad990ABEFECAeF7D885b67F93546",
-      "amount": "71000000000000000000"
+      "amount": "73000000000000000000"
     },
     "swth1lc3kzk90rs7cw9mk0qrek0hq4twrmeftejtf4t": {
       "hexAddress": "0xDA311c8CC828cF4527DEaFE88AE7bD96490a34C8",
@@ -20973,7 +22465,7 @@
     },
     "swth1f5jjms99ntjdl72e9dy0d4y434y8vttcsd5rha": {
       "hexAddress": "0x4F53f6DB03d94AB88C571f1c0017D412BFd314e1",
-      "amount": "1182000000000000000000"
+      "amount": "1222000000000000000000"
     },
     "swth1zsnhzcgl53w46g0dmrecn7tahzsyx4tcdh3txl": {
       "hexAddress": "0x804424173F53fbec92B6F72da644470E02c1F686",
@@ -21033,11 +22525,11 @@
     },
     "swth1vzq4sthkfr5qqsf085hggzew5w2xryph08xuf7": {
       "hexAddress": "0x77DF3d6e7bD18cb299Ef0E73B8e491F7D159e28f",
-      "amount": "632884000000000000000000"
+      "amount": "634668000000000000000000"
     },
     "swth1v0cfhuhsgq387yvq5wkh99cxawt5hp3e7k9257": {
       "hexAddress": "0x7C0AAA07372Dc762440A174527Fdc72396B5C6Dd",
-      "amount": "50709000000000000000000"
+      "amount": "51958000000000000000000"
     },
     "swth1sdx3cdcvkvygkq24tcsa9z2z4lkszfu4r8tdm7": {
       "hexAddress": "0xE54De4900987a25106332E6538E920c8E619A1ba",
@@ -21089,7 +22581,7 @@
     },
     "swth12qrn5p7l3l3rkyryezd9fefw76s6nv69s94ht7": {
       "hexAddress": "0xbfB487361A70aD2aE1AfA41179BE762cfB34014B",
-      "amount": "5800000000000000000000"
+      "amount": "5846000000000000000000"
     },
     "swth1jcsa5l2dj4q9xrgfr0ce59hw38mlgcdd66aw6l": {
       "hexAddress": "0xC35C5D838D5253B267F5F92fb556d283Fda1b11E",
@@ -21101,7 +22593,7 @@
     },
     "swth1mk0am6cs84slr465vf8zggll2hzapmar5fs9xk": {
       "hexAddress": "0x609e41C33A2c060b3cb905Db924E465491d26603",
-      "amount": "4649000000000000000000"
+      "amount": "4763000000000000000000"
     },
     "swth16ccfhqxxqq4f9228wmu98n0mg9qnsu7mq3dtv4": {
       "hexAddress": "0x31e54B6df09BC34bc49779d96256429b9C1516D3",
@@ -21157,7 +22649,7 @@
     },
     "swth1e0w2edq7au9ynw40eptf8vxycxmamewa73ff0h": {
       "hexAddress": "0x01fBE98a97a04ECB6805F1A68e6622baA2B6f832",
-      "amount": "37848000000000000000000"
+      "amount": "37868000000000000000000"
     },
     "swth13nk5msddtektleelgpe57qyhyetxe0spyr2n45": {
       "hexAddress": "0x0478edd160d3377FE997978d4a06509B61F71fEA",
@@ -21213,7 +22705,7 @@
     },
     "swth18wdhga4uh45z2jeu3l2tux8ehvdtt6cp6wduu3": {
       "hexAddress": "0xCd130caDB92eCB4b5958710Cd09cf00CE9D7119B",
-      "amount": "149000000000000000000"
+      "amount": "152000000000000000000"
     },
     "swth1yjxn9p74gh2mut88scamwkj93ex0znpx6e5ygn": {
       "hexAddress": "0x8c4feb061BB9f15706c963De12c743D2080648A9",
@@ -21293,7 +22785,7 @@
     },
     "swth1tfdev7extfvmuuhy80w292am233hdnwty8vwut": {
       "hexAddress": "0x289f97b40eeaA9E2788Ce97682716093B10Bbc75",
-      "amount": "502000000000000000000"
+      "amount": "510000000000000000000"
     },
     "swth1z67sa6egj2awqd8gfyrpzsj9d8p25zg6at8y9z": {
       "hexAddress": "0x93d8441756861dDbC4e1DEb42A3f418dBDA5B66b",
@@ -21669,7 +23161,7 @@
     },
     "swth1acm8qgz56te7cqlvla3aywp95pw84sj8uw0787": {
       "hexAddress": "0xe6D8910053fd2174d5b8fd1E536Cd6591A55eb08",
-      "amount": "4416000000000000000000"
+      "amount": "4519000000000000000000"
     },
     "swth1kecy7vzypnx6hzh62wa3gzzppusqprw32zcufp": {
       "hexAddress": "0x632877d11a21995904e911Dae6AFF12f80302B3A",
@@ -21693,7 +23185,7 @@
     },
     "swth1hhswdvhmz02pmytc4xfpx2qqp5j9039whrmfwh": {
       "hexAddress": "0x6c5A08ae28569B2d1026148a304d5d046a86341F",
-      "amount": "89039000000000000000000"
+      "amount": "93639000000000000000000"
     },
     "swth1dpygphp3dh0fre5c03elvfjf0y60rytv76sdqq": {
       "hexAddress": "0xBe82Fb6a245B23Ed503Ba39dBbD42d9649dAc64d",
@@ -21713,7 +23205,7 @@
     },
     "swth1uca5envdq6alnj93qx0ws4sjdux4t2r8mc38hg": {
       "hexAddress": "0xcdEbBbe6300c3181761B8f207D733c50ea3eA534",
-      "amount": "14932000000000000000000"
+      "amount": "16420000000000000000000"
     },
     "swth1aq2ukcu823pr7upswmddvz6vp7hk7lve05npam": {
       "hexAddress": "0x2939B530B8e32E31285BB361b81FEaeae2eEe4eF",
@@ -21801,7 +23293,7 @@
     },
     "swth1p069rv4t3ph0v7cj6gjx4l428vmnxd24ek2d6k": {
       "hexAddress": "0x4166178b2bafc69D4bDC63f01A61060368dE977B",
-      "amount": "59768000000000000000000"
+      "amount": "69479000000000000000000"
     },
     "swth1dgysrtee3xfcul84zujldtnj6yzvvrt6sn48cd": {
       "hexAddress": "0x1E0984A857b56f00C730061B51D08e34289A569a",
@@ -21941,7 +23433,7 @@
     },
     "swth150ugezdadjywa95aulwq5lvdpjku3zf2srglqw": {
       "hexAddress": "0xCA5402558af3322c1e8DC91eb4767544E7D14A7B",
-      "amount": "9000000000000000000"
+      "amount": "405000000000000000000"
     },
     "swth1a4kg9l926vgy30gqpr7p2g2pdl4jd065a45gwt": {
       "hexAddress": "0x2A33167F1e50Ba82212d2a268e3A8bC56fBdB691",
@@ -22045,7 +23537,7 @@
     },
     "swth19gqem04hqjx7rmmcqxrg9msrv075ehxft4xt4m": {
       "hexAddress": "0x0C75b3836ff38D4765b3D6A2475D9C76f5E7e3fE",
-      "amount": "1495469000000000000000000"
+      "amount": "1530293000000000000000000"
     },
     "swth1aeqd4ja64am796600t4p4lcj5xjam3wehqszns": {
       "hexAddress": "0x110e679a29437b5c9be34E3A3a00eE1690326D39",
@@ -22281,7 +23773,7 @@
     },
     "swth126ts5ey2glnqrw4nfrshqpe9gux8kr0e7ws8e2": {
       "hexAddress": "0xb32252f671421b4EA44D257444DF291a7C840F7b",
-      "amount": "1578000000000000000000"
+      "amount": "1727000000000000000000"
     },
     "swth1kdvtd3q4zslq4vt59x4he6lhq4cpyftwdt89vf": {
       "hexAddress": "0xb86360340c282bdc813E2B04BD71f636Ced70640",
@@ -22421,7 +23913,7 @@
     },
     "swth1axqe3vc09fu6908ze7vcz0ns8deyszd2lrn3n6": {
       "hexAddress": "0x0906386C77b5c4F0ffaD46C2EC94bE598B20F73a",
-      "amount": "32000000000000000000"
+      "amount": "52000000000000000000"
     },
     "swth1svfj7h5ht5mpw5z6qpem856yrkwcxly4p3w5y7": {
       "hexAddress": "0xAF3C5510234041b9d8A9DF21Ad58c3f8bDc33Bf7",
@@ -22681,7 +24173,7 @@
     },
     "swth1s9y8arapc8h5gvtc7ntnya9q0jar4zt8x8mlh4": {
       "hexAddress": "0x1b3CCFea0dcC479CaDfAb03CA8e66670F7901DD4",
-      "amount": "194383000000000000000000"
+      "amount": "194419000000000000000000"
     },
     "swth1rcw7reektux3ywg3c3844kzjcp65e9hzup5zk0": {
       "hexAddress": "0xd387c9ebACf65D0eaE22Db4A26592DFC11256D95",
@@ -22701,7 +24193,7 @@
     },
     "swth1wlcevxy5w4w54v0z73g2hn67mpfwem8fc2tkn7": {
       "hexAddress": "0xD6cDcA02B0BE6e5D82e1E252a15b93f6D0E48dce",
-      "amount": "2368000000000000000000"
+      "amount": "2530000000000000000000"
     },
     "swth1sn49d0a9t729wlyh0fdmjv5zu33s7cad2j0uc7": {
       "hexAddress": "0x5B33651534294C975bEC5C3353A97f20567C8B6b",
@@ -22773,7 +24265,7 @@
     },
     "swth1k0epx49hgau9dathpyk3nc7jfrnnzts7ujp0er": {
       "hexAddress": "0xcd529FfB3EfA9B038d99C530455a5081e6F68B92",
-      "amount": "38000000000000000000"
+      "amount": "40000000000000000000"
     },
     "swth1tfvglyl34tyyl9ddgc3dlmksrkz58adhh42hvx": {
       "hexAddress": "0x383604aaff012028eB4c8b783BD1E5869695c713",
@@ -22873,7 +24365,7 @@
     },
     "swth14gk2f697p4h3nyf4s6vrenl6ua29nx26v3jfv4": {
       "hexAddress": "0x6D865954c25242C8c61f7b8565034CEa9c6Ad344",
-      "amount": "188000000000000000000"
+      "amount": "203000000000000000000"
     },
     "swth15s2hwe455v4ufmsx9k6luajhgeg72ghs5h6cs5": {
       "hexAddress": "0xd8ffa014271610746E84ef605A306780aF493663",
@@ -23069,7 +24561,7 @@
     },
     "swth1wg240ml54t0a3z57q9nl64fatjk7f270nxgdv8": {
       "hexAddress": "0x3025511aDA2660eF2D11c65c4C9335749BadAc7F",
-      "amount": "284000000000000000000"
+      "amount": "340000000000000000000"
     },
     "swth1nw7jgx6ycxazgu0qq6s6t4ldhu7wvghu2ecxcv": {
       "hexAddress": "0x6E735d56D8aB112b6B40a781066811D0Aa01B26C",
@@ -23245,7 +24737,7 @@
     },
     "swth15x56s37qd4p997xuxkrk674jnk38lh8qwe4f65": {
       "hexAddress": "0xA574591E6aB0A80D2372493190BFe96dD11e91De",
-      "amount": "7129000000000000000000"
+      "amount": "7749000000000000000000"
     },
     "swth1r30hz5eesy4gtjvada5qx9cw4gj2eqa792mlw3": {
       "hexAddress": "0xDAdE2C1a809208Db14787584f102a03E5de55389",
@@ -23349,7 +24841,7 @@
     },
     "swth1x8s3kqftdlp87s032ht2mypaqe7462mfcv33fk": {
       "hexAddress": "0x6bEcd3acF82efAb1f78b95F810Cda4293CAf5d89",
-      "amount": "746000000000000000000"
+      "amount": "1639000000000000000000"
     },
     "swth1xrls8lns4q4larckuxlh0amrwqu8mpae27c9xe": {
       "hexAddress": "0xF926b5F2131275e5A3EB71179e9656326215ad11",
@@ -23385,7 +24877,7 @@
     },
     "swth1de85ec0tt2uypdgeu3dsv4dq035dxc3rac58dd": {
       "hexAddress": "0xA59B14F695F2183dFAa848c813127F64db06C1d2",
-      "amount": "636000000000000000000"
+      "amount": "641000000000000000000"
     },
     "swth10us6k0d9c8dc3lnssa0gwlsk6sumya6a7l9s8x": {
       "hexAddress": "0x13362a4b176c85Fd46a919A173e9e0E9eC5db8b6",
@@ -23429,7 +24921,7 @@
     },
     "swth1ycplx8q79y2takfwfg2ejk3emx7wngfkplthwt": {
       "hexAddress": "0xd567fc8b1D62C819E1b47412Cbb92c6497C65b39",
-      "amount": "110000000000000000000"
+      "amount": "135000000000000000000"
     },
     "swth1nlq0wjpqldnc74ewtlu3uxh9g5065xnjuknfck": {
       "hexAddress": "0x23810497Ea2B432B0404055663B04d8DC11A6c00",
@@ -23469,7 +24961,7 @@
     },
     "swth1s9wna97kv48sntzhxx5yjkvnkxvwhwy23u4nmy": {
       "hexAddress": "0xc365357dB3212EEc84E5C173D95bD5A4D916FEE4",
-      "amount": "1520000000000000000000"
+      "amount": "14379000000000000000000"
     },
     "swth1lzqzs8qkkgvlhyundtu3wnr3239tezad296y54": {
       "hexAddress": "0xa13Bc131d8B6c844328BE70a7c338A90c23d5da7",
@@ -23697,7 +25189,7 @@
     },
     "swth1t4d2wzq57xmkm5kg44megpu3v4wcwvs8velqjv": {
       "hexAddress": "0xCc8158Ce67A87312F05a2F81917aD4BA3Ab5ce21",
-      "amount": "5325000000000000000000"
+      "amount": "19588000000000000000000"
     },
     "swth12klq3fa4k3lam2pw0ss6x3ux3l6lgd6z49036c": {
       "hexAddress": "0xC884C00a1521D53A858D3f4eBEFc3c9e621a0e36",
@@ -23813,7 +25305,7 @@
     },
     "swth1374cj67lw253f6ppg3dcv8d7wduyfr0vvzvffl": {
       "hexAddress": "0x1C620FD85CC3DCc27DE236580Ee1c72dffb6cEAA",
-      "amount": "99568000000000000000000"
+      "amount": "107664000000000000000000"
     },
     "swth1zkhgl00q2rph20knzvz9hv064jp4wkgmqrr5cm": {
       "hexAddress": "0xc869878a0c72f3b352F60b7bDa7f94717FE70078",
@@ -23821,7 +25313,7 @@
     },
     "swth1z2gsuu6n3h4vhfdvk2nqt00nu3rt6xjwkn82u3": {
       "hexAddress": "0x1d678A61c84C424bCaA156b3d57378fD10bdF02F",
-      "amount": "206000000000000000000"
+      "amount": "267000000000000000000"
     },
     "swth1wmee8s6s7k4uy6gg0cjvy4zkljjf5tgk6ykh9p": {
       "hexAddress": "0x9B4f3AE19CF52b25932AE2b60752331479688C9F",
@@ -23853,7 +25345,7 @@
     },
     "swth1hs9mjg56yyd8qdjpl6tvszs5mmqs9g0q7mhn4j": {
       "hexAddress": "0xd04AEd1f9589Aa76e6d422D78037844cFfD0e46A",
-      "amount": "80000000000000000000"
+      "amount": "4175000000000000000000"
     },
     "swth1w0mmtjlk5ssde3uq4l5xkllhzfh5lt5el5kl9j": {
       "hexAddress": "0x2Fec06122Ac3DA706c8119382b1e6373c176cD88",
@@ -23961,7 +25453,7 @@
     },
     "swth1e6pyxyzkvfsmtcg4elf7acas90j6l7zdsay8js": {
       "hexAddress": "0xC283951B47cC6a00575C85b39Aa00ff247b017F5",
-      "amount": "25158000000000000000000"
+      "amount": "33688000000000000000000"
     },
     "swth1m2nlz3024wmpwmytmeawntdvglde2vx7ggytga": {
       "hexAddress": "0x06947AD3ae60Ced08D565dDAd221dCF0DA493F33",
@@ -24009,7 +25501,7 @@
     },
     "swth1xln4gfnrk7k545tnxt5qtgre9x2l3lhr65d5dt": {
       "hexAddress": "0x9639e58457A9AF66B8b8417778408f235aAF6659",
-      "amount": "338000000000000000000"
+      "amount": "475000000000000000000"
     },
     "swth1cg7vczznledc8lyxkr0dxxy438jtk8q90lpyzy": {
       "hexAddress": "0xd56EE5Ba5A52e15f309108BDd6247C69B4F624C2",
@@ -24021,7 +25513,7 @@
     },
     "swth1ceed0pff8rnmkecnhp2nmqz5pzras08h3tjuad": {
       "hexAddress": "0x700c3a2769abA33165436d3AdB1a8a7b67921E4e",
-      "amount": "61000000000000000000"
+      "amount": "674000000000000000000"
     },
     "swth1z98eg2ztdp2glyla62629nrlvczg8s7fs4387l": {
       "hexAddress": "0xbB9E42Ca95F404da85c9dCa465D9cF7244F117D8",
@@ -24033,7 +25525,7 @@
     },
     "swth15dcjj6ngzu3jnkjumkp2sqye2508m0ye5p3v50": {
       "hexAddress": "0x106ABE1230C20e069d934359223F21c20F0d2d8A",
-      "amount": "1429000000000000000000"
+      "amount": "1576000000000000000000"
     },
     "swth1nd7jn4myz88ymsn6ve4lyk0jve90tsps6azjzy": {
       "hexAddress": "0xca3146c9531F4f579aeBA5E66af056FDa407A885",
@@ -24045,7 +25537,7 @@
     },
     "swth1d98vk9m7dzm69haqwcqkdeyuk9nwujy7286mle": {
       "hexAddress": "0x79BDB4f3A553C286189a5f6279739de3806d6527",
-      "amount": "2051000000000000000000"
+      "amount": "2720000000000000000000"
     },
     "swth1k4xgy2m4ctav3gfxdyelfhvhe356mxv0qhzh9t": {
       "hexAddress": "0x5da727553667ef41b764069f9a5F18952053e55C",
@@ -24141,7 +25633,7 @@
     },
     "swth1cz0au7767g08d0afdt2tk2tky5z7t0405wdss5": {
       "hexAddress": "0x8d618FA04dFAC3Cba606c415bE7066d14568854D",
-      "amount": "152000000000000000000"
+      "amount": "164000000000000000000"
     },
     "swth15s5v7hq2vlwra53lkhl2qqphtp9l477p06k6zu": {
       "hexAddress": "0xDC93f27e5A6BBC1bb579005a047FB99699d02843",
@@ -24153,7 +25645,7 @@
     },
     "swth1crqy5vc3ealskqtzp2xup406u2cmvv39vwzwwq": {
       "hexAddress": "0xf02A0A563A288ABd2EF5d42876297b42C11ef7EC",
-      "amount": "2106000000000000000000"
+      "amount": "2604000000000000000000"
     },
     "swth1vjv7an3j4nuldtft2vamhwl9dfw2q6l0cuekuh": {
       "hexAddress": "0x59f258c03D5b9dba349bA2C66dfea3B04700ce44",
@@ -24273,11 +25765,11 @@
     },
     "swth1r27alljhgfa4v3vkeywkrn5yxldttlpcvrnlxq": {
       "hexAddress": "0xaabF3aC495f458F8cf2A35D79b9fBB4B4146009C",
-      "amount": "244000000000000000000"
+      "amount": "1428000000000000000000"
     },
     "swth1crxt9h3r7u4yneyfmhu9quh5fmsgeahk0gtjuz": {
       "hexAddress": "0x4A90Db0d00434f2Bd934Ea66aB362e33B408f052",
-      "amount": "478000000000000000000"
+      "amount": "489000000000000000000"
     },
     "swth1dy5tqcv7gdacq55cw0sc4swvrk0jt5s4f9xu3d": {
       "hexAddress": "0x009E88f9B07c4AaDD5336064f7C35703bD152550",
@@ -24293,7 +25785,7 @@
     },
     "swth1tqajwhew3f2p3t9rffxvk9eelh283ynn4l9mew": {
       "hexAddress": "0xDB91dc1612869c2056987e925a24AFC5B59fa30F",
-      "amount": "591000000000000000000"
+      "amount": "915000000000000000000"
     },
     "swth1m8ya32rhkctv02zcpej3mz54l8sx5cwmsf04fl": {
       "hexAddress": "0x0C46108e16AF0610612Ba8C39A957cC6a31a4A2e",
@@ -24369,11 +25861,11 @@
     },
     "swth1p87v92qkrckcwsq2hgk2jw7acr2ylzx70k0plh": {
       "hexAddress": "0x04B8b5af39f4187142f75E920A11883848002975",
-      "amount": "9171000000000000000000"
+      "amount": "16205000000000000000000"
     },
     "swth1znk0486fa4sdftsm92cvx83lz3va84t4vam9lr": {
       "hexAddress": "0x6CE492257b8ED67C03671936A42973C95A21F3b6",
-      "amount": "4851000000000000000000"
+      "amount": "5398000000000000000000"
     },
     "swth1v8jcqr2ngrkgauyn6j0pxwh02k6m78vxtqty9z": {
       "hexAddress": "0xF009Af0A5FE6d7825B7A4969D6e77ff7773210ED",
@@ -24381,7 +25873,7 @@
     },
     "swth19zcyptw37at2pht74t27nms0xpz8hdzhl86t86": {
       "hexAddress": "0x0e563b9c062523404260c8b23297A3Eb7a618279",
-      "amount": "3545000000000000000000"
+      "amount": "9714000000000000000000"
     },
     "swth1kaquty7ny650vla4qwm2090huhrv977lvutnzv": {
       "hexAddress": "0xFd059176D392E30b74d74bbd769717a3eB6887A2",
@@ -24393,7 +25885,7 @@
     },
     "swth12s69q0nxdrxmcrjsqfqcvwkan0zlqfkmlataa8": {
       "hexAddress": "0x028E17782DBe945De0A41a7Fe19f5BF55DC0C252",
-      "amount": "2020000000000000000000"
+      "amount": "2316000000000000000000"
     },
     "swth1wcwt9w46m35059nluuzu4uqujxqewtqr4sye7s": {
       "hexAddress": "0x1F33993Ec4c64Fb62fF9f3160680c18D90b2f680",
@@ -24401,7 +25893,7 @@
     },
     "swth1fv43yr6n2ehq0f3xtafuj564875g87zz2xqh9v": {
       "hexAddress": "0x0fDCF981E3a6899F15ca6A8C703fF4864765fE54",
-      "amount": "1646000000000000000000"
+      "amount": "4104000000000000000000"
     },
     "swth1u5na8s3w5dfs8vya8nut0e2xgmfx2ssvrwwmfl": {
       "hexAddress": "0x5f063C79B351a5Ba3e6ef46a1d3Be1A0224af1D3",
@@ -24445,7 +25937,7 @@
     },
     "swth1c3pu7cegrx8at7g2znyyf77h0j9rr829u33saf": {
       "hexAddress": "0x2CE9d7E3F3376Dd2327Ec54A6020D3cdC05cBE5C",
-      "amount": "479000000000000000000"
+      "amount": "527000000000000000000"
     },
     "swth178f36sp95ck8w94az5ep0x6y90r9vc3v3aty8a": {
       "hexAddress": "0x5B49fAB8AA39F4568814057Ea44b887a3AaD1D51",
@@ -24453,7 +25945,7 @@
     },
     "swth1lj5almeecfc6mjpry28a4hp9gq9myr95s4y76x": {
       "hexAddress": "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
-      "amount": "426000000000000000000"
+      "amount": "643000000000000000000"
     },
     "swth1fjfm8n5ngvk6z2wjnmwqvlxxtfhp659vh088j0": {
       "hexAddress": "0x9Adae48504b85FB252AF6a45F6A73346F9d8EBA1",
@@ -24485,7 +25977,7 @@
     },
     "swth1p80lhzwskyzjpqkuv6keyhcmllxjjselfjqyjd": {
       "hexAddress": "0x43c95631d4AF09a4AaC5E99aD1ffB209Ac248D72",
-      "amount": "348000000000000000000"
+      "amount": "449000000000000000000"
     },
     "swth1p4vgzrv45qmvsq5nshs5t5ewzl4wy70rks7s2s": {
       "hexAddress": "0x469b3017edaFa7f5C579881BF3598d652119776a",
@@ -24521,7 +26013,7 @@
     },
     "swth1599hatgvf76v6g3p48kh2umnh6833989y98clt": {
       "hexAddress": "0x7BF732761D8D6791F47F799A29Ce5aE9a39Fc4E3",
-      "amount": "271000000000000000000"
+      "amount": "2358000000000000000000"
     },
     "swth1s7agr37lzw9lh4vu0cmvyjqlndf464vjmsjlrd": {
       "hexAddress": "0xa3a0BDE9BD42c634AbaB2F7bE2f328762B318721",
@@ -24545,15 +26037,15 @@
     },
     "swth1sf9jnss449hxjpdcs3q0m0lammhaauczpfjc30": {
       "hexAddress": "0xE424B642b9740Fe0791fB3E94b23Ce28a6930292",
-      "amount": "205000000000000000000"
+      "amount": "48908000000000000000000"
     },
     "swth1jujx5td7jn7hddcu2edjv09rayfm8lj4yczf79": {
       "hexAddress": "0xc1fA4ed8aE378721d617aB3eF8e7a35FAc453c64",
-      "amount": "200000000000000000000"
+      "amount": "201000000000000000000"
     },
     "swth1hmz433j07eqe4vnf3qwzp4gmv6urkxhg926u0t": {
       "hexAddress": "0x6d2948766222508CE63be42ED60361640f42c611",
-      "amount": "199000000000000000000"
+      "amount": "541000000000000000000"
     },
     "swth1lxdvyj47ydlxrdz9a2dwrhplu223thygh094f7": {
       "hexAddress": "0x0319Cd0aC071abcb479c0beE32AD6B28d8a79083",
@@ -24561,7 +26053,7 @@
     },
     "swth17gvw5h792n6dfhrmql0eldm6y6qt73ctumvrfp": {
       "hexAddress": "0x9265c4cA35b82f3Bf2cf444CDF9e4D387bE38978",
-      "amount": "191000000000000000000"
+      "amount": "193000000000000000000"
     },
     "swth13efuma2pr07hr9r6nq3arszah0a8nmcaakavgv": {
       "hexAddress": "0xD8c233b8aF7e608Fac6A05562F61D644DC81b4C6",
@@ -24569,7 +26061,7 @@
     },
     "swth130unrsd3upg5hu0w4rsf2kpmdkfrjulgy54etp": {
       "hexAddress": "0x46232CbDB0512Ca7B00B8271e285BF8447F1330b",
-      "amount": "177000000000000000000"
+      "amount": "1091000000000000000000"
     },
     "swth1dwhylm5x3pqadrvggkww86r7vdrd8utx5ta5er": {
       "hexAddress": "0x18dB6E32a2eF79387d7600379BD959A383972F75",
@@ -24653,7 +26145,7 @@
     },
     "swth19k8mq5xav8pqmacw7kskazzcjth2knrsvdckla": {
       "hexAddress": "0xA01C5972B1001aC249b6B81700F5619d627f372c",
-      "amount": "133000000000000000000"
+      "amount": "1677000000000000000000"
     },
     "swth1u9phj53xknktsgvya5g7d3sh0yyxgpyrflwjs6": {
       "hexAddress": "0x6136a9716A1eF288771390Bb3479a57b25557DE1",
@@ -24665,7 +26157,7 @@
     },
     "swth10gjgv0vw790nq0q86qvpwqthvw4992pff4lxf6": {
       "hexAddress": "0xF4be805aa67007a52E49e35C32c3D84dEc596c93",
-      "amount": "131000000000000000000"
+      "amount": "152000000000000000000"
     },
     "swth155unfws4zv5cc4hfqfa02kskjx7tg50e8n0hha": {
       "hexAddress": "0xB03b842601D20cd9f2082E2cd015Bd48503D1B7f",
@@ -24801,7 +26293,7 @@
     },
     "swth16wrceddzl2gv8vrdc2ruhkgplvxw3vgqqg5mev": {
       "hexAddress": "0xC85032a2e77bE215A095Fc8b77C0E3e16Bb69BF9",
-      "amount": "93000000000000000000"
+      "amount": "96000000000000000000"
     },
     "swth1tn0amuk3qfqr8wefq36c9530tdjtjrfgx8s434": {
       "hexAddress": "0xa19663eF5587716c357f42bC8217F9e60Bc7CC02",
@@ -24809,11 +26301,11 @@
     },
     "swth1ffv6mznjnla70vsny2cuv7xtruwhp3886jee7s": {
       "hexAddress": "0x665b8Ab1526FF81Fa5a900779c101601666f0A7B",
-      "amount": "90000000000000000000"
+      "amount": "168000000000000000000"
     },
     "swth1r4dlwck6et4tszmlnldwgju83ggsfw9cgnj2y7": {
       "hexAddress": "0x1a7Bc3953662bFf98Cd90dC5929F61C5B8892E14",
-      "amount": "89000000000000000000"
+      "amount": "406000000000000000000"
     },
     "swth1egc9fxdtsgx4fm5vhghnat4ra0trpfn63wamaf": {
       "hexAddress": "0x92228FFb485Fe39E5479837E0697829504527Fdf",
@@ -24821,7 +26313,7 @@
     },
     "swth199sfry8f2jqmnf47xevcaehyqdhc2q6h3f76fq": {
       "hexAddress": "0xAdDD1e6774DA8A9665C04f2C2A4F495534477cA5",
-      "amount": "85000000000000000000"
+      "amount": "167000000000000000000"
     },
     "swth1q6rxtdgk4p88c6776jqs7sxd4ms6k4tq32p2lj": {
       "hexAddress": "0xdF732fb53058189e8AeA7E562e8470b3f9Bccbd3",
@@ -24841,7 +26333,7 @@
     },
     "swth1zfzt82y39mapv2w8xg699c65gnccep84gcmqpg": {
       "hexAddress": "0x0f6e00FDe8D31c90A5eD4F447acF0398e6a27884",
-      "amount": "82000000000000000000"
+      "amount": "86000000000000000000"
     },
     "swth1acq3jstyffwgw8yf0rgqcgd0k7dyeledym4ne9": {
       "hexAddress": "0x5dfBceAa6600fFB2654F6adBbA7935E18e7bfce9",
@@ -24869,7 +26361,7 @@
     },
     "swth1y888lk7pj6zvr57a6u0cpye544vadlx0csjfgx": {
       "hexAddress": "0x07978917c2Bf8c51eEeb3668E9aA378bf609b12A",
-      "amount": "75000000000000000000"
+      "amount": "752000000000000000000"
     },
     "swth1uzfykc55u2qlqle9yxq6sqhxztzlvheaggx0j7": {
       "hexAddress": "0x8D048aC2a837F28389Da11d370A6d0e2d54Eaa87",
@@ -24921,7 +26413,7 @@
     },
     "swth1jdcw0v7fv69566edw8ehdrtq3ju2mqxzstls5p": {
       "hexAddress": "0xc0D8f846bF752523831C0ad1fa1FDf5461354d55",
-      "amount": "64000000000000000000"
+      "amount": "75000000000000000000"
     },
     "swth1jcklf3820ugvexr52ggmvkpuj2494hgwu9wrx6": {
       "hexAddress": "0x13f56AB34472DD9dfbfEF63eC0B87F0c40E56461",
@@ -24985,7 +26477,7 @@
     },
     "swth1wqhfsc9k28shya6c2zm6hksrfgjzchujufqtk2": {
       "hexAddress": "0x56592cf406bE36007D911728C731a782cBF8CF00",
-      "amount": "57000000000000000000"
+      "amount": "1117000000000000000000"
     },
     "swth1jhhk2xznway0r6nxx7n2wvf5glm8dd7kt3atfv": {
       "hexAddress": "0x0EBBFC8d21809FdA013520670B51BA7dfD440FB7",
@@ -25041,7 +26533,7 @@
     },
     "swth1c8jhn68j3l9k4m85uw40gqhevml4xhetssmu75": {
       "hexAddress": "0x31BDaeaeFbBdc1DD9f902aad666477276D72251f",
-      "amount": "45000000000000000000"
+      "amount": "73000000000000000000"
     },
     "swth1m67tvr3ev36eldljy8kc6hzjl7dtw9km4znq4x": {
       "hexAddress": "0x9E6329bd04b13b26c7A9528Faa549968df46ed45",
@@ -25057,11 +26549,11 @@
     },
     "swth10can5h35g2msjshqmhy5gym8slncn5ev0skuaz": {
       "hexAddress": "0x12523F549aeF807169fdE773F07FaFf515072F6D",
-      "amount": "27000000000000000000"
+      "amount": "78000000000000000000"
     },
     "swth1m04csr8kf5r4lk4hxgzslrmmtvelr6u2expx5g": {
       "hexAddress": "0x7a7CFa906ee447007EB1400fefBA1E2bb25a8168",
-      "amount": "26000000000000000000"
+      "amount": "1580000000000000000000"
     },
     "swth1m9t35cnpq65wuapvm66f2clh3wy2xz5plaxcms": {
       "hexAddress": "0xA069F2204CAB4862c861925AD40b113D158A5E2F",
@@ -25069,7 +26561,7 @@
     },
     "swth1wpjval0rm6w5apr9sa9f47dpv6xy7qwcl7drj8": {
       "hexAddress": "0x7927F51b919830082f9634b2e4E88fe1bBa6D040",
-      "amount": "16000000000000000000"
+      "amount": "99000000000000000000"
     },
     "swth127rt9zgjgazgfewe2qml8s6qke87lpf3g4yfrh": {
       "hexAddress": "0xA14eb9DB77A9261582d2EE1bC2679B4497e4390E",
@@ -25121,6 +26613,498 @@
     },
     "swth1yvehs7gvhujv69yuusj76r42gput4pkhdvax5n": {
       "hexAddress": "0xF1D2C24BA2fBC8627f18fA117924B8B9d2FF02fE",
+      "amount": "217000000000000000000"
+    },
+    "swth1hu3g3ys07y4v6clm0z4al2e5kc7xgl529w28fk": {
+      "hexAddress": "0xaf0414D6dEF7A0d01D78c50a2ccEfcC5AEC0b051",
+      "amount": "3864000000000000000000"
+    },
+    "swth1t6rjmnlkfj6zw6fz92cthcnuzh0xu48f5sflep": {
+      "hexAddress": "0x94Dec968fAe3e97Dfbc7e84EA83A16c94c086e8B",
+      "amount": "3493000000000000000000"
+    },
+    "swth1hv7dj2w48fwvdqk96kkgykcnphfw3v9he7tevh": {
+      "hexAddress": "0x7B0De21Cf254faFcbf3C22aD65ea2377302aAD83",
+      "amount": "2322000000000000000000"
+    },
+    "swth1nj8w2jzks984hh4jrhr42askghlt0uy6pce50h": {
+      "hexAddress": "0xC65522542Dd6b9bE9b59A7Fad9FB5B45ee7657Ef",
+      "amount": "2066000000000000000000"
+    },
+    "swth1skgnf5vn9htja8tk7rya6alaty6vkt4mwun9cq": {
+      "hexAddress": "0xC85C19d2513b966840F40EF31CcfE76229761DBB",
+      "amount": "1820000000000000000000"
+    },
+    "swth1z2ftdlwpskgj9p0q0k9yzrrma0e5gmhecupqhy": {
+      "hexAddress": "0x33fD06D4A90b545BF3c332438B8d9536F6bbdb42",
+      "amount": "1589000000000000000000"
+    },
+    "swth1n0j6hs8z80puzsz4dahkcvy45fwa48crrva3ah": {
+      "hexAddress": "0x046825BFD2ab4562E0308e48526B779Fd897d539",
+      "amount": "1568000000000000000000"
+    },
+    "swth1eg8t0y6d05neyj9ja42ty4csvf20ruefqqtwxj": {
+      "hexAddress": "0xd5D1A15db6616cF80A174F6DCA08F9EffD8BF1Ae",
+      "amount": "1232000000000000000000"
+    },
+    "swth1t4awj5ynd6kr0mfhuwwpx774ps0lngt3agk7wa": {
+      "hexAddress": "0x24F221e9A2b03b4a6C7906d11C47e92692D0da17",
+      "amount": "1215000000000000000000"
+    },
+    "swth19y4llhpshussf5gsd6hr3gh5ltnfncs5awg5my": {
+      "hexAddress": "0xC321d10ffE2E55bF4b9CE88e82A52383C48ba340",
+      "amount": "1165000000000000000000"
+    },
+    "swth1taq7vts2n4vlhdp5gersy2v9mkrsxf9dkjlxxk": {
+      "hexAddress": "0x4BD33dEC5816466E8D97ACCCDAA985C25fa4330c",
+      "amount": "1074000000000000000000"
+    },
+    "swth1rsvq8e0etgfsztf6wfmmk7ydh8hskqsyp6m709": {
+      "hexAddress": "0x6B101A4B04B6c60e1Fdd97045D55F54F74183912",
+      "amount": "726000000000000000000"
+    },
+    "swth1rt8n3fr3agdp77fy0xywsv6lw8u32j2yczzkzw": {
+      "hexAddress": "0x6CF9D6B5e5Fbea0DD911eAdE8A6D9203fAaAb8CF",
+      "amount": "691000000000000000000"
+    },
+    "swth13h02g7kxhnqq2nc36lazlqwl3yw4z97c78t8yx": {
+      "hexAddress": "0x7414B1F140d35C73cF39D052Ff0aA3b68164Fc36",
+      "amount": "413000000000000000000"
+    },
+    "swth1apvyn8evkp2yrqenm7px09lm7526jt0wh80pae": {
+      "hexAddress": "0x5ed57EeAF2755D3db49bD4330461ADaf65a8C1d1",
+      "amount": "371000000000000000000"
+    },
+    "swth13gu6zhxrdtr0yhy0c6kj9dm7rzrytxs8e0fvdu": {
+      "hexAddress": "0xEe743DFef98fCFA5064Ce38B21f888D84C490360",
+      "amount": "368000000000000000000"
+    },
+    "swth187phswwft3twadflwtcgdmsxyeqazkpt63j8sj": {
+      "hexAddress": "0xa21b23e5f07E5E28cB42d09502227Eb75b0B64B5",
+      "amount": "361000000000000000000"
+    },
+    "swth1q3jakh0sd7e7dwq34428qcu4e3k40d7ew75963": {
+      "hexAddress": "0x392fF8ADB20A658B86f29Fb85bfa6d1D30AC74C3",
+      "amount": "357000000000000000000"
+    },
+    "swth1w57r5cwg6nmrlz4mz23n9hfll3ejg9uev8hphp": {
+      "hexAddress": "0x326203E94aaFC3DF65AbE8A7E7776ac1ffCE0982",
+      "amount": "343000000000000000000"
+    },
+    "swth13pwuewffptx9tj64l9skqxsx79qfgxh0wjld67": {
+      "hexAddress": "0xcfB331ADE6D66Ad1cB6765a2dD51aD3Aa9A1400E",
+      "amount": "329000000000000000000"
+    },
+    "swth13qs26vmjxeu90lum0y82kh0c6wj0syfpcdqfe3": {
+      "hexAddress": "0x0EB3d962fde6E985aC6fF90D0d35722bF815e6bC",
+      "amount": "313000000000000000000"
+    },
+    "swth12wfmjvrq48h3wwgmp4zvwsg3mvqr8s7jnlj4zs": {
+      "hexAddress": "0x9FB9C2a6f4407DD29b8a39199237D408E5Bf783A",
+      "amount": "277000000000000000000"
+    },
+    "swth1qyyr38ftsymr4uutptrd70zt5utp9aa53zs8q4": {
+      "hexAddress": "0xC7716C81134D698C970e28e0328D653Ae3c97Ae7",
+      "amount": "264000000000000000000"
+    },
+    "swth1rudhncakdj4ngw8m8khjyygtknccaemnxxfn7u": {
+      "hexAddress": "0xC65a58AadDc28f3854C038F6b80f4AbdEc25E0a7",
+      "amount": "244000000000000000000"
+    },
+    "swth1ql9ccqc5krwtapeuu33kd4dw79p0s82lf3sj2z": {
+      "hexAddress": "0xB4B78DFc2F3D0a91c239F075c3FdAeA84E85325E",
+      "amount": "242000000000000000000"
+    },
+    "swth10hc7xrfmsd3u6rlzl8wyhdp74809jc06884cuz": {
+      "hexAddress": "0x254860Df1cc517a907636537BBC6D755aE8072F0",
+      "amount": "222000000000000000000"
+    },
+    "swth1gjss23n996f99qxwryylhs4y5ayuvag27hnkwh": {
+      "hexAddress": "0x64329a78D2125eE465ffd7fA06A004C6e6807439",
+      "amount": "219000000000000000000"
+    },
+    "swth1zmykyhxpdfmwq6qa5u3yn4yt0xj2qgvcrmqgd5": {
+      "hexAddress": "0x89C5B5Eed247b9CAE343fD28A51a74a88bD5F1aE",
+      "amount": "216000000000000000000"
+    },
+    "swth1vd5sa3vcxdrg20y9486c3x7zlwa4nkgw0l7w8h": {
+      "hexAddress": "0x0313580C6840d0E32A42BeeD4f4f832D011Ef473",
+      "amount": "214000000000000000000"
+    },
+    "swth1705t6u64fcnssl55ntrwmf0s85hh6vufn4nl8a": {
+      "hexAddress": "0x965866217bA4d8834CC21b543fd027696A18A575",
+      "amount": "213000000000000000000"
+    },
+    "swth1n8v44pgx8gkqvdlgs5q5cj4wxmej45rc970cq3": {
+      "hexAddress": "0x008EAb1c733e9819E70f566cF95BA4cc4AdDA635",
+      "amount": "207000000000000000000"
+    },
+    "swth1d2786cz3cfgneyl5dcswp8prsclpgrs544u345": {
+      "hexAddress": "0x5221FE845a6eb381AF787196D70cDA5Cda6DECE4",
+      "amount": "207000000000000000000"
+    },
+    "swth1n5tad8f4mwtlgegxmlut5entt5pdr99ecnr7kj": {
+      "hexAddress": "0x2a57701cc3338dEd47fe44695DB146342caB2428",
+      "amount": "207000000000000000000"
+    },
+    "swth1m6pf2a2l7dvhxm290yue7dzhxlkz6dttfl487k": {
+      "hexAddress": "0x43A69FF916a7Ecb413aa0a5DF7d9B5285d68C8Ec",
+      "amount": "205000000000000000000"
+    },
+    "swth1n4er0awh69r9ypjzu4un6092dp53y2ad7vud0a": {
+      "hexAddress": "0x5fdc0D0d543190693983D4fE92526f72239365a7",
+      "amount": "197000000000000000000"
+    },
+    "swth1yr70unglz4c35pmuehjgmlzelc83jcl39n2wdf": {
+      "hexAddress": "0xb9f384802F8F48163384529fef44ae65fB5a31A4",
+      "amount": "183000000000000000000"
+    },
+    "swth1fspezfhj2v5uty2z4rp2lwv3xy3rw4mzj0ckj8": {
+      "hexAddress": "0x53cdAce625CBccEA93D9cCc3c5A613ac5D75c164",
+      "amount": "179000000000000000000"
+    },
+    "swth1myngc3j8urmv54gx9nnyeylvxqsplqm26e6k9h": {
+      "hexAddress": "0x81f61281e484C4188c665674838AAbDd2AF218dE",
+      "amount": "178000000000000000000"
+    },
+    "swth1p3hz4tjkafjq40cwjdp3ses04c3wakxcy7nmc9": {
+      "hexAddress": "0xf9683fE8eDACd5a78219729E16c1DDe07bB0CBBa",
+      "amount": "178000000000000000000"
+    },
+    "swth1ul70zkryqxqhl8jwt85k0sv8v3gyuwjd9uqe2v": {
+      "hexAddress": "0xdA9249550181236C40B32990AEa45489208F9B75",
+      "amount": "174000000000000000000"
+    },
+    "swth1dluvqsjknt9mtdjfaa0vdx49rfcqlv367sf6gj": {
+      "hexAddress": "0xb7243AC8d8ca7C174B1c78aA4a2Ef3eB69Ff6ce9",
+      "amount": "166000000000000000000"
+    },
+    "swth1lwnxq08yyqwwu3t8we9zvhp923vu4syt4wvk9e": {
+      "hexAddress": "0x21603596DfA092203a4d5862346322E75F9c309B",
+      "amount": "162000000000000000000"
+    },
+    "swth17kk6m9q4gsh5zxdluhmp7y3ztsn3hxvm6jkug6": {
+      "hexAddress": "0x62236aebf363D1446048686e29694dA647684809",
+      "amount": "160000000000000000000"
+    },
+    "swth18py3plhf35gulxh2c06rzgywev43l8ywwsvmnm": {
+      "hexAddress": "0xB66603345b4bB95616eBbb70ef6405B297122503",
+      "amount": "159000000000000000000"
+    },
+    "swth1jpecelqswnq9jta0s3cggtp875g3yw8wq6hz8t": {
+      "hexAddress": "0x7D3200DCDBE217e649Adaea7619F745E271D1628",
+      "amount": "158000000000000000000"
+    },
+    "swth1tpqplcp3gw7f2qjtcsxhkhn8t8chjwhyced28y": {
+      "hexAddress": "0x6941E5E29F02590098CA921060a245FE83E975C0",
+      "amount": "156000000000000000000"
+    },
+    "swth13g6g0my5qg782g2mqeq374wgj09vvnvugnzteq": {
+      "hexAddress": "0x227D69418C80B25254cE5D1Db1c1805B13072116",
+      "amount": "148000000000000000000"
+    },
+    "swth1ct9vhxqmzfknvhznxwyd550le6f5talx8xrxhu": {
+      "hexAddress": "0x82db741414c1202A7F25E77C7C6A53146f6e5303",
+      "amount": "147000000000000000000"
+    },
+    "swth1rt3mm84ywp6d3gkur85tu3qs6erh7nrapfpqk2": {
+      "hexAddress": "0x351354f88e43CB503fBE3731d52E0995c81d4801",
+      "amount": "146000000000000000000"
+    },
+    "swth1azxw4lml85w2rtvs2g7vcreggeu958f74g497j": {
+      "hexAddress": "0xA66748E7eAeF339a6a2817f6ac21b34630578982",
+      "amount": "146000000000000000000"
+    },
+    "swth17xyrhzpu6f2pqdrplala6x3au40lsqr2pm4m5s": {
+      "hexAddress": "0x89bd69Eec01cd8eb2Ce41503B55800349Ab4b3aE",
+      "amount": "142000000000000000000"
+    },
+    "swth1rz03w7nkwj2uft5rmkeevgp3l8gdx555l0vhg9": {
+      "hexAddress": "0x8F7583bEAA6465998233dc3408ED0AAde25f23B8",
+      "amount": "136000000000000000000"
+    },
+    "swth16jg9vtp0w68a2q402wyg2c9dcpd6krlr78nkhw": {
+      "hexAddress": "0xCF1d056F70fA2AA49513C3E85b947D2b055Bccd0",
+      "amount": "127000000000000000000"
+    },
+    "swth1s70mq7pntpg2d6ahnksvvpy33crmcyw3nqmttp": {
+      "hexAddress": "0xAE701c414E86A0c17E94f5819F0a4b96a42aF9CC",
+      "amount": "118000000000000000000"
+    },
+    "swth1n927cevptxk7k9zphranc4gat4xt0fkmtkdl8r": {
+      "hexAddress": "0xA60C935150F52f0eE475E22265A88f499aEa07F3",
+      "amount": "117000000000000000000"
+    },
+    "swth1qmj450ph985qyq2drzn5hmuznd6txsj7qrjz6t": {
+      "hexAddress": "0x62a39F7b89A01fC395790D547AE8a48086AF3f17",
+      "amount": "116000000000000000000"
+    },
+    "swth1p8jr34zrxu8uehjwv7kc6lvp7prgzgw5unvvhv": {
+      "hexAddress": "0x0679756e4b8E90e75fC458Ff5003BfAE5035B138",
+      "amount": "115000000000000000000"
+    },
+    "swth1hplslcnfjxd3r7mly3s8se5pd04c6c7am264l4": {
+      "hexAddress": "0x685c99E8780e5a7f158617cC2E9acc0e45a66120",
+      "amount": "115000000000000000000"
+    },
+    "swth1f6fzmwr4h2gxsfj9397fm035hcas6e3sf4uvdl": {
+      "hexAddress": "0x4Ae237e422dA14215189fC2CDFB63FA646E10668",
+      "amount": "115000000000000000000"
+    },
+    "swth15q3gxc54ef0eg0pvfkegly99trn7yqzh8uxrhf": {
+      "hexAddress": "0x09F2522360Eec32c7D748023dF6F87d557a7cCEe",
+      "amount": "114000000000000000000"
+    },
+    "swth1asexgd0w7jymqa2htr4g5t2r29ru9pzcjdvu54": {
+      "hexAddress": "0x5F9b046E312dDa38302798888E3a1DDE514d636A",
+      "amount": "113000000000000000000"
+    },
+    "swth1q3l0hrs2mxk2zzv84atknf9jh62gl6j9r7nd45": {
+      "hexAddress": "0x7eD8DC4d40ACD98B595F1e489c7Fc587DA7dA843",
+      "amount": "112000000000000000000"
+    },
+    "swth10drfff62zvd6qtgcggfa0x4kvcxzev589mkes9": {
+      "hexAddress": "0x287C9921657FE16B5F15B64178546A88641D8ea7",
+      "amount": "112000000000000000000"
+    },
+    "swth19rpahneylwyxstnxrfptuexy0fje2mz6xalrkn": {
+      "hexAddress": "0xaBeC3a6F6F6243884713D757899eA19b6406C50c",
+      "amount": "109000000000000000000"
+    },
+    "swth1pmty7qygyguaelyksqhw9nqkhgyvf5g32jfnls": {
+      "hexAddress": "0x4a4bF562ab833cbDAC11fDc6C10Dc92c5B46984F",
+      "amount": "106000000000000000000"
+    },
+    "swth12ytvgtas2kht4lcrwq6qzfcqry4ter72fcnd03": {
+      "hexAddress": "0xf9Bb823a2eaA181ab89B79CEA6301274368999b4",
+      "amount": "94000000000000000000"
+    },
+    "swth1d5smlpuvyh6r5kp5khj2cnukwd4u0h3uk8g9un": {
+      "hexAddress": "0x90Ae92CD6AF97FaD517055D82Ee76a4B629BfBd5",
+      "amount": "88000000000000000000"
+    },
+    "swth1wuzdwml4njcft20f5f3lad2yn5eehx9v2w2fhj": {
+      "hexAddress": "0x3B7844240cBb0e696D2344E82367e17B29671599",
+      "amount": "85000000000000000000"
+    },
+    "swth1rpx09r2xvajfgjkvkm9vnyg60pe3wutvdyt9jn": {
+      "hexAddress": "0x04603cd09de07f910f894EFE340ba72891ec1CC8",
+      "amount": "85000000000000000000"
+    },
+    "swth1pzyztkrchywgypmjh3k2peq3e37xr3jcwtrqdj": {
+      "hexAddress": "0x020c7046FF975e04f71111AFDbC0440fd1dd96E6",
+      "amount": "85000000000000000000"
+    },
+    "swth1kfrvautplcj6el7u9t9yl9xp7ttr5lkqlvg6g4": {
+      "hexAddress": "0x610336E20AC62Fa46BFC38d7488d66568252Ae92",
+      "amount": "85000000000000000000"
+    },
+    "swth1ygyaszza3y4nvedxd65g5sayk74qeqx4eex8sa": {
+      "hexAddress": "0xc0141cE7db7245F5726745A8f1cf21a8523b1d0D",
+      "amount": "85000000000000000000"
+    },
+    "swth1ua46n6wwef9zcuh6qlmhztt2gqdh022kjwx83n": {
+      "hexAddress": "0xc4787DcedcDa449Fe6FcaFcB8A01f72Af5E152AB",
+      "amount": "85000000000000000000"
+    },
+    "swth1hw4myxnnrlmeh7wt685gdgxe6gassrydleqps5": {
+      "hexAddress": "0xF05F0aDFe5c23506f2f47584ABA9AD1c31BEe18F",
+      "amount": "82000000000000000000"
+    },
+    "swth1y0mdlvup608xjxwjlm4fdavk5mntvmflyu09al": {
+      "hexAddress": "0xAa5fc3f5dff11A7765E5FF9ED92354FB1AB8a05F",
+      "amount": "82000000000000000000"
+    },
+    "swth13kma6dt8dqrcynee0grzpepsw4jedjnj2hjytj": {
+      "hexAddress": "0xA4c42B7c89489457b01898E92AB5a71ed6E549Ab",
+      "amount": "80000000000000000000"
+    },
+    "swth1favfv6sqzr0y8hnru4trrzpue4d30f6xtdulvm": {
+      "hexAddress": "0xAc37423287A3165DC6Bc1Ea9dE0a4116C9d33901",
+      "amount": "78000000000000000000"
+    },
+    "swth1k3jfyh7vhcg6hmjxpphvz6yxrlsqjeldez80us": {
+      "hexAddress": "0x0FfA5a266F8Ad70ba093c01F34dBE677324aa4f9",
+      "amount": "78000000000000000000"
+    },
+    "swth1myzszxlty0sunfdyjkrzgm25d03yre6ghwph56": {
+      "hexAddress": "0x61D445e67965E1E7AF288c0336d17B37340e7ac1",
+      "amount": "77000000000000000000"
+    },
+    "swth1lg8a8k4a43kv36jp4ftgja4pel67u8de56kv7x": {
+      "hexAddress": "0x3b5BA1661172CB4e5cd435646aA0864182Bce7b7",
+      "amount": "76000000000000000000"
+    },
+    "swth1nk6fe39s8mnyu3kwev83ycukvnd7a64zmmkkl2": {
+      "hexAddress": "0x8db903C0753DdE0E7DFFFA8310357a741b3eBEEF",
+      "amount": "74000000000000000000"
+    },
+    "swth1h2qaqkfzls0rf7fh3slryy3wl7s748gd8p7fr8": {
+      "hexAddress": "0x121E1573B7C6c15Aa4C036d54BFd2974Cf38a163",
+      "amount": "74000000000000000000"
+    },
+    "swth1urf9ksav9hsw5khg9eqvngcktnlz34n3l6uqll": {
+      "hexAddress": "0x511b39d10CfBE749f863bfed7E40E60CC520B694",
+      "amount": "74000000000000000000"
+    },
+    "swth185m32k40kea0p25kktyaqpz45frtycduzxr2xg": {
+      "hexAddress": "0x4C7240D06C7D9eF356252A34C725b5371269F25c",
+      "amount": "74000000000000000000"
+    },
+    "swth1vddfcxyww2rwxdyzscazzkp8fzshphkhyfc2xs": {
+      "hexAddress": "0xf14010c8BE4E12C7C3CF087BC35285A9EdEd88dc",
+      "amount": "73000000000000000000"
+    },
+    "swth1rpfchthl0eshgkv9jvg4w2ekykufq3pmd2w0a8": {
+      "hexAddress": "0x3e2BF1C1442135eC1FD7d9c22bf076fea04F64D1",
+      "amount": "73000000000000000000"
+    },
+    "swth1ztcs5stgf9rummk3v2yw0clurcmxjy3yk4d0mq": {
+      "hexAddress": "0x136D2fD4DD0A6c82979D1C8059Da713963b261c6",
+      "amount": "73000000000000000000"
+    },
+    "swth168k65epj78wkpyyq9wrpqeetvjmu5tmmqxhan6": {
+      "hexAddress": "0x9e2e1046B75696626C76d4ABD20084Dec8F0c2BE",
+      "amount": "73000000000000000000"
+    },
+    "swth1w82j7y5wvqql72rhpd37uq2v669vpjxn32rtaq": {
+      "hexAddress": "0xad369f2A07756bf0558e57b04FDA9FD4974D5019",
+      "amount": "73000000000000000000"
+    },
+    "swth1nq3qlzmm2243hvkkalghdj80delm0zj55wz2gu": {
+      "hexAddress": "0x8ab86546FD3a0143EeabF4320693006f354201c4",
+      "amount": "73000000000000000000"
+    },
+    "swth1yau92l44nrx4wj9ke02emrkc5m4uwvmqhkulhk": {
+      "hexAddress": "0x5083466613E684b6D6236aED2C8D85f8CE8b032a",
+      "amount": "70000000000000000000"
+    },
+    "swth163sm20w7eczwyy5u276q3sruspvspmgex7jw7j": {
+      "hexAddress": "0x8f8d8bB404f4dA8A48Ca78f87E237c9644DaD46c",
+      "amount": "70000000000000000000"
+    },
+    "swth14aavd4r0n8vxvuefa4hp3edhtx29quzxvsl4wk": {
+      "hexAddress": "0x389BD7a171c837f9AD00CFA45F2163adA530B958",
+      "amount": "68000000000000000000"
+    },
+    "swth1lzdw5dh6rujrf8lr9qka8wx90v3gmxlergxdmn": {
+      "hexAddress": "0xB911F3481056BDc24AAC921e6766F3A4E2C13222",
+      "amount": "53000000000000000000"
+    },
+    "swth19yn7k9gm2w4uxhekty6d4cld66mrg0jppgfcf8": {
+      "hexAddress": "0x52D1aC71653A7Ec75Bc84e87BA3CC9312d46FC2F",
+      "amount": "52000000000000000000"
+    },
+    "swth1dtgvvqmt8yyvy5scy9v0k07ytvq8q8lsls5w8x": {
+      "hexAddress": "0x23d90B11e3127b86F004D1B0F8b7A29d37E5CcBf",
+      "amount": "51000000000000000000"
+    },
+    "swth10kut0qe7zm2s5sx87a2qvgh04wkr854qupth2m": {
+      "hexAddress": "0xC8b5Dd3165E26cB5ce952178A8d259A2Faf4Ae8b",
+      "amount": "51000000000000000000"
+    },
+    "swth1mdxuqx9fczzeunr2hgpzy09q75fhwnz04ngzea": {
+      "hexAddress": "0x5dA2370C90Edc0cBcAf1363902F5267AA343b2A4",
+      "amount": "51000000000000000000"
+    },
+    "swth1dustlwax40ratqtm6ascyfqd8xkx944z885mrx": {
+      "hexAddress": "0xd6e9ac1C3c669075188C3FAdeFe3f8f1A74f5738",
+      "amount": "49000000000000000000"
+    },
+    "swth1pm8jahrr9072t6d7c75zhked9hmpze4ydgtnf2": {
+      "hexAddress": "0x786098b14eb5F1aca90d755C14555b740c8Eef0d",
+      "amount": "45000000000000000000"
+    },
+    "swth1jugmdvq23hc43ju5lm6gzrxzw37sylwdd98hl5": {
+      "hexAddress": "0x448d248616b0B26957Bb6d6a73F695AEc3e23Dc2",
+      "amount": "43000000000000000000"
+    },
+    "swth19vhc9tvgsdwus2hcsaedep2j0sny06v8wz6csu": {
+      "hexAddress": "0x74861d974a79a0c467d700Dc8592CaCbc791bEd0",
+      "amount": "39000000000000000000"
+    },
+    "swth1r04ysn6rxf9x6aprqsjk50ljvasdvr0ply3yu0": {
+      "hexAddress": "0x1b9d7e2faA7b654119c3D0EbC83d4b58FEA5A72E",
+      "amount": "38000000000000000000"
+    },
+    "swth1dkrtqm9kncz24c0aezll9pyqgj40dazn5wd998": {
+      "hexAddress": "0xC0A2034E86073238D60e18d2379A47608b389357",
+      "amount": "36000000000000000000"
+    },
+    "swth18kqhj6l0y0j86kzhdkuyngsjard2xey0a9q9g8": {
+      "hexAddress": "0x91FFcd552f88Ff7b13C282Bbed16645873ccab6b",
+      "amount": "33000000000000000000"
+    },
+    "swth1gmwszn4amfp5v9shpmzshrdp8repnhenzjgkmc": {
+      "hexAddress": "0x1094315150f08c56856FeE426A64fE0b885e65d0",
+      "amount": "32000000000000000000"
+    },
+    "swth1f4e6lu8ga9zm2044825g2w9pav3ygkwycwddc6": {
+      "hexAddress": "0x1Dd1925dD126De0BDDA33dB4E81cF96fD46392b5",
+      "amount": "31000000000000000000"
+    },
+    "swth1fyc3x3kr65f3km5gdkcf34kawskdz89uljahgs": {
+      "hexAddress": "0x00F7b9Bbc704e67c8B2959E32c524eD61d6d1CC4",
+      "amount": "30000000000000000000"
+    },
+    "swth1yjamkztvsumjzg5hzlxfkh6e5jtt3ckqz04j8e": {
+      "hexAddress": "0xFcea8B1953E3E9fADF240f57Fa4b093A9d8D2B78",
+      "amount": "25000000000000000000"
+    },
+    "swth1f9y3q0eegqrgu3v0370th47p4l455rxmwa67zw": {
+      "hexAddress": "0xeD6dE19F89DAc8823BBbaA67042C14F7CBD18d1D",
+      "amount": "23000000000000000000"
+    },
+    "swth1gvluxl2pw5k3cmv05zsej80sjvyhlk33yvu3ru": {
+      "hexAddress": "0x051b21E295499C8fD3b5332B73ebDb771B61bd8C",
+      "amount": "23000000000000000000"
+    },
+    "swth19zry7cufrrjw5h6rgcywashe06uy3ycaavw33j": {
+      "hexAddress": "0x1D4b8aF0b07c6e647E49333Fa498c0EE1bB0D37f",
+      "amount": "23000000000000000000"
+    },
+    "swth10vwhwmgmaqtnlljl57l6lrdh0uge67w7ruzv6c": {
+      "hexAddress": "0x9B0b9121b8B2c98c06A94350b7bA7e1304b47f65",
+      "amount": "23000000000000000000"
+    },
+    "swth1paaml0knqap26tuh5qg2gwz7n95hzzwvrfdrnu": {
+      "hexAddress": "0x809d27d9b4115970aFF645B3406e2c8895C96838",
+      "amount": "22000000000000000000"
+    },
+    "swth1kfjdcsktn7ekr299c9seqnjcfyjhp50hzfdyrk": {
+      "hexAddress": "0x2416c28AAb5b6EB451B8b82E790a543eA3229a80",
+      "amount": "13000000000000000000"
+    },
+    "swth1wlfgxxk0yzdl2h2dwdp6d7fu49pnuwy2s00ll3": {
+      "hexAddress": "0x4cd6B970F42B41Ee58c2e4B7aB99863d5AE52A23",
+      "amount": "13000000000000000000"
+    },
+    "swth199uu3q8wvltmgpyhy0tnn42u9rturkcd8a2sau": {
+      "hexAddress": "0xfBDF28EF58b5f116e816307cac095f87f51198A7",
+      "amount": "8000000000000000000"
+    },
+    "swth15jnmegpylcmvndypl2a088ncej60r7yn55xczl": {
+      "hexAddress": "0x350b6Fb19432269862425d884F9B11E1aeCd31Db",
+      "amount": "5000000000000000000"
+    },
+    "swth1ayt04zs7tuynkjpe0g6xc5v8clxel0afe2fua3": {
+      "hexAddress": "0x28b5FED8bB7Dc59B0e083786F2ef596D0a357aCB",
+      "amount": "5000000000000000000"
+    },
+    "swth1m00fl80q79t09t8jelfykyg6snmdym8yj0fsnm": {
+      "hexAddress": "0x2f57D9585601579F7932bC91351242cc520f06fb",
+      "amount": "2000000000000000000"
+    },
+    "swth1qd9ex9yeu06tjdkpacf890q98wuhhjzd7vlktt": {
+      "hexAddress": "0x6d422BFdD653DC8A61316bE7A44D34F7101691C3",
+      "amount": "1000000000000000000"
+    },
+    "swth1gxuvtpgu5rzapl95vypj6njwwqgs529qlg3y3m": {
+      "hexAddress": "0xD24D4f49bfd649396FD93d0ACB24d8A18BC35DFF",
+      "amount": "0"
+    },
+    "swth1namaq8nml6g3m9mldyaf2s5eqsjwkdkrdnqevw": {
+      "hexAddress": "0xce5C443039dDA0d5b102E8F1143fBea8FE5B47e5",
       "amount": "0"
     }
   },
@@ -25131,7 +27115,7 @@
     ],
     [
       "0xf9eAaa0E52E14688F2723d6865C5301424f89A03",
-      "2359818000000000000000000"
+      "2359936000000000000000000"
     ],
     [
       "0xD0Cb115E9cd1b4E0C29A9ADCfD2A59A632eA5c3C",
@@ -25139,7 +27123,7 @@
     ],
     [
       "0x0C75b3836ff38D4765b3D6A2475D9C76f5E7e3fE",
-      "1495469000000000000000000"
+      "1530293000000000000000000"
     ],
     [
       "0xa827e44b3f83608cC1749ee8c91098952A129509",
@@ -25147,7 +27131,7 @@
     ],
     [
       "0x77DF3d6e7bD18cb299Ef0E73B8e491F7D159e28f",
-      "632884000000000000000000"
+      "634668000000000000000000"
     ],
     [
       "0xd88E5e183743E1Cf5C800B057BC1e64Ed0E1eAef",
@@ -25155,11 +27139,11 @@
     ],
     [
       "0xC691c5F59A6Ae7fC22ce64EfDdB4b919A9c64626",
-      "440116000000000000000000"
+      "440156000000000000000000"
     ],
     [
       "0x7d001FE8D4e0fDf1f1F23b73927Db851a93Da6A5",
-      "416025000000000000000000"
+      "435024000000000000000000"
     ],
     [
       "0xB2CccEfA11Dec9C2910BB267ce8024B33b901a77",
@@ -25167,15 +27151,15 @@
     ],
     [
       "0x4C338b5D95F6842a3b214DCA27c49A4a124Fa26D",
-      "407196000000000000000000"
+      "407366000000000000000000"
+    ],
+    [
+      "0x9C7cd9bF6aB2cD1290B884f3a49ED216Bd072fA2",
+      "324522000000000000000000"
     ],
     [
       "0xA64dF56dB6E0DeE384F40a1e79ed0860F6b80cED",
       "269387000000000000000000"
-    ],
-    [
-      "0x9C7cd9bF6aB2cD1290B884f3a49ED216Bd072fA2",
-      "266001000000000000000000"
     ],
     [
       "0xbE9e8E7034c0Dae1b95A96a6bC604bE938FD482b",
@@ -25191,7 +27175,7 @@
     ],
     [
       "0x1b3CCFea0dcC479CaDfAb03CA8e66670F7901DD4",
-      "194383000000000000000000"
+      "194419000000000000000000"
     ],
     [
       "0xAA755144E4d7B0C3B1522C65eb8978f47Ac31583",
@@ -25199,19 +27183,19 @@
     ],
     [
       "0x87fd0a5a9Ff1ADc3024F1ad934a693e8d341b281",
-      "147347000000000000000000"
+      "147421000000000000000000"
     ],
     [
       "0xEb8828043BA8dfA0392Cc67D23d3c708384beCE1",
       "111328000000000000000000"
     ],
     [
-      "0x110e679a29437b5c9be34E3A3a00eE1690326D39",
-      "105874000000000000000000"
+      "0x1C620FD85CC3DCc27DE236580Ee1c72dffb6cEAA",
+      "107664000000000000000000"
     ],
     [
-      "0x1C620FD85CC3DCc27DE236580Ee1c72dffb6cEAA",
-      "99568000000000000000000"
+      "0x110e679a29437b5c9be34E3A3a00eE1690326D39",
+      "105874000000000000000000"
     ],
     [
       "0x46968482Ee9Bbe79bB666C79922Ff5c95C89808b",
@@ -25219,7 +27203,7 @@
     ],
     [
       "0x6c5A08ae28569B2d1026148a304d5d046a86341F",
-      "89039000000000000000000"
+      "93639000000000000000000"
     ],
     [
       "0x46d9Ec2BF42a70461F4368da6884CefC965Dd243",
@@ -25234,8 +27218,16 @@
       "74401000000000000000000"
     ],
     [
+      "0xe510FC6Fc5B2E2BBCa99378f0Dcb3ADDCc311a96",
+      "72973000000000000000000"
+    ],
+    [
       "0xC02ce3a3a899f74282dA87F38e23F0B983935C60",
       "71908000000000000000000"
+    ],
+    [
+      "0x4166178b2bafc69D4bDC63f01A61060368dE977B",
+      "69479000000000000000000"
     ],
     [
       "0xf0cDe3cA7c6150EaB8Cd1e3079f605d0d03bFd85",
@@ -25246,16 +27238,16 @@
       "65889000000000000000000"
     ],
     [
+      "0x7b56d3eD269E57fF7bEBdaC95367ffC7e09B04fd",
+      "64838000000000000000000"
+    ],
+    [
       "0xe98Cb39a3E64e1b08E397215340Bb7c5bfF3aAC7",
-      "62731000000000000000000"
+      "63951000000000000000000"
     ],
     [
       "0x6Bb19F96F2Ea1117558E892E2d63ea44CA674b6B",
       "59996000000000000000000"
-    ],
-    [
-      "0x4166178b2bafc69D4bDC63f01A61060368dE977B",
-      "59768000000000000000000"
     ],
     [
       "0xECd018c2dcaF58B649B0734Ed2d4ec55B85D9E90",
@@ -25264,10 +27256,6 @@
     [
       "0xe08213AD4e48bC743a40Cb950fB50730a8de4bd0",
       "57792000000000000000000"
-    ],
-    [
-      "0x7b56d3eD269E57fF7bEBdaC95367ffC7e09B04fd",
-      "56872000000000000000000"
     ],
     [
       "0xC8c5b9D3D97F5622634F8290F10A35A1180fEAe0",
@@ -25283,11 +27271,15 @@
     ],
     [
       "0x7C0AAA07372Dc762440A174527Fdc72396B5C6Dd",
-      "50709000000000000000000"
+      "51958000000000000000000"
     ],
     [
       "0x1078813bFE0289Fc5CEEa03d1C7095ee0d9de810",
-      "50162000000000000000000"
+      "51301000000000000000000"
+    ],
+    [
+      "0xE424B642b9740Fe0791fB3E94b23Ce28a6930292",
+      "48908000000000000000000"
     ],
     [
       "0x3a3a8dEaB6FE7f30DEdB7e693D3e38Ee0405B38E",
@@ -25298,12 +27290,16 @@
       "40308000000000000000000"
     ],
     [
+      "0xEd55552891b6752810F97bC58F26c98996ef0D36",
+      "39251000000000000000000"
+    ],
+    [
       "0x8902ac3bd633A248E3eDe1a32a386791ed205d4F",
       "38157000000000000000000"
     ],
     [
       "0x01fBE98a97a04ECB6805F1A68e6622baA2B6f832",
-      "37848000000000000000000"
+      "37868000000000000000000"
     ],
     [
       "0xF9402a627b3C5B39Eb792652bA44f2f28Fb3BBA6",
@@ -25312,6 +27308,10 @@
     [
       "0x482e84116c16d083D66E2C8635c6Fc99f57391C0",
       "35417000000000000000000"
+    ],
+    [
+      "0xC283951B47cC6a00575C85b39Aa00ff247b017F5",
+      "33688000000000000000000"
     ],
     [
       "0x062aE8c097942E2Db8A1E9C6EB06AAac0B00C7D9",
@@ -25326,12 +27326,12 @@
       "29765000000000000000000"
     ],
     [
-      "0xB2C8f73D1CC53818199415f6b911BD7a185b3F4c",
-      "29589000000000000000000"
+      "0x7C13822b572CB66027C890199f1A74e6b9b8B0b3",
+      "29648000000000000000000"
     ],
     [
-      "0x7C13822b572CB66027C890199f1A74e6b9b8B0b3",
-      "29321000000000000000000"
+      "0xB2C8f73D1CC53818199415f6b911BD7a185b3F4c",
+      "29589000000000000000000"
     ],
     [
       "0x8e5ECa79f5644d39F3E743a01eee5a9c218B0126",
@@ -25358,10 +27358,6 @@
       "25268000000000000000000"
     ],
     [
-      "0xC283951B47cC6a00575C85b39Aa00ff247b017F5",
-      "25158000000000000000000"
-    ],
-    [
       "0x8665777a3673B37A4E4711358c0Ca79D7c2029CF",
       "25041000000000000000000"
     ],
@@ -25378,12 +27374,12 @@
       "23822000000000000000000"
     ],
     [
-      "0x3795A6e7B4AC347f0f197570AF93f263FE97eE59",
-      "23256000000000000000000"
+      "0xFFf9d5D06c1536007ade5a2211e6214D8e59845A",
+      "23628000000000000000000"
     ],
     [
-      "0xFFf9d5D06c1536007ade5a2211e6214D8e59845A",
-      "22478000000000000000000"
+      "0x3795A6e7B4AC347f0f197570AF93f263FE97eE59",
+      "23256000000000000000000"
     ],
     [
       "0x8eb2E2789eFC3b888d4Ac154C548eFbb02C7AB80",
@@ -25426,16 +27422,16 @@
       "19775000000000000000000"
     ],
     [
+      "0xCc8158Ce67A87312F05a2F81917aD4BA3Ab5ce21",
+      "19588000000000000000000"
+    ],
+    [
       "0x3F75943B5FEb4994330E90fb09Df53E6060115A2",
       "19246000000000000000000"
     ],
     [
       "0x085459F376d8fe339802E941aBF2b17c1c662b3b",
       "19223000000000000000000"
-    ],
-    [
-      "0xe510FC6Fc5B2E2BBCa99378f0Dcb3ADDCc311a96",
-      "18878000000000000000000"
     ],
     [
       "0xa14fD80464113a0A74Dbfd07E39327C6aF1B5c7b",
@@ -25478,6 +27474,14 @@
       "16589000000000000000000"
     ],
     [
+      "0xcdEbBbe6300c3181761B8f207D733c50ea3eA534",
+      "16420000000000000000000"
+    ],
+    [
+      "0x04B8b5af39f4187142f75E920A11883848002975",
+      "16205000000000000000000"
+    ],
+    [
       "0x91B313657Aa7FB90FaAFbF82355D476f654907DC",
       "15605000000000000000000"
     ],
@@ -25490,12 +27494,12 @@
       "15316000000000000000000"
     ],
     [
-      "0xcdEbBbe6300c3181761B8f207D733c50ea3eA534",
-      "14932000000000000000000"
-    ],
-    [
       "0xE7Cf5BfE73531a31c9C2BDDA20fe6bbb34a30AAa",
       "14582000000000000000000"
+    ],
+    [
+      "0xc365357dB3212EEc84E5C173D95bD5A4D916FEE4",
+      "14379000000000000000000"
     ],
     [
       "0xdaF64C68De382125493C5A9a298ea45A954f789c",
@@ -25606,6 +27610,10 @@
       "9847000000000000000000"
     ],
     [
+      "0x0e563b9c062523404260c8b23297A3Eb7a618279",
+      "9714000000000000000000"
+    ],
+    [
       "0x279b0Ff2Ef687f10f056049251A339B2b5957C2C",
       "9713000000000000000000"
     ],
@@ -25626,12 +27634,12 @@
       "9219000000000000000000"
     ],
     [
-      "0x04B8b5af39f4187142f75E920A11883848002975",
-      "9171000000000000000000"
+      "0x420139b54dfB7Ee0ceaf80376b9E7ef97Bd691C7",
+      "9181000000000000000000"
     ],
     [
       "0x3c620ebBBBb5a214D3f5E0d3A1c7533524019ebC",
-      "8963000000000000000000"
+      "9039000000000000000000"
     ],
     [
       "0xb4B95D43ed5b289c76Cc059ab71207a0D5F575bd",
@@ -25652,10 +27660,6 @@
     [
       "0x3Ab39a49f97607573b53c8AdCB217B2C3803A694",
       "8634000000000000000000"
-    ],
-    [
-      "0xEd55552891b6752810F97bC58F26c98996ef0D36",
-      "8478000000000000000000"
     ],
     [
       "0xcb20b0fB74091e17e9CefCBc41a8aF513596Dd1b",
@@ -25718,6 +27722,10 @@
       "7756000000000000000000"
     ],
     [
+      "0xA574591E6aB0A80D2372493190BFe96dD11e91De",
+      "7749000000000000000000"
+    ],
+    [
       "0x1E11e4AB6499c31FDEE77704FB29da21765a2967",
       "7659000000000000000000"
     ],
@@ -25732,10 +27740,6 @@
     [
       "0x7EDb160B3B1299457eeF672DecEaC71e63bfC3F6",
       "7275000000000000000000"
-    ],
-    [
-      "0xA574591E6aB0A80D2372493190BFe96dD11e91De",
-      "7129000000000000000000"
     ],
     [
       "0xE3De013415CC7DD4b5AC40efb10f9CF51D38afcc",
@@ -25787,7 +27791,7 @@
     ],
     [
       "0xbfB487361A70aD2aE1AfA41179BE762cfB34014B",
-      "5800000000000000000000"
+      "5846000000000000000000"
     ],
     [
       "0x70438D38DfbCA48A1E4c1cA5B39834722660e935",
@@ -25814,16 +27818,16 @@
       "5405000000000000000000"
     ],
     [
+      "0x6CE492257b8ED67C03671936A42973C95A21F3b6",
+      "5398000000000000000000"
+    ],
+    [
       "0xa3C9c8a203297EE437e204EdC44cEc91EECc02fC",
       "5359000000000000000000"
     ],
     [
       "0x0B316d782cbaB1a17E2494BdC07dcC9aACB82Ed6",
       "5345000000000000000000"
-    ],
-    [
-      "0xCc8158Ce67A87312F05a2F81917aD4BA3Ab5ce21",
-      "5325000000000000000000"
     ],
     [
       "0x778E835b52bbaA9f9b65F6a6EDa7Ac9fb35D590a",
@@ -25846,12 +27850,8 @@
       "4854000000000000000000"
     ],
     [
-      "0x6CE492257b8ED67C03671936A42973C95A21F3b6",
-      "4851000000000000000000"
-    ],
-    [
       "0x609e41C33A2c060b3cb905Db924E465491d26603",
-      "4649000000000000000000"
+      "4763000000000000000000"
     ],
     [
       "0x410764c53E9e3930441114595218A573CEC93FB1",
@@ -25867,11 +27867,15 @@
     ],
     [
       "0xe6D8910053fd2174d5b8fd1E536Cd6591A55eb08",
-      "4416000000000000000000"
+      "4519000000000000000000"
     ],
     [
       "0x5e1D3cFb086bD459069a88e9E286E0469173cf0c",
       "4292000000000000000000"
+    ],
+    [
+      "0xd04AEd1f9589Aa76e6d422D78037844cFfD0e46A",
+      "4175000000000000000000"
     ],
     [
       "0xdE29be2DbEF58168b21dAb3d7E7B7F132dC5BE05",
@@ -25884,6 +27888,10 @@
     [
       "0x538ebe875aC43Ad33A13f634B3Ba8256132022b0",
       "4107000000000000000000"
+    ],
+    [
+      "0x0fDCF981E3a6899F15ca6A8C703fF4864765fE54",
+      "4104000000000000000000"
     ],
     [
       "0xb13846507c4Eadf40da4214DF1137ec13047BFD6",
@@ -25900,6 +27908,10 @@
     [
       "0x84838a3e72773E1d44605a98405B883c3F39Ab90",
       "3866000000000000000000"
+    ],
+    [
+      "0xaf0414D6dEF7A0d01D78c50a2ccEfcC5AEC0b051",
+      "3864000000000000000000"
     ],
     [
       "0xbD8e8C6ff2A8335CA8fBec30678c24B5e1562f51",
@@ -25926,10 +27938,6 @@
       "3595000000000000000000"
     ],
     [
-      "0x0e563b9c062523404260c8b23297A3Eb7a618279",
-      "3545000000000000000000"
-    ],
-    [
       "0xdcAF2b01C62A9456e8FC34d2131Cf24c4AA5503b",
       "3520000000000000000000"
     ],
@@ -25940,6 +27948,10 @@
     [
       "0x1EB1415F5C9B6E6274a2568A7672C6B68A955afB",
       "3504000000000000000000"
+    ],
+    [
+      "0x94Dec968fAe3e97Dfbc7e84EA83A16c94c086e8B",
+      "3493000000000000000000"
     ],
     [
       "0x81fa5A85faFF7fc12E9A19874BFc0f6557b73a37",
@@ -26030,12 +28042,12 @@
       "2738000000000000000000"
     ],
     [
-      "0xa3499E2dB65CB178A44171084D4E1ef776D1E8c1",
-      "2697000000000000000000"
+      "0x79BDB4f3A553C286189a5f6279739de3806d6527",
+      "2720000000000000000000"
     ],
     [
-      "0x420139b54dfB7Ee0ceaf80376b9E7ef97Bd691C7",
-      "2695000000000000000000"
+      "0xa3499E2dB65CB178A44171084D4E1ef776D1E8c1",
+      "2697000000000000000000"
     ],
     [
       "0x0478edd160d3377FE997978d4a06509B61F71fEA",
@@ -26044,6 +28056,10 @@
     [
       "0xa6ac0B8D6B5719e4E8CBDD098c0a2495848C055E",
       "2651000000000000000000"
+    ],
+    [
+      "0xf02A0A563A288ABd2EF5d42876297b42C11ef7EC",
+      "2604000000000000000000"
     ],
     [
       "0xc0Dab462495aeb8b3b47780dFC0dB32e7E68C08a",
@@ -26072,6 +28088,10 @@
     [
       "0x706fC8429496E1989AbE7f579a0BD73F5aD978c7",
       "2535000000000000000000"
+    ],
+    [
+      "0xD6cDcA02B0BE6e5D82e1E252a15b93f6D0E48dce",
+      "2530000000000000000000"
     ],
     [
       "0x29F97B0926A58c3a3C7034F4D05638D00E244f42",
@@ -26118,8 +28138,16 @@
       "2395000000000000000000"
     ],
     [
-      "0xD6cDcA02B0BE6e5D82e1E252a15b93f6D0E48dce",
-      "2368000000000000000000"
+      "0x7BF732761D8D6791F47F799A29Ce5aE9a39Fc4E3",
+      "2358000000000000000000"
+    ],
+    [
+      "0x7B0De21Cf254faFcbf3C22aD65ea2377302aAD83",
+      "2322000000000000000000"
+    ],
+    [
+      "0x028E17782DBe945De0A41a7Fe19f5BF55DC0C252",
+      "2316000000000000000000"
     ],
     [
       "0xc39B30AcA61fbF04347DaC506f6cF20229a6677e",
@@ -26170,10 +28198,6 @@
       "2128000000000000000000"
     ],
     [
-      "0xf02A0A563A288ABd2EF5d42876297b42C11ef7EC",
-      "2106000000000000000000"
-    ],
-    [
       "0x143eEc6375e54A260E039208405C7c9123154EB4",
       "2103000000000000000000"
     ],
@@ -26186,16 +28210,12 @@
       "2073000000000000000000"
     ],
     [
-      "0x79BDB4f3A553C286189a5f6279739de3806d6527",
-      "2051000000000000000000"
+      "0xC65522542Dd6b9bE9b59A7Fad9FB5B45ee7657Ef",
+      "2066000000000000000000"
     ],
     [
       "0xA20F5B986234A3B1cCe9563Babc9755AbE786787",
       "2046000000000000000000"
-    ],
-    [
-      "0x028E17782DBe945De0A41a7Fe19f5BF55DC0C252",
-      "2020000000000000000000"
     ],
     [
       "0x862da18E613Db254276Ee7E7D6DC85D52AEAB246",
@@ -26238,6 +28258,10 @@
       "1834000000000000000000"
     ],
     [
+      "0xC85C19d2513b966840F40EF31CcfE76229761DBB",
+      "1820000000000000000000"
+    ],
+    [
       "0xeDd0A5C760A6021637fe2994Ca16011713AD0015",
       "1818000000000000000000"
     ],
@@ -26258,6 +28282,10 @@
       "1747000000000000000000"
     ],
     [
+      "0xb32252f671421b4EA44D257444DF291a7C840F7b",
+      "1727000000000000000000"
+    ],
+    [
       "0x2Fb6444A3e68F3E6DC66fb43b24213D609B66d65",
       "1711000000000000000000"
     ],
@@ -26268,6 +28296,10 @@
     [
       "0xF87884011AA209313295505392d8c5355b34fE71",
       "1690000000000000000000"
+    ],
+    [
+      "0xA01C5972B1001aC249b6B81700F5619d627f372c",
+      "1677000000000000000000"
     ],
     [
       "0xF789349ccC38ef48A36da984B62318Cc6aA544E7",
@@ -26282,28 +28314,36 @@
       "1646000000000000000000"
     ],
     [
-      "0x0fDCF981E3a6899F15ca6A8C703fF4864765fE54",
-      "1646000000000000000000"
+      "0x6bEcd3acF82efAb1f78b95F810Cda4293CAf5d89",
+      "1639000000000000000000"
     ],
     [
       "0xF06e41A3246B9Cf5A223D5E74312df430d7FA6c7",
       "1604000000000000000000"
     ],
     [
+      "0x33fD06D4A90b545BF3c332438B8d9536F6bbdb42",
+      "1589000000000000000000"
+    ],
+    [
       "0x533fc4CF9eD2171Acbe6f2293E54b7692cEedE54",
       "1582000000000000000000"
     ],
     [
-      "0xb32252f671421b4EA44D257444DF291a7C840F7b",
-      "1578000000000000000000"
+      "0x7a7CFa906ee447007EB1400fefBA1E2bb25a8168",
+      "1580000000000000000000"
+    ],
+    [
+      "0x106ABE1230C20e069d934359223F21c20F0d2d8A",
+      "1576000000000000000000"
+    ],
+    [
+      "0x046825BFD2ab4562E0308e48526B779Fd897d539",
+      "1568000000000000000000"
     ],
     [
       "0x38dBD12f81230EC7FE296e25405C1C6Fa08F9C16",
       "1521000000000000000000"
-    ],
-    [
-      "0xc365357dB3212EEc84E5C173D95bD5A4D916FEE4",
-      "1520000000000000000000"
     ],
     [
       "0xaB43A5214Bf99ca488B0D43e970CBa7953fbe298",
@@ -26322,8 +28362,8 @@
       "1435000000000000000000"
     ],
     [
-      "0x106ABE1230C20e069d934359223F21c20F0d2d8A",
-      "1429000000000000000000"
+      "0xaabF3aC495f458F8cf2A35D79b9fBB4B4146009C",
+      "1428000000000000000000"
     ],
     [
       "0xe40740D1d583Fcfc830DCFba97a745c997AAc8f9",
@@ -26386,16 +28426,28 @@
       "1248000000000000000000"
     ],
     [
+      "0xd5D1A15db6616cF80A174F6DCA08F9EffD8BF1Ae",
+      "1232000000000000000000"
+    ],
+    [
+      "0x4F53f6DB03d94AB88C571f1c0017D412BFd314e1",
+      "1222000000000000000000"
+    ],
+    [
       "0x4Bd3fF852AE499DaeC2D8B21153Ff35F382f0883",
       "1215000000000000000000"
     ],
     [
-      "0x4F53f6DB03d94AB88C571f1c0017D412BFd314e1",
-      "1182000000000000000000"
+      "0x24F221e9A2b03b4a6C7906d11C47e92692D0da17",
+      "1215000000000000000000"
     ],
     [
       "0xF84428F13900f510513095E165EefC4716b4900F",
       "1180000000000000000000"
+    ],
+    [
+      "0xC321d10ffE2E55bF4b9CE88e82A52383C48ba340",
+      "1165000000000000000000"
     ],
     [
       "0x4ef5a3a7C11e96e78C65d90C41312Ac7E0DF5C9F",
@@ -26418,6 +28470,10 @@
       "1127000000000000000000"
     ],
     [
+      "0x56592cf406bE36007D911728C731a782cBF8CF00",
+      "1117000000000000000000"
+    ],
+    [
       "0x294619B732991839A3EC9fC674c106D103c38ACa",
       "1104000000000000000000"
     ],
@@ -26434,6 +28490,10 @@
       "1092000000000000000000"
     ],
     [
+      "0x46232CbDB0512Ca7B00B8271e285BF8447F1330b",
+      "1091000000000000000000"
+    ],
+    [
       "0xaAd292123cC7DE6651ac5B7Bcf9e4EcAb44f4EA2",
       "1079000000000000000000"
     ],
@@ -26444,6 +28504,10 @@
     [
       "0xD779cCC82b9c25b8BF647E46951c229A15407DA5",
       "1078000000000000000000"
+    ],
+    [
+      "0x4BD33dEC5816466E8D97ACCCDAA985C25fa4330c",
+      "1074000000000000000000"
     ],
     [
       "0xC1E9358E43b5146cE530421Dce4Ff0D8Af57c602",
@@ -26560,6 +28624,10 @@
     [
       "0x0A2770198bC2D3bC859B8813C4a853003D7134aE",
       "920000000000000000000"
+    ],
+    [
+      "0xDB91dc1612869c2056987e925a24AFC5B59fa30F",
+      "915000000000000000000"
     ],
     [
       "0x2939B530B8e32E31285BB361b81FEaeae2eEe4eF",
@@ -26714,12 +28782,12 @@
       "757000000000000000000"
     ],
     [
-      "0xAea50C2d9Bc23a878f0C061563359c876BC6a71F",
-      "748000000000000000000"
+      "0x07978917c2Bf8c51eEeb3668E9aA378bf609b12A",
+      "752000000000000000000"
     ],
     [
-      "0x6bEcd3acF82efAb1f78b95F810Cda4293CAf5d89",
-      "746000000000000000000"
+      "0xAea50C2d9Bc23a878f0C061563359c876BC6a71F",
+      "748000000000000000000"
     ],
     [
       "0x270e4fb93970E441Dc1Eb6b143b3a6Fb50436246",
@@ -26736,6 +28804,10 @@
     [
       "0xDE9a8e7c9DC86576E25e0DcBDeAec4796d04D6F5",
       "736000000000000000000"
+    ],
+    [
+      "0x6B101A4B04B6c60e1Fdd97045D55F54F74183912",
+      "726000000000000000000"
     ],
     [
       "0x18701Ddc2Db2a65bb705C695ab130779A337e09f",
@@ -26758,12 +28830,20 @@
       "698000000000000000000"
     ],
     [
+      "0x6CF9D6B5e5Fbea0DD911eAdE8A6D9203fAaAb8CF",
+      "691000000000000000000"
+    ],
+    [
       "0xE91c5f06558877fdA2229D5672c1022ac06e152F",
       "686000000000000000000"
     ],
     [
       "0xBf8bDD257C9066f5BcE7627bEC0B0A5AD6277306",
       "678000000000000000000"
+    ],
+    [
+      "0x700c3a2769abA33165436d3AdB1a8a7b67921E4e",
+      "674000000000000000000"
     ],
     [
       "0xffbA9707F022d913fa7533bdd3B5F122409D416f",
@@ -26782,12 +28862,16 @@
       "648000000000000000000"
     ],
     [
-      "0x36628266BEA03702943fBEa9771f5727e8a7Cd50",
-      "637000000000000000000"
+      "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
+      "643000000000000000000"
     ],
     [
       "0xA59B14F695F2183dFAa848c813127F64db06C1d2",
-      "636000000000000000000"
+      "641000000000000000000"
+    ],
+    [
+      "0x36628266BEA03702943fBEa9771f5727e8a7Cd50",
+      "637000000000000000000"
     ],
     [
       "0xc8bC06a04D6285c2ACD8E87b11f7ADCfF6E7450F",
@@ -26800,10 +28884,6 @@
     [
       "0x0C71F3884a15b7654Da0984f4bA3C20B3207f989",
       "594000000000000000000"
-    ],
-    [
-      "0xDB91dc1612869c2056987e925a24AFC5B59fa30F",
-      "591000000000000000000"
     ],
     [
       "0x1f8fe9CE50BF11fcC3d5CF68Bb8Ca8aC818AaD4B",
@@ -26858,12 +28938,20 @@
       "546000000000000000000"
     ],
     [
+      "0x6d2948766222508CE63be42ED60361640f42c611",
+      "541000000000000000000"
+    ],
+    [
       "0xC8088F23dd6a84175e60f3bC4d1A0040bb878Ac7",
       "531000000000000000000"
     ],
     [
       "0x400b9ef4f559281dE4712e6338120697A6693482",
       "528000000000000000000"
+    ],
+    [
+      "0x2CE9d7E3F3376Dd2327Ec54A6020D3cdC05cBE5C",
+      "527000000000000000000"
     ],
     [
       "0x9172e420d637d1F4E13B343DC7ef7e95077A4F96",
@@ -26882,12 +28970,12 @@
       "511000000000000000000"
     ],
     [
-      "0x2a773e1D847dEa708E1d5129c3F0Ae327c866283",
-      "505000000000000000000"
+      "0x289f97b40eeaA9E2788Ce97682716093B10Bbc75",
+      "510000000000000000000"
     ],
     [
-      "0x289f97b40eeaA9E2788Ce97682716093B10Bbc75",
-      "502000000000000000000"
+      "0x2a773e1D847dEa708E1d5129c3F0Ae327c866283",
+      "505000000000000000000"
     ],
     [
       "0x7C1c55CFAf69aAbbA95060EB5a159276Bd89F1b3",
@@ -26900,6 +28988,10 @@
     [
       "0xf3Ac1FfBB795f6AD60C90baF2570DBF524084d1d",
       "491000000000000000000"
+    ],
+    [
+      "0x4A90Db0d00434f2Bd934Ea66aB362e33B408f052",
+      "489000000000000000000"
     ],
     [
       "0xf419a7b468e24d900E887B35dd5ff19a7407424E",
@@ -26918,19 +29010,19 @@
       "480000000000000000000"
     ],
     [
-      "0x2CE9d7E3F3376Dd2327Ec54A6020D3cdC05cBE5C",
-      "479000000000000000000"
-    ],
-    [
-      "0x4A90Db0d00434f2Bd934Ea66aB362e33B408f052",
-      "478000000000000000000"
-    ],
-    [
       "0xf7b6d4Dc749f8d8d9658ded078849b4C36422692",
       "477000000000000000000"
     ],
     [
+      "0x9639e58457A9AF66B8b8417778408f235aAF6659",
+      "475000000000000000000"
+    ],
+    [
       "0xcC6858f0F9B8dAD6C3E4D277322330208568A439",
+      "449000000000000000000"
+    ],
+    [
+      "0x43c95631d4AF09a4AaC5E99aD1ffB209Ac248D72",
       "449000000000000000000"
     ],
     [
@@ -26966,10 +29058,6 @@
       "430000000000000000000"
     ],
     [
-      "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
-      "426000000000000000000"
-    ],
-    [
       "0x07A3a8dC4Ef17A94dDb9CE2671948B3eA1113d2F",
       "422000000000000000000"
     ],
@@ -26982,12 +29070,24 @@
       "413000000000000000000"
     ],
     [
+      "0x7414B1F140d35C73cF39D052Ff0aA3b68164Fc36",
+      "413000000000000000000"
+    ],
+    [
       "0x08e9a5CFa074F6a220FF62E18FCa1ee68f7d312f",
       "407000000000000000000"
     ],
     [
       "0x4DC11215b8ae7Cb9e2f714db6fD0e6AdE178839C",
       "406000000000000000000"
+    ],
+    [
+      "0x1a7Bc3953662bFf98Cd90dC5929F61C5B8892E14",
+      "406000000000000000000"
+    ],
+    [
+      "0xCA5402558af3322c1e8DC91eb4767544E7D14A7B",
+      "405000000000000000000"
     ],
     [
       "0x979a3F4C2178b3f0C1a03cfEeD6B4eBFedaD84BE",
@@ -27026,6 +29126,10 @@
       "375000000000000000000"
     ],
     [
+      "0x5ed57EeAF2755D3db49bD4330461ADaf65a8C1d1",
+      "371000000000000000000"
+    ],
+    [
       "0x8A0354e98F80353b23D80Ace7B0282fE4080A66a",
       "370000000000000000000"
     ],
@@ -27034,19 +29138,35 @@
       "369000000000000000000"
     ],
     [
+      "0xEe743DFef98fCFA5064Ce38B21f888D84C490360",
+      "368000000000000000000"
+    ],
+    [
       "0xa171e3535D872526f17032680d21ECbf6CB42590",
       "365000000000000000000"
     ],
     [
-      "0x43c95631d4AF09a4AaC5E99aD1ffB209Ac248D72",
-      "348000000000000000000"
+      "0xa21b23e5f07E5E28cB42d09502227Eb75b0B64B5",
+      "361000000000000000000"
+    ],
+    [
+      "0x392fF8ADB20A658B86f29Fb85bfa6d1D30AC74C3",
+      "357000000000000000000"
     ],
     [
       "0x8D6635af59Be86AEfCf10BDe254ec0d7c8E0CF04",
       "347000000000000000000"
     ],
     [
+      "0x326203E94aaFC3DF65AbE8A7E7776ac1ffCE0982",
+      "343000000000000000000"
+    ],
+    [
       "0xB9Dd7BCDB71f7338637d04e628Dd6B86a7e1605F",
+      "340000000000000000000"
+    ],
+    [
+      "0x3025511aDA2660eF2D11c65c4C9335749BadAc7F",
       "340000000000000000000"
     ],
     [
@@ -27055,10 +29175,6 @@
     ],
     [
       "0x4cAd790cbd63e236554aD35Adf6B5EcB02aC13E2",
-      "338000000000000000000"
-    ],
-    [
-      "0x9639e58457A9AF66B8b8417778408f235aAF6659",
       "338000000000000000000"
     ],
     [
@@ -27094,6 +29210,10 @@
       "329000000000000000000"
     ],
     [
+      "0xcfB331ADE6D66Ad1cB6765a2dD51aD3Aa9A1400E",
+      "329000000000000000000"
+    ],
+    [
       "0x4A561Ff8ca0441BC9F96C2132C13BDe519340315",
       "328000000000000000000"
     ],
@@ -27119,6 +29239,10 @@
     ],
     [
       "0xF8530759981b9469fE38D9A10736cFb1c04A8Bc1",
+      "313000000000000000000"
+    ],
+    [
+      "0x0EB3d962fde6E985aC6fF90D0d35722bF815e6bC",
       "313000000000000000000"
     ],
     [
@@ -27174,10 +29298,6 @@
       "284000000000000000000"
     ],
     [
-      "0x3025511aDA2660eF2D11c65c4C9335749BadAc7F",
-      "284000000000000000000"
-    ],
-    [
       "0xAbFBC544a36ea2521E6AD83415189A0200907CE2",
       "277000000000000000000"
     ],
@@ -27190,16 +29310,20 @@
       "277000000000000000000"
     ],
     [
+      "0x9FB9C2a6f4407DD29b8a39199237D408E5Bf783A",
+      "277000000000000000000"
+    ],
+    [
       "0xF0A5E8Ab6485da7d76E633213bC3e9dAdb6e2Cb2",
       "275000000000000000000"
     ],
     [
-      "0x7BF732761D8D6791F47F799A29Ce5aE9a39Fc4E3",
-      "271000000000000000000"
-    ],
-    [
       "0xF08c034AC1070cae71B026254884404AeaF8787D",
       "268000000000000000000"
+    ],
+    [
+      "0x1d678A61c84C424bCaA156b3d57378fD10bdF02F",
+      "267000000000000000000"
     ],
     [
       "0xa3a0BDE9BD42c634AbaB2F7bE2f328762B318721",
@@ -27207,6 +29331,10 @@
     ],
     [
       "0xD41C0eC18dF28F6Be6942ADDAB960EB25B4232a3",
+      "264000000000000000000"
+    ],
+    [
+      "0xC7716C81134D698C970e28e0328D653Ae3c97Ae7",
       "264000000000000000000"
     ],
     [
@@ -27222,8 +29350,12 @@
       "249000000000000000000"
     ],
     [
-      "0xaabF3aC495f458F8cf2A35D79b9fBB4B4146009C",
+      "0xC65a58AadDc28f3854C038F6b80f4AbdEc25E0a7",
       "244000000000000000000"
+    ],
+    [
+      "0xB4B78DFc2F3D0a91c239F075c3FdAeA84E85325E",
+      "242000000000000000000"
     ],
     [
       "0x2369693E4Af234A622326F04350Cf750B02162b6",
@@ -27278,6 +29410,10 @@
       "223000000000000000000"
     ],
     [
+      "0x254860Df1cc517a907636537BBC6D755aE8072F0",
+      "222000000000000000000"
+    ],
+    [
       "0xf0d924a260DA65c53b7c814131D9633bAD548709",
       "221000000000000000000"
     ],
@@ -27286,8 +29422,28 @@
       "221000000000000000000"
     ],
     [
+      "0x64329a78D2125eE465ffd7fA06A004C6e6807439",
+      "219000000000000000000"
+    ],
+    [
+      "0xF1D2C24BA2fBC8627f18fA117924B8B9d2FF02fE",
+      "217000000000000000000"
+    ],
+    [
+      "0x89C5B5Eed247b9CAE343fD28A51a74a88bD5F1aE",
+      "216000000000000000000"
+    ],
+    [
       "0xc869878a0c72f3b352F60b7bDa7f94717FE70078",
       "214000000000000000000"
+    ],
+    [
+      "0x0313580C6840d0E32A42BeeD4f4f832D011Ef473",
+      "214000000000000000000"
+    ],
+    [
+      "0x965866217bA4d8834CC21b543fd027696A18A575",
+      "213000000000000000000"
     ],
     [
       "0xF4C0f66B659AbDD982CfE15Da6B56612a89ab98b",
@@ -27306,6 +29462,18 @@
       "208000000000000000000"
     ],
     [
+      "0x008EAb1c733e9819E70f566cF95BA4cc4AdDA635",
+      "207000000000000000000"
+    ],
+    [
+      "0x5221FE845a6eb381AF787196D70cDA5Cda6DECE4",
+      "207000000000000000000"
+    ],
+    [
+      "0x2a57701cc3338dEd47fe44695DB146342caB2428",
+      "207000000000000000000"
+    ],
+    [
       "0x32fE36Cfa83321eA1aEda89E0cDb31eE3C3acCE2",
       "206000000000000000000"
     ],
@@ -27314,16 +29482,16 @@
       "206000000000000000000"
     ],
     [
-      "0x1d678A61c84C424bCaA156b3d57378fD10bdF02F",
-      "206000000000000000000"
-    ],
-    [
       "0x009E88f9B07c4AaDD5336064f7C35703bD152550",
       "205000000000000000000"
     ],
     [
-      "0xE424B642b9740Fe0791fB3E94b23Ce28a6930292",
+      "0x43A69FF916a7Ecb413aa0a5DF7d9B5285d68C8Ec",
       "205000000000000000000"
+    ],
+    [
+      "0x6D865954c25242C8c61f7b8565034CEa9c6Ad344",
+      "203000000000000000000"
     ],
     [
       "0x6f972C6deeC04cB570f11b8baDF0a4cA74773C8f",
@@ -27331,7 +29499,7 @@
     ],
     [
       "0xc1fA4ed8aE378721d617aB3eF8e7a35FAc453c64",
-      "200000000000000000000"
+      "201000000000000000000"
     ],
     [
       "0xaDBbA1bD3473b0b13A39a1517B90a61fc747aDFa",
@@ -27339,10 +29507,6 @@
     ],
     [
       "0x9B4f3AE19CF52b25932AE2b60752331479688C9F",
-      "199000000000000000000"
-    ],
-    [
-      "0x6d2948766222508CE63be42ED60361640f42c611",
       "199000000000000000000"
     ],
     [
@@ -27355,6 +29519,10 @@
     ],
     [
       "0xc8071350B668e8F96a38d096e771Ea0EEFdc660A",
+      "197000000000000000000"
+    ],
+    [
+      "0x5fdc0D0d543190693983D4fE92526f72239365a7",
       "197000000000000000000"
     ],
     [
@@ -27375,11 +29543,7 @@
     ],
     [
       "0x9265c4cA35b82f3Bf2cf444CDF9e4D387bE38978",
-      "191000000000000000000"
-    ],
-    [
-      "0x6D865954c25242C8c61f7b8565034CEa9c6Ad344",
-      "188000000000000000000"
+      "193000000000000000000"
     ],
     [
       "0x1fC6015E28eb750E7E7b6d872Ff20BAcc387202D",
@@ -27398,6 +29562,10 @@
       "185000000000000000000"
     ],
     [
+      "0xb9f384802F8F48163384529fef44ae65fB5a31A4",
+      "183000000000000000000"
+    ],
+    [
       "0xBE34d02E54568968Be6628d0Ec84f8097E57d078",
       "180000000000000000000"
     ],
@@ -27414,6 +29582,10 @@
       "179000000000000000000"
     ],
     [
+      "0x53cdAce625CBccEA93D9cCc3c5A613ac5D75c164",
+      "179000000000000000000"
+    ],
+    [
       "0x184a779f08Ee9874b7Ef3a2598dF2A4Ff8f5a4A7",
       "178000000000000000000"
     ],
@@ -27422,8 +29594,12 @@
       "178000000000000000000"
     ],
     [
-      "0x46232CbDB0512Ca7B00B8271e285BF8447F1330b",
-      "177000000000000000000"
+      "0x81f61281e484C4188c665674838AAbDd2AF218dE",
+      "178000000000000000000"
+    ],
+    [
+      "0xf9683fE8eDACd5a78219729E16c1DDe07bB0CBBa",
+      "178000000000000000000"
     ],
     [
       "0x18dB6E32a2eF79387d7600379BD959A383972F75",
@@ -27438,11 +29614,19 @@
       "175000000000000000000"
     ],
     [
+      "0xdA9249550181236C40B32990AEa45489208F9B75",
+      "174000000000000000000"
+    ],
+    [
       "0xB692E4A200626d8CdDaEBd9f01E8aB8D7C1AA903",
       "171000000000000000000"
     ],
     [
       "0x40Ce701518B1317639bB5aBa7280c12A44224Df0",
+      "168000000000000000000"
+    ],
+    [
+      "0x665b8Ab1526FF81Fa5a900779c101601666f0A7B",
       "168000000000000000000"
     ],
     [
@@ -27454,8 +29638,20 @@
       "167000000000000000000"
     ],
     [
+      "0xAdDD1e6774DA8A9665C04f2C2A4F495534477cA5",
+      "167000000000000000000"
+    ],
+    [
+      "0xb7243AC8d8ca7C174B1c78aA4a2Ef3eB69Ff6ce9",
+      "166000000000000000000"
+    ],
+    [
       "0x40328204276d6D35Ec4E220E93Ed6627138d940a",
       "165000000000000000000"
+    ],
+    [
+      "0x8d618FA04dFAC3Cba606c415bE7066d14568854D",
+      "164000000000000000000"
     ],
     [
       "0xf1f82c6297B93868AdB19Ac6B9F573a9CD8B5643",
@@ -27470,11 +29666,23 @@
       "162000000000000000000"
     ],
     [
+      "0x21603596DfA092203a4d5862346322E75F9c309B",
+      "162000000000000000000"
+    ],
+    [
       "0x988b5E7F359B3897E4DF239486cd292B837bF655",
       "160000000000000000000"
     ],
     [
+      "0x62236aebf363D1446048686e29694dA647684809",
+      "160000000000000000000"
+    ],
+    [
       "0xEC98CD4aD9e11eB3bd73b6705B627A676556082f",
+      "159000000000000000000"
+    ],
+    [
+      "0xB66603345b4bB95616eBbb70ef6405B297122503",
       "159000000000000000000"
     ],
     [
@@ -27486,6 +29694,10 @@
       "158000000000000000000"
     ],
     [
+      "0x7D3200DCDBE217e649Adaea7619F745E271D1628",
+      "158000000000000000000"
+    ],
+    [
       "0xdC9E9B67a1E477ae5F7648501b83db2FFf67aF57",
       "157000000000000000000"
     ],
@@ -27494,11 +29706,19 @@
       "156000000000000000000"
     ],
     [
-      "0x8d618FA04dFAC3Cba606c415bE7066d14568854D",
+      "0x6941E5E29F02590098CA921060a245FE83E975C0",
+      "156000000000000000000"
+    ],
+    [
+      "0xCd130caDB92eCB4b5958710Cd09cf00CE9D7119B",
       "152000000000000000000"
     ],
     [
       "0x8FF3B490Eb1ADab0197002cb564f7f93B8217Fd8",
+      "152000000000000000000"
+    ],
+    [
+      "0xF4be805aa67007a52E49e35C32c3D84dEc596c93",
       "152000000000000000000"
     ],
     [
@@ -27518,8 +29738,8 @@
       "150000000000000000000"
     ],
     [
-      "0xCd130caDB92eCB4b5958710Cd09cf00CE9D7119B",
-      "149000000000000000000"
+      "0x227D69418C80B25254cE5D1Db1c1805B13072116",
+      "148000000000000000000"
     ],
     [
       "0x1335a95825798104681F4B7a42dB650E5365D978",
@@ -27528,6 +29748,18 @@
     [
       "0x3d784b0067aD72F0b271e9D0Bd4c69eA7D40aE12",
       "147000000000000000000"
+    ],
+    [
+      "0x82db741414c1202A7F25E77C7C6A53146f6e5303",
+      "147000000000000000000"
+    ],
+    [
+      "0x351354f88e43CB503fBE3731d52E0995c81d4801",
+      "146000000000000000000"
+    ],
+    [
+      "0xA66748E7eAeF339a6a2817f6ac21b34630578982",
+      "146000000000000000000"
     ],
     [
       "0x2B68a32b01968b7aE115b04C4aF8367e7b3ceB11",
@@ -27539,6 +29771,10 @@
     ],
     [
       "0xD738A103CDD1a07aAfc0C78F4322EF12570BA257",
+      "142000000000000000000"
+    ],
+    [
+      "0x89bd69Eec01cd8eb2Ce41503B55800349Ab4b3aE",
       "142000000000000000000"
     ],
     [
@@ -27574,7 +29810,15 @@
       "136000000000000000000"
     ],
     [
+      "0x8F7583bEAA6465998233dc3408ED0AAde25f23B8",
+      "136000000000000000000"
+    ],
+    [
       "0xd8ffa014271610746E84ef605A306780aF493663",
+      "135000000000000000000"
+    ],
+    [
+      "0xd567fc8b1D62C819E1b47412Cbb92c6497C65b39",
       "135000000000000000000"
     ],
     [
@@ -27594,10 +29838,6 @@
       "133000000000000000000"
     ],
     [
-      "0xA01C5972B1001aC249b6B81700F5619d627f372c",
-      "133000000000000000000"
-    ],
-    [
       "0x44193cef05dC142FbF2d5E43c31986A08AbA95F2",
       "132000000000000000000"
     ],
@@ -27611,10 +29851,6 @@
     ],
     [
       "0x1df848c129afB934D8179f76E16926D04E3cC219",
-      "131000000000000000000"
-    ],
-    [
-      "0xF4be805aa67007a52E49e35C32c3D84dEc596c93",
       "131000000000000000000"
     ],
     [
@@ -27655,6 +29891,10 @@
     ],
     [
       "0x91d19B67018079FaCB4AE21C959C9927366D5b35",
+      "127000000000000000000"
+    ],
+    [
+      "0xCF1d056F70fA2AA49513C3E85b947D2b055Bccd0",
       "127000000000000000000"
     ],
     [
@@ -27710,6 +29950,10 @@
       "118000000000000000000"
     ],
     [
+      "0xAE701c414E86A0c17E94f5819F0a4b96a42aF9CC",
+      "118000000000000000000"
+    ],
+    [
       "0x1ee7a0427E3874f3d2833954bea012BABFee9468",
       "117000000000000000000"
     ],
@@ -27718,11 +29962,31 @@
       "117000000000000000000"
     ],
     [
+      "0xA60C935150F52f0eE475E22265A88f499aEa07F3",
+      "117000000000000000000"
+    ],
+    [
       "0x572C241bdABd15Fd03B53DC63d3Ee90b2e53E1f8",
       "116000000000000000000"
     ],
     [
+      "0x62a39F7b89A01fC395790D547AE8a48086AF3f17",
+      "116000000000000000000"
+    ],
+    [
       "0xA8C53d12450542849999aaafDe8a59B7bE50F82E",
+      "115000000000000000000"
+    ],
+    [
+      "0x0679756e4b8E90e75fC458Ff5003BfAE5035B138",
+      "115000000000000000000"
+    ],
+    [
+      "0x685c99E8780e5a7f158617cC2E9acc0e45a66120",
+      "115000000000000000000"
+    ],
+    [
+      "0x4Ae237e422dA14215189fC2CDFB63FA646E10668",
       "115000000000000000000"
     ],
     [
@@ -27742,6 +30006,10 @@
       "114000000000000000000"
     ],
     [
+      "0x09F2522360Eec32c7D748023dF6F87d557a7cCEe",
+      "114000000000000000000"
+    ],
+    [
       "0xcfD038ec228aF3124129A9f81dDc5738B78d7C80",
       "113000000000000000000"
     ],
@@ -27751,6 +30019,10 @@
     ],
     [
       "0xD4528215407beE80b3BcB891Ccfe3F7243d91C18",
+      "113000000000000000000"
+    ],
+    [
+      "0x5F9b046E312dDa38302798888E3a1DDE514d636A",
       "113000000000000000000"
     ],
     [
@@ -27782,6 +30054,14 @@
       "112000000000000000000"
     ],
     [
+      "0x7eD8DC4d40ACD98B595F1e489c7Fc587DA7dA843",
+      "112000000000000000000"
+    ],
+    [
+      "0x287C9921657FE16B5F15B64178546A88641D8ea7",
+      "112000000000000000000"
+    ],
+    [
       "0xb8b30758200475100082BC18D4C0495ce252F762",
       "111000000000000000000"
     ],
@@ -27790,8 +30070,8 @@
       "111000000000000000000"
     ],
     [
-      "0xd567fc8b1D62C819E1b47412Cbb92c6497C65b39",
-      "110000000000000000000"
+      "0xaBeC3a6F6F6243884713D757899eA19b6406C50c",
+      "109000000000000000000"
     ],
     [
       "0xEA4A248D74310dE60e943Edc70E0c521B8F67a56",
@@ -27799,6 +30079,10 @@
     ],
     [
       "0x3F4BEF3311893AaA5847A16A7D8cebb74279983C",
+      "106000000000000000000"
+    ],
+    [
+      "0x4a4bF562ab833cbDAC11fDc6C10Dc92c5B46984F",
       "106000000000000000000"
     ],
     [
@@ -27858,11 +30142,19 @@
       "100000000000000000000"
     ],
     [
+      "0x7927F51b919830082f9634b2e4E88fe1bBa6D040",
+      "99000000000000000000"
+    ],
+    [
       "0xfAaAaABa03960489803EdE6bd574f0f16d50Cb7E",
       "97000000000000000000"
     ],
     [
       "0x71472a0E81a2568695654144EF9ef99b6Bb8528A",
+      "96000000000000000000"
+    ],
+    [
+      "0xC85032a2e77bE215A095Fc8b77C0E3e16Bb69BF9",
       "96000000000000000000"
     ],
     [
@@ -27886,15 +30178,15 @@
       "94000000000000000000"
     ],
     [
+      "0xf9Bb823a2eaA181ab89B79CEA6301274368999b4",
+      "94000000000000000000"
+    ],
+    [
       "0x8233aA04d5582cdCD09eA4C7C392353e36C5D258",
       "93000000000000000000"
     ],
     [
       "0x3c3e632632627E756B212bb7f3F8eE1368edfD48",
-      "93000000000000000000"
-    ],
-    [
-      "0xC85032a2e77bE215A095Fc8b77C0E3e16Bb69BF9",
       "93000000000000000000"
     ],
     [
@@ -27914,14 +30206,6 @@
       "90000000000000000000"
     ],
     [
-      "0x665b8Ab1526FF81Fa5a900779c101601666f0A7B",
-      "90000000000000000000"
-    ],
-    [
-      "0x1a7Bc3953662bFf98Cd90dC5929F61C5B8892E14",
-      "89000000000000000000"
-    ],
-    [
       "0x811Bf12f63530f0019b2c5f6f720188d2190ADd0",
       "88000000000000000000"
     ],
@@ -27930,7 +30214,15 @@
       "88000000000000000000"
     ],
     [
+      "0x90Ae92CD6AF97FaD517055D82Ee76a4B629BfBd5",
+      "88000000000000000000"
+    ],
+    [
       "0x92228FFb485Fe39E5479837E0697829504527Fdf",
+      "86000000000000000000"
+    ],
+    [
+      "0x0f6e00FDe8D31c90A5eD4F447acF0398e6a27884",
       "86000000000000000000"
     ],
     [
@@ -27942,11 +30234,31 @@
       "85000000000000000000"
     ],
     [
-      "0xAdDD1e6774DA8A9665C04f2C2A4F495534477cA5",
+      "0xdF732fb53058189e8AeA7E562e8470b3f9Bccbd3",
       "85000000000000000000"
     ],
     [
-      "0xdF732fb53058189e8AeA7E562e8470b3f9Bccbd3",
+      "0x3B7844240cBb0e696D2344E82367e17B29671599",
+      "85000000000000000000"
+    ],
+    [
+      "0x04603cd09de07f910f894EFE340ba72891ec1CC8",
+      "85000000000000000000"
+    ],
+    [
+      "0x020c7046FF975e04f71111AFDbC0440fd1dd96E6",
+      "85000000000000000000"
+    ],
+    [
+      "0x610336E20AC62Fa46BFC38d7488d66568252Ae92",
+      "85000000000000000000"
+    ],
+    [
+      "0xc0141cE7db7245F5726745A8f1cf21a8523b1d0D",
+      "85000000000000000000"
+    ],
+    [
+      "0xc4787DcedcDa449Fe6FcaFcB8A01f72Af5E152AB",
       "85000000000000000000"
     ],
     [
@@ -27986,7 +30298,11 @@
       "82000000000000000000"
     ],
     [
-      "0x0f6e00FDe8D31c90A5eD4F447acF0398e6a27884",
+      "0xF05F0aDFe5c23506f2f47584ABA9AD1c31BEe18F",
+      "82000000000000000000"
+    ],
+    [
+      "0xAa5fc3f5dff11A7765E5FF9ED92354FB1AB8a05F",
       "82000000000000000000"
     ],
     [
@@ -28006,15 +30322,15 @@
       "80000000000000000000"
     ],
     [
-      "0xd04AEd1f9589Aa76e6d422D78037844cFfD0e46A",
-      "80000000000000000000"
-    ],
-    [
       "0x3e7Ef24383826CdfC73256AE8c4b4eB884EAD8d4",
       "80000000000000000000"
     ],
     [
       "0x2106f698F94715AeB73B524696b54A6A5d784e7b",
+      "80000000000000000000"
+    ],
+    [
+      "0xA4c42B7c89489457b01898E92AB5a71ed6E549Ab",
       "80000000000000000000"
     ],
     [
@@ -28042,11 +30358,31 @@
       "78000000000000000000"
     ],
     [
+      "0x12523F549aeF807169fdE773F07FaFf515072F6D",
+      "78000000000000000000"
+    ],
+    [
+      "0xAc37423287A3165DC6Bc1Ea9dE0a4116C9d33901",
+      "78000000000000000000"
+    ],
+    [
+      "0x0FfA5a266F8Ad70ba093c01F34dBE677324aa4f9",
+      "78000000000000000000"
+    ],
+    [
       "0x2Fec06122Ac3DA706c8119382b1e6373c176cD88",
       "77000000000000000000"
     ],
     [
+      "0x61D445e67965E1E7AF288c0336d17B37340e7ac1",
+      "77000000000000000000"
+    ],
+    [
       "0x8EC97706e97f663a4DD6eB65d1d8de1A928cC0F8",
+      "76000000000000000000"
+    ],
+    [
+      "0x3b5BA1661172CB4e5cd435646aA0864182Bce7b7",
       "76000000000000000000"
     ],
     [
@@ -28058,7 +30394,7 @@
       "75000000000000000000"
     ],
     [
-      "0x07978917c2Bf8c51eEeb3668E9aA378bf609b12A",
+      "0xc0D8f846bF752523831C0ad1fa1FDf5461354d55",
       "75000000000000000000"
     ],
     [
@@ -28074,11 +30410,59 @@
       "74000000000000000000"
     ],
     [
+      "0x8db903C0753DdE0E7DFFFA8310357a741b3eBEEF",
+      "74000000000000000000"
+    ],
+    [
+      "0x121E1573B7C6c15Aa4C036d54BFd2974Cf38a163",
+      "74000000000000000000"
+    ],
+    [
+      "0x511b39d10CfBE749f863bfed7E40E60CC520B694",
+      "74000000000000000000"
+    ],
+    [
+      "0x4C7240D06C7D9eF356252A34C725b5371269F25c",
+      "74000000000000000000"
+    ],
+    [
+      "0x8A4E41e37016Ad990ABEFECAeF7D885b67F93546",
+      "73000000000000000000"
+    ],
+    [
       "0x61bf9eFF7A1326e8F0Fb753D8bb1Ff54d7a0BD0D",
       "73000000000000000000"
     ],
     [
       "0x240Add17EaB93C50cfF9408c7C112A169d13a021",
+      "73000000000000000000"
+    ],
+    [
+      "0x31BDaeaeFbBdc1DD9f902aad666477276D72251f",
+      "73000000000000000000"
+    ],
+    [
+      "0xf14010c8BE4E12C7C3CF087BC35285A9EdEd88dc",
+      "73000000000000000000"
+    ],
+    [
+      "0x3e2BF1C1442135eC1FD7d9c22bf076fea04F64D1",
+      "73000000000000000000"
+    ],
+    [
+      "0x136D2fD4DD0A6c82979D1C8059Da713963b261c6",
+      "73000000000000000000"
+    ],
+    [
+      "0x9e2e1046B75696626C76d4ABD20084Dec8F0c2BE",
+      "73000000000000000000"
+    ],
+    [
+      "0xad369f2A07756bf0558e57b04FDA9FD4974D5019",
+      "73000000000000000000"
+    ],
+    [
+      "0x8ab86546FD3a0143EeabF4320693006f354201c4",
       "73000000000000000000"
     ],
     [
@@ -28088,10 +30472,6 @@
     [
       "0x67C1648AfE71877163D3d36AFeB169e799C450e0",
       "72000000000000000000"
-    ],
-    [
-      "0x8A4E41e37016Ad990ABEFECAeF7D885b67F93546",
-      "71000000000000000000"
     ],
     [
       "0xcC30448D877781B9ede01557961fBCa28EE9A68d",
@@ -28114,6 +30494,14 @@
       "71000000000000000000"
     ],
     [
+      "0x5083466613E684b6D6236aED2C8D85f8CE8b032a",
+      "70000000000000000000"
+    ],
+    [
+      "0x8f8d8bB404f4dA8A48Ca78f87E237c9644DaD46c",
+      "70000000000000000000"
+    ],
+    [
       "0x239952321Ce102Dbb76Bf339Fe1c41072b5cab96",
       "69000000000000000000"
     ],
@@ -28123,6 +30511,10 @@
     ],
     [
       "0xE0D7ca2fada9D1b526e61BE2d33dd7840A5eD494",
+      "68000000000000000000"
+    ],
+    [
+      "0x389BD7a171c837f9AD00CFA45F2163adA530B958",
       "68000000000000000000"
     ],
     [
@@ -28174,10 +30566,6 @@
       "64000000000000000000"
     ],
     [
-      "0xc0D8f846bF752523831C0ad1fa1FDf5461354d55",
-      "64000000000000000000"
-    ],
-    [
       "0xc527F956c4A2c9893645AdcdE975cE95C10931bC",
       "63000000000000000000"
     ],
@@ -28199,10 +30587,6 @@
     ],
     [
       "0x902327A64Bd1CEf3Aa15de369B97B1b30FB6ffeB",
-      "61000000000000000000"
-    ],
-    [
-      "0x700c3a2769abA33165436d3AdB1a8a7b67921E4e",
       "61000000000000000000"
     ],
     [
@@ -28290,10 +30674,6 @@
       "57000000000000000000"
     ],
     [
-      "0x56592cf406bE36007D911728C731a782cBF8CF00",
-      "57000000000000000000"
-    ],
-    [
       "0x0EBBFC8d21809FdA013520670B51BA7dfD440FB7",
       "57000000000000000000"
     ],
@@ -28362,11 +30742,19 @@
       "53000000000000000000"
     ],
     [
+      "0xB911F3481056BDc24AAC921e6766F3A4E2C13222",
+      "53000000000000000000"
+    ],
+    [
       "0xE4DE72DC0f4ecB2a108C05A894464c4Df85E80C1",
       "52000000000000000000"
     ],
     [
       "0x143E1c2DA2b31f26A5DD3A37AFE34ed852332B66",
+      "52000000000000000000"
+    ],
+    [
+      "0x0906386C77b5c4F0ffaD46C2EC94bE598B20F73a",
       "52000000000000000000"
     ],
     [
@@ -28378,11 +30766,27 @@
       "52000000000000000000"
     ],
     [
+      "0x52D1aC71653A7Ec75Bc84e87BA3CC9312d46FC2F",
+      "52000000000000000000"
+    ],
+    [
       "0x0aCdFd9Cf3F797bf5108EDf9985a78Ab753ef5f6",
       "51000000000000000000"
     ],
     [
       "0xFD76b6f62118352f34C610c151CA70C954A547f6",
+      "51000000000000000000"
+    ],
+    [
+      "0x23d90B11e3127b86F004D1B0F8b7A29d37E5CcBf",
+      "51000000000000000000"
+    ],
+    [
+      "0xC8b5Dd3165E26cB5ce952178A8d259A2Faf4Ae8b",
+      "51000000000000000000"
+    ],
+    [
+      "0x5dA2370C90Edc0cBcAf1363902F5267AA343b2A4",
       "51000000000000000000"
     ],
     [
@@ -28411,6 +30815,10 @@
     ],
     [
       "0xD0C521b4BFDFDe3C9d1EEF11D1b671f68db2E8e4",
+      "49000000000000000000"
+    ],
+    [
+      "0xd6e9ac1C3c669075188C3FAdeFe3f8f1A74f5738",
       "49000000000000000000"
     ],
     [
@@ -28450,7 +30858,7 @@
       "45000000000000000000"
     ],
     [
-      "0x31BDaeaeFbBdc1DD9f902aad666477276D72251f",
+      "0x786098b14eb5F1aca90d755C14555b740c8Eef0d",
       "45000000000000000000"
     ],
     [
@@ -28479,6 +30887,10 @@
     ],
     [
       "0x9E6329bd04b13b26c7A9528Faa549968df46ed45",
+      "43000000000000000000"
+    ],
+    [
+      "0x448d248616b0B26957Bb6d6a73F695AEc3e23Dc2",
       "43000000000000000000"
     ],
     [
@@ -28526,6 +30938,10 @@
       "40000000000000000000"
     ],
     [
+      "0xcd529FfB3EfA9B038d99C530455a5081e6F68B92",
+      "40000000000000000000"
+    ],
+    [
       "0xAcA97cf00532659dae3d136fCEF4a333A4b46871",
       "39000000000000000000"
     ],
@@ -28535,6 +30951,10 @@
     ],
     [
       "0xf1163a698ac736760c777E34ee780e9A3DA1271F",
+      "39000000000000000000"
+    ],
+    [
+      "0x74861d974a79a0c467d700Dc8592CaCbc791bEd0",
       "39000000000000000000"
     ],
     [
@@ -28550,7 +30970,7 @@
       "38000000000000000000"
     ],
     [
-      "0xcd529FfB3EfA9B038d99C530455a5081e6F68B92",
+      "0x1b9d7e2faA7b654119c3D0EbC83d4b58FEA5A72E",
       "38000000000000000000"
     ],
     [
@@ -28583,6 +31003,10 @@
     ],
     [
       "0x647B31B6f1bC9177f14e7C07a019992A6A43B838",
+      "36000000000000000000"
+    ],
+    [
+      "0xC0A2034E86073238D60e18d2379A47608b389357",
       "36000000000000000000"
     ],
     [
@@ -28634,6 +31058,10 @@
       "33000000000000000000"
     ],
     [
+      "0x91FFcd552f88Ff7b13C282Bbed16645873ccab6b",
+      "33000000000000000000"
+    ],
+    [
       "0x33d288C6f473cFC32a837e6717D276891Dd5C9fC",
       "32000000000000000000"
     ],
@@ -28642,11 +31070,11 @@
       "32000000000000000000"
     ],
     [
-      "0x0906386C77b5c4F0ffaD46C2EC94bE598B20F73a",
+      "0x6c7B7D985ae0ACf33af5F204B2dDd5b44F49FD0A",
       "32000000000000000000"
     ],
     [
-      "0x6c7B7D985ae0ACf33af5F204B2dDd5b44F49FD0A",
+      "0x1094315150f08c56856FeE426A64fE0b885e65d0",
       "32000000000000000000"
     ],
     [
@@ -28655,6 +31083,10 @@
     ],
     [
       "0x374215174E0fc4B3de4F502E19DDe07F86C18950",
+      "31000000000000000000"
+    ],
+    [
+      "0x1Dd1925dD126De0BDDA33dB4E81cF96fD46392b5",
       "31000000000000000000"
     ],
     [
@@ -28671,6 +31103,10 @@
     ],
     [
       "0xf786A5BcD4b8B580ddCA580711f0E84a9FB19F0a",
+      "30000000000000000000"
+    ],
+    [
+      "0x00F7b9Bbc704e67c8B2959E32c524eD61d6d1CC4",
       "30000000000000000000"
     ],
     [
@@ -28710,10 +31146,6 @@
       "27000000000000000000"
     ],
     [
-      "0x12523F549aeF807169fdE773F07FaFf515072F6D",
-      "27000000000000000000"
-    ],
-    [
       "0xDCE6B0DCD2176c4F34d43fD38b6b28f06Febdb4D",
       "26000000000000000000"
     ],
@@ -28730,15 +31162,15 @@
       "26000000000000000000"
     ],
     [
-      "0x7a7CFa906ee447007EB1400fefBA1E2bb25a8168",
-      "26000000000000000000"
-    ],
-    [
       "0xb4Fa3D8Dd76D39748Ef1E11D5f41e41C52967B57",
       "25000000000000000000"
     ],
     [
       "0x29f662cE33D44489954f276E5a5e806391747260",
+      "25000000000000000000"
+    ],
+    [
+      "0xFcea8B1953E3E9fADF240f57Fa4b093A9d8D2B78",
       "25000000000000000000"
     ],
     [
@@ -28778,6 +31210,22 @@
       "23000000000000000000"
     ],
     [
+      "0xeD6dE19F89DAc8823BBbaA67042C14F7CBD18d1D",
+      "23000000000000000000"
+    ],
+    [
+      "0x051b21E295499C8fD3b5332B73ebDb771B61bd8C",
+      "23000000000000000000"
+    ],
+    [
+      "0x1D4b8aF0b07c6e647E49333Fa498c0EE1bB0D37f",
+      "23000000000000000000"
+    ],
+    [
+      "0x9B0b9121b8B2c98c06A94350b7bA7e1304b47f65",
+      "23000000000000000000"
+    ],
+    [
       "0x10D0E50e7E0AB79FC2336BE2d108388A5e263D98",
       "22000000000000000000"
     ],
@@ -28791,6 +31239,10 @@
     ],
     [
       "0xA069F2204CAB4862c861925AD40b113D158A5E2F",
+      "22000000000000000000"
+    ],
+    [
+      "0x809d27d9b4115970aFF645B3406e2c8895C96838",
       "22000000000000000000"
     ],
     [
@@ -28970,10 +31422,6 @@
       "16000000000000000000"
     ],
     [
-      "0x7927F51b919830082f9634b2e4E88fe1bBa6D040",
-      "16000000000000000000"
-    ],
-    [
       "0x1720d8DDCA28adf46302C7723afBdA512352DCfD",
       "15000000000000000000"
     ],
@@ -29067,6 +31515,14 @@
     ],
     [
       "0x956DbF228bab1984833FDE84c7279A4052CD5E39",
+      "13000000000000000000"
+    ],
+    [
+      "0x2416c28AAb5b6EB451B8b82E790a543eA3229a80",
+      "13000000000000000000"
+    ],
+    [
+      "0x4cd6B970F42B41Ee58c2e4B7aB99863d5AE52A23",
       "13000000000000000000"
     ],
     [
@@ -29190,10 +31646,6 @@
       "9000000000000000000"
     ],
     [
-      "0xCA5402558af3322c1e8DC91eb4767544E7D14A7B",
-      "9000000000000000000"
-    ],
-    [
       "0x00bfDe6e8B964224F4c6B8DAD812f2D46bdD9104",
       "9000000000000000000"
     ],
@@ -29287,6 +31739,10 @@
     ],
     [
       "0x28de9F3E706bF24464c70F769FF1ed4EC3502C38",
+      "8000000000000000000"
+    ],
+    [
+      "0xfBDF28EF58b5f116e816307cac095f87f51198A7",
       "8000000000000000000"
     ],
     [
@@ -29539,6 +31995,14 @@
     ],
     [
       "0xd3C9B5CD2677106DC48A4486F5828c8866A015A8",
+      "5000000000000000000"
+    ],
+    [
+      "0x350b6Fb19432269862425d884F9B11E1aeCd31Db",
+      "5000000000000000000"
+    ],
+    [
+      "0x28b5FED8bB7Dc59B0e083786F2ef596D0a357aCB",
       "5000000000000000000"
     ],
     [
@@ -29930,6 +32394,10 @@
       "2000000000000000000"
     ],
     [
+      "0x2f57D9585601579F7932bC91351242cc520f06fb",
+      "2000000000000000000"
+    ],
+    [
       "0x547368B5232C9035443BB2030aA126F471944f2c",
       "1000000000000000000"
     ],
@@ -30099,6 +32567,10 @@
     ],
     [
       "0x07e8421ee2241D49e373100647b9e917820559B3",
+      "1000000000000000000"
+    ],
+    [
+      "0x6d422BFdD653DC8A61316bE7A44D34F7101691C3",
       "1000000000000000000"
     ],
     [
@@ -30606,7 +33078,11 @@
       "0"
     ],
     [
-      "0xF1D2C24BA2fBC8627f18fA117924B8B9d2FF02fE",
+      "0xD24D4f49bfd649396FD93d0ACB24d8A18BC35DFF",
+      "0"
+    ],
+    [
+      "0xce5C443039dDA0d5b102E8F1143fBea8FE5B47e5",
       "0"
     ]
   ]
